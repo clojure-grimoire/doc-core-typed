@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "declare-names", :file "clojure/core/typed.clj", :type :macro, :src "(defmacro declare-names \n  \"Declare names, similar to declare but on the type level.\"\n  [& syms]\n  `(declare-names* '~syms))", :column 1, :line 1176, :macro true, :arglists ([& syms]), :doc "Declare names, similar to declare but on the type level."}

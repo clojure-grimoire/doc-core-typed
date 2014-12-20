@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  warn-on-unannotated-vars*\n  \"Internal use only. Use allow-unannotated-vars\"\n  []\n  nil)", :ns "clojure.core.typed", :name "warn-on-unannotated-vars*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 2094, :doc "Internal use only. Use allow-unannotated-vars"}

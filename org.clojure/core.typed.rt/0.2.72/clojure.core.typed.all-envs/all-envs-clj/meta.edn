@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.all-envs", :name "all-envs-clj", :file "clojure/core/typed/all_envs.clj", :type :fn, :src "(defn all-envs-clj []\n  (impl/with-clojure-impl\n    {:aliases (name-env)\n     :vars (var-env)}))", :column 1, :line 25, :arglists ([])}

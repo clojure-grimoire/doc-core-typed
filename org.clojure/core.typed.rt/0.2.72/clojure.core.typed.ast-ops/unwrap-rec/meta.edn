@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.ast-ops", :name "unwrap-rec", :file "clojure/core/typed/ast_ops.clj", :type :fn, :src "(defn unwrap-rec [{:keys [f type] :as rec} unwrap-id]\n  (replace-frees type \n                 {(:name f) (assoc rec :unwrap-id unwrap-id)}))", :column 1, :line 89, :arglists ([{:keys [f type], :as rec} unwrap-id])}

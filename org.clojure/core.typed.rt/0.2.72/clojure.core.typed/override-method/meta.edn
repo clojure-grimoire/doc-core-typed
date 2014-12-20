@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "override-method", :file "clojure/core/typed.clj", :type :macro, :src "(defmacro override-method \n  \"Override type for qualified method methodsym.\"\n  [methodsym typesyn]\n  `(override-method* '~methodsym '~typesyn))", :column 1, :line 2046, :macro true, :arglists ([methodsym typesyn]), :doc "Override type for qualified method methodsym."}

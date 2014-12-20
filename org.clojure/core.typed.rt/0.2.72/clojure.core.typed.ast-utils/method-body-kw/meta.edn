@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn method-body-kw []\n  (impl/impl-case\n    :clojure :body\n    :cljs :expr))", :ns "clojure.core.typed.ast-utils", :name "method-body-kw", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 97, :arglists ([])}

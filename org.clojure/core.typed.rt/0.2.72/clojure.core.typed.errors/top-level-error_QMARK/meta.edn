@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn top-level-error? [{:keys [type-error] :as exdata}]\n  (boolean (#{:top-level-error} type-error)))", :ns "clojure.core.typed.errors", :name "top-level-error?", :file "clojure/core/typed/errors.clj", :column 1, :line 62, :arglists ([{:keys [type-error], :as exdata}])}

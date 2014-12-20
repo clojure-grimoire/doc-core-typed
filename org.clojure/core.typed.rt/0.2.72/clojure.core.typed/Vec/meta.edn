@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Vec", :type :var, :src nil, :doc "A persistent vector with member type x.\n\n(TFn [[x :variance :covariant]] (clojure.lang.IPersistentVector x))\n", :forms [(Vec t)]}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn binder-names [binder]\n  {:post [(every? symbol? %)]}\n  (map (fn [v]\n         (if (vector? v)\n           (first v)\n           v))\n       binder))", :ns "clojure.core.typed.internal", :name "binder-names", :file "clojure/core/typed/internal.clj", :column 1, :line 208, :arglists ([binder])}

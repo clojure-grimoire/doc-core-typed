@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro top-level-error-thrown? [& body]\n  `(with-ex-info-handlers\n     [top-level-error? (constantly true)]\n     ~@body\n     false))", :macro true, :ns "clojure.core.typed.errors", :name "top-level-error-thrown?", :file "clojure/core/typed/errors.clj", :column 1, :line 65, :arglists ([& body])}

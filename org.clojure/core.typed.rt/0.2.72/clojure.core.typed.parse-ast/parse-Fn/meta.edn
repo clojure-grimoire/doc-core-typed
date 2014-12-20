@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-Fn [[_ & args :as syn]]\n  {:op :Fn\n   :arities (mapv parse-function args)\n   :form syn\n   :children [:arities]})", :ns "clojure.core.typed.parse-ast", :name "parse-Fn", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 773, :arglists ([[_ & args :as syn]])}

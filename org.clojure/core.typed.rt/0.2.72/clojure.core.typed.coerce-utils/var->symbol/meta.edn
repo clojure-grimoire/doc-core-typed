@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn var->symbol [^Var var]\n  {:pre [(var? var)]\n   :post [(symbol? %)\n          (namespace %)]}\n  (let [ns (.ns var)\n        _ (assert ns)]\n    (symbol (str (ns-name ns))\n            (str (.sym var)))))", :ns "clojure.core.typed.coerce-utils", :name "var->symbol", :file "clojure/core/typed/coerce_utils.clj", :column 1, :line 34, :arglists ([var])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-symbol [s]\n  (parse-symbol* s))", :ns "clojure.core.typed.parse-ast", :name "parse-symbol", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 917, :arglists ([s])}

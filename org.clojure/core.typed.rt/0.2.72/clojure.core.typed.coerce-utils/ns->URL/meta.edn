@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ns->URL [nsym]\n  {:pre [(symbol? nsym)]\n   :post [((some-fn #(instance? java.net.URL %)\n                    nil?) \n           %)]}\n  (let [p (ns->file nsym)]\n    (io/resource p)))", :ns "clojure.core.typed.coerce-utils", :name "ns->URL", :file "clojure/core/typed/coerce_utils.clj", :column 1, :line 60, :arglists ([nsym])}

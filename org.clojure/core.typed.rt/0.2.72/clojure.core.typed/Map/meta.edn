@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Map", :type :var, :src nil, :doc "A persistent map with keys k and vals v.\n\n(TFn\n [[k :variance :covariant] [v :variance :covariant]]\n (clojure.lang.IPersistentMap k v))\n", :forms [(Map t t)]}

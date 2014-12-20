@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro with-frees [fs & args]\n  `(binding [*tvar-scope* (merge *tvar-scope* ~fs)]\n     ~@args))", :macro true, :ns "clojure.core.typed.parse-ast", :name "with-frees", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 36, :arglists ([fs & args])}

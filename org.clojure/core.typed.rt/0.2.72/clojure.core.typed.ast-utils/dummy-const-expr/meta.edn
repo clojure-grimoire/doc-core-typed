@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn dummy-const-expr [val env]\n  {:op :const\n   :val val\n   :env env\n   :form val})", :ns "clojure.core.typed.ast-utils", :name "dummy-const-expr", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 91, :arglists ([val env])}

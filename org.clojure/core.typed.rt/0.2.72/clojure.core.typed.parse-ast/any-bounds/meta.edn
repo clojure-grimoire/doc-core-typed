@@ -1,0 +1,1 @@
+{:type :var, :src "(def any-bounds {:op :bounds\n                 :upper-bound {:op :Any}\n                 :lower-bound {:op :U :types []}})", :ns "clojure.core.typed.parse-ast", :name "any-bounds", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 276}

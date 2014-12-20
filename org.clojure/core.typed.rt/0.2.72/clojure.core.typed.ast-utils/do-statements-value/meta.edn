@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn do-statements-value [cexprs]\n  ((impl/impl-case\n     :clojure vec\n     :cljs seq)\n   (butlast cexprs)))", :ns "clojure.core.typed.ast-utils", :name "do-statements-value", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 24, :arglists ([cexprs])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-U\n  [[_U_ & args]]\n  {:op :U\n   :types (mapv parse args)\n   :children [:types]})", :ns "clojure.core.typed.parse-ast", :name "parse-U", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 455, :arglists ([[_U_ & args]])}

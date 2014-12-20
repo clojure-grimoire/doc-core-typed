@@ -1,0 +1,1 @@
+{:clojure.core.typed/special-type true, :ns "clojure.core.typed", :name "U", :file "clojure/core/typed.clj", :type :var, :src "(def ^{:doc \"U represents a union of types\"\n       :forms '[(U type*)]\n       ::special-type true}\n  U)", :column 1, :line 1318, :doc "U represents a union of types", :forms [(U type*)]}

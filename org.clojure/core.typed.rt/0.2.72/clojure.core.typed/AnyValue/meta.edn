@@ -1,0 +1,1 @@
+{:clojure.core.typed/special-type true, :ns "clojure.core.typed", :name "AnyValue", :file "clojure/core/typed.clj", :type :var, :src "(def ^{:doc \"AnyValue contains all Value singleton types\"\n       :forms '[AnyValue]\n       ::special-type true}\n  AnyValue)", :column 1, :line 1313, :doc "AnyValue contains all Value singleton types", :forms [AnyValue]}

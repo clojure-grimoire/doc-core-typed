@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "WriteOnlyPort", :type :var, :src nil, :doc "A write-only port that can write type p\n\n(TFn [[p :variance :contravariant]] (Port2 p t/Nothing))\n", :forms [(WriteOnlyPort t)]}

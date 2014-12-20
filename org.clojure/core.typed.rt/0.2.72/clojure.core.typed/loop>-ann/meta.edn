@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  loop>-ann \n  \"Internal use only. Use loop>\"\n  [loop-of bnding-types]\n  loop-of)", :ns "clojure.core.typed", :name "loop>-ann", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 141, :doc "Internal use only. Use loop>"}

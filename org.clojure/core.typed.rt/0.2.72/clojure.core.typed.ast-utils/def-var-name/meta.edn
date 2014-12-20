@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn def-var-name [expr]\n  {:post [(symbol? %)]}\n  (impl/impl-case\n    :clojure (coerce/var->symbol (:var expr))\n    :cljs (:name expr)))", :ns "clojure.core.typed.ast-utils", :name "def-var-name", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 148, :arglists ([expr])}

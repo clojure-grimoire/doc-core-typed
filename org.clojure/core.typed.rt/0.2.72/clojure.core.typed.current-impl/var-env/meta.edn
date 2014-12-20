@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce var-env (atom {}))", :ns "clojure.core.typed.current-impl", :name "var-env", :file "clojure/core/typed/current_impl.clj", :column 1, :line 6}

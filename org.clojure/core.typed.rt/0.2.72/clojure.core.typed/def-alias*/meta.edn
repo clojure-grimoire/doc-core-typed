@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  def-alias* \n  \"Internal use only. Use def-alias.\"\n  [sym type]\n  nil)", :ns "clojure.core.typed", :name "def-alias*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 1181, :doc "Internal use only. Use def-alias."}

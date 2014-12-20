@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn dummy-var-expr [vsym env]\n  (let [v (resolve vsym)]\n    (assert (var? v))\n    {:op :var\n     :env env\n     :var v}))", :ns "clojure.core.typed.ast-utils", :name "dummy-var-expr", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 78, :arglists ([vsym env])}

@@ -1,0 +1,1 @@
+{:clojure.core.typed/special-type true, :ns "clojure.core.typed", :name "Any", :file "clojure/core/typed.clj", :type :var, :src "(def ^{:doc \"Any is the top type that contains all types.\"\n       :forms '[Any]\n       ::special-type true}\n  Any)", :column 1, :line 1308, :doc "Any is the top type that contains all types.", :forms [Any]}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Id", :type :var, :src nil, :doc "The identity function at the type level.\n\n(TFn [[x :variance :covariant]] x)\n", :forms [Id]}

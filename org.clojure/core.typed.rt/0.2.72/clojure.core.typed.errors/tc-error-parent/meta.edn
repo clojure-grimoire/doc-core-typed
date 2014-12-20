@@ -1,0 +1,1 @@
+{:type :var, :src "(def tc-error-parent ::tc-error-parent)", :ns "clojure.core.typed.errors", :name "tc-error-parent", :file "clojure/core/typed/errors.clj", :column 1, :line 13}

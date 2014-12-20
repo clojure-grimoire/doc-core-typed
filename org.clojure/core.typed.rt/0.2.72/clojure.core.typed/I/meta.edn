@@ -1,0 +1,1 @@
+{:clojure.core.typed/special-type true, :ns "clojure.core.typed", :name "I", :file "clojure/core/typed.clj", :type :var, :src "(def ^{:doc \"I represents an intersection of types\"\n       :forms '[(I type*)]\n       ::special-type true}\n  I)", :column 1, :line 1329, :doc "I represents an intersection of types", :forms [(I type*)]}

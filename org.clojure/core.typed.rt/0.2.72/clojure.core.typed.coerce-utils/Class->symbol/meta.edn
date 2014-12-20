@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Class->symbol [^Class cls]\n  {:pre [(class? cls)]\n   :post [(symbol? %)]}\n  (symbol (.getName cls)))", :ns "clojure.core.typed.coerce-utils", :name "Class->symbol", :file "clojure/core/typed/coerce_utils.clj", :column 1, :line 28, :arglists ([cls])}

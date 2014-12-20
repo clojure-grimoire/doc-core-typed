@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.ast-ops", :name "replace-frees*", :file "clojure/core/typed/ast_ops.clj", :type :fn, :src "(defn replace-frees* [ast replacem]\n  (update-children ast #(-replace-frees % replacem)))", :column 1, :line 73, :arglists ([ast replacem])}

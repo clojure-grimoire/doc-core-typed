@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-caches\n  \"Reset internal type caches.\"\n  []\n  (load-if-needed)\n  ((impl/v 'clojure.core.typed.reset-caches/reset-caches))\n  nil)", :ns "clojure.core.typed", :name "reset-caches", :file "clojure/core/typed.clj", :column 1, :line 55, :doc "Reset internal type caches."}

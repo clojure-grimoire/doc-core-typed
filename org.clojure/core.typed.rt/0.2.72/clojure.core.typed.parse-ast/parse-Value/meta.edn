@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-Value [[f & args :as syn]]\n  (when-not (#{1} (count args))\n    (err/int-error (str \"Wrong arguments to Value: \" syn)))\n  {:op :singleton\n   :val (first args)})", :ns "clojure.core.typed.parse-ast", :name "parse-Value", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 482, :arglists ([[f & args :as syn]])}

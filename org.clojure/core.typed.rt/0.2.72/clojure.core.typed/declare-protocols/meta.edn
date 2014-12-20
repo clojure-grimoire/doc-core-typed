@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "declare-protocols", :file "clojure/core/typed.clj", :type :macro, :src "(defmacro declare-protocols \n  \"Declare protocols, similar to declare but on the type level.\"\n  [& syms]\n  `(declare-protocols* '~syms))", :column 1, :line 1152, :macro true, :arglists ([& syms]), :doc "Declare protocols, similar to declare but on the type level."}

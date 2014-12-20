@@ -1,0 +1,1 @@
+{:clojure.core.typed/special-type true, :ns "clojure.core.typed", :name "Assoc", :file "clojure/core/typed.clj", :type :var, :src "(def ^{:doc \"A type representing an assoc operation\"\n       :forms '[(Assoc type type-pairs*)]\n       ::special-type true}\n  Assoc)", :column 1, :line 1427, :doc "A type representing an assoc operation", :forms [(Assoc type type-pairs*)]}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn var-for-impl [sym]\n  {:pre [((some-fn string? symbol?) sym)]\n   :post [(symbol? %)]}\n  (symbol\n    (impl/impl-case\n      :clojure \"clojure.core.typed\"\n      :cljs \"cljs.core.typed\")\n    (str sym)))", :ns "clojure.core.typed.errors", :name "var-for-impl", :file "clojure/core/typed/errors.clj", :column 1, :line 171, :arglists ([sym])}
