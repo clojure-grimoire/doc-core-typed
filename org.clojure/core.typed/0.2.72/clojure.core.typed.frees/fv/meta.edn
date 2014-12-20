@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn fv \n  \"All frees in type\"\n  [t]\n  {:post [((con/set-c? symbol?) %)]}\n  (set (keys (fv-variances t))))", :ns "clojure.core.typed.frees", :name "fv", :file "clojure/core/typed/frees.clj", :column 1, :line 72, :arglists ([t]), :doc "All frees in type"}

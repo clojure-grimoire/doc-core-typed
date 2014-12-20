@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *inst-ctor-types* nil)", :ns "clojure.core.typed.check", :name "*inst-ctor-types*", :file "clojure/core/typed/check.clj", :column 1, :dynamic true, :line 733}

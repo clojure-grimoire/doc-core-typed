@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type HSet [fixed complete?]\n  \"A constant set\"\n  [(every? Type? fixed)\n   (set? fixed)\n   (con/boolean? complete?)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "HSet-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 589, :arglists ([fixed complete? & {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

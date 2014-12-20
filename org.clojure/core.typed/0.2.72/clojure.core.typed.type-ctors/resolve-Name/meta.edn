@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn resolve-Name [nme]\n  {:pre [(r/Name? nme)]\n   :post [(r/Type? %)]}\n  (let [resolve-name* (t/var> clojure.core.typed.name-env/resolve-name*)]\n    (resolve-name* (:id nme))))", :ns "clojure.core.typed.type-ctors", :name "resolve-Name", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1366, :arglists ([nme])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn RClass-unchecked-ancestors*\n  [rcls]\n  {:pre [(r/RClass? rcls)]\n   :post [((con/sorted-set-c? r/Type?) %)]}\n  ((impl/v 'clojure.core.typed.rclass-ancestor-env/rclass-ancestors)\n   rcls))", :ns "clojure.core.typed.type-ctors", :name "RClass-unchecked-ancestors*", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 949, :arglists ([rcls])}

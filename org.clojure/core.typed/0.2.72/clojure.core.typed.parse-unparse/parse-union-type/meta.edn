@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-union-type [[u & types]]\n  (c/make-Union (doall (map parse-type types))))", :ns "clojure.core.typed.parse-unparse", :name "parse-union-type", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 369, :arglists ([[u & types]])}

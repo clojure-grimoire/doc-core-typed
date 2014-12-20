@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti check (fn [expr & [expected]]\n                  {:pre [((some-fn nil? r/TCResult?) expected)]}\n                  (:op expr)))", :ns "clojure.core.typed.check", :name "check", :file "clojure/core/typed/check.clj", :column 1, :line 136}

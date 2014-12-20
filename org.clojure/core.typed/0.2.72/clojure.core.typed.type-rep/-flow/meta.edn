@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -flow [normal]\n  (FlowSet-maker normal))", :ns "clojure.core.typed.type-rep", :name "-flow", :file "clojure/core/typed/type_rep.clj", :column 1, :line 931, :arglists ([normal])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.example", :name "num-vec2", :file "clojure/core/typed/test/example.clj", :type :fn, :src "(defn num-vec2 [a b]\n  [(if a a 0) (if b b 0)])", :column 1, :line 75, :arglists ([a b])}

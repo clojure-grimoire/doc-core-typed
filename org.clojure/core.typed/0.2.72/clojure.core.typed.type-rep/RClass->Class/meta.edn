@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^Class RClass->Class [^RClass rcls]\n  (coerce/symbol->Class (.the-class rcls)))", :ns "clojure.core.typed.type-rep", :name "RClass->Class", :file "clojure/core/typed/type_rep.clj", :column 1, :line 233, :tag java.lang.Class, :arglists ([rcls])}

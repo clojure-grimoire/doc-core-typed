@@ -1,0 +1,1 @@
+{:type :fn, :src "(def name-ref? (some-fn symbol? (every-pred integer?\n                                            (complement neg?))))", :ns "clojure.core.typed.filter-rep", :name "name-ref?", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 29}

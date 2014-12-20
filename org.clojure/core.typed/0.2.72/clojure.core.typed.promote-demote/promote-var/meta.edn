@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn promote-var [T V]\n  {:pre [(r/AnyType? T)\n         (set? V)\n         (every? symbol? V)]\n   :post [(r/AnyType? %)]}\n  (promote T V))", :ns "clojure.core.typed.promote-demote", :name "promote-var", :file "clojure/core/typed/promote_demote.clj", :column 1, :line 42, :arglists ([T V])}

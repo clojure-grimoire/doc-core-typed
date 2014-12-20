@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -difference [t & without]\n  {:pre [without]}\n  (DifferenceType-maker t (sorted-type-set without)))", :ns "clojure.core.typed.type-rep", :name "-difference", :file "clojure/core/typed/type_rep.clj", :column 1, :line 823, :arglists ([t & without])}

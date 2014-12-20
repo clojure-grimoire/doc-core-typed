@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest implied-atomic?-test\n  (is-clj (implied-atomic? (-not-filter -false 'a)(-not-filter (Un -nil -false) 'a))))", :ns "clojure.core.typed.test.core", :name "implied-atomic?-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 376, :test #<core$fn__23526 clojure.core.typed.test.core$fn__23526@6c231fd9>}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-cljs [s]\n  (impl/with-cljs-impl\n    (parse-type s)))", :ns "clojure.core.typed.parse-unparse", :name "parse-cljs", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 78, :arglists ([s])}

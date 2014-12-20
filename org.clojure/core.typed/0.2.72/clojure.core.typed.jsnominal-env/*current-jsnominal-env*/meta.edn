@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *current-jsnominal-env* nil)", :ns "clojure.core.typed.jsnominal-env", :name "*current-jsnominal-env*", :file "clojure/core/typed/jsnominal_env.clj", :column 1, :dynamic true, :line 30}

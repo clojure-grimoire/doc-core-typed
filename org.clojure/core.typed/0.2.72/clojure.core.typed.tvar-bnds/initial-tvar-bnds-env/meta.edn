@@ -1,0 +1,1 @@
+{:type :var, :src "(def initial-tvar-bnds-env {})", :ns "clojure.core.typed.tvar-bnds", :name "initial-tvar-bnds-env", :file "clojure/core/typed/tvar_bnds.clj", :column 1, :line 27}

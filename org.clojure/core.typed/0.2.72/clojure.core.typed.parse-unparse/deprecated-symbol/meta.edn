@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn deprecated-symbol [sym]\n  {:post [((some-fn nil? r/Type?) %)]}\n  (impl/impl-case\n    :clojure (deprecated-clj-symbol sym)\n    :cljs nil))", :ns "clojure.core.typed.parse-unparse", :name "deprecated-symbol", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 906, :arglists ([sym])}

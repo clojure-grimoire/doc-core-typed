@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest dotimes>-test\n  (is-tc-e (dotimes> [i 100] (inc i)) nil))", :ns "clojure.core.typed.test.core", :name "dotimes>-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1155, :test #<core$fn__25139 clojure.core.typed.test.core$fn__25139@56e8739>}

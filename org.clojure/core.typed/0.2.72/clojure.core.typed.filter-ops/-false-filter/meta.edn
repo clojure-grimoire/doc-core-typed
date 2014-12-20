@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -false-filter [] (-FS fr/-bot fr/-top))", :ns "clojure.core.typed.filter-ops", :name "-false-filter", :file "clojure/core/typed/filter_ops.clj", :column 1, :line 426, :arglists ([])}

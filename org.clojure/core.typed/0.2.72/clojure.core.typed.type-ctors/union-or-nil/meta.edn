@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn union-or-nil [ts]\n  (if (some nil? ts) nil (apply Un ts)))", :ns "clojure.core.typed.type-ctors", :name "union-or-nil", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2160, :arglists ([ts])}

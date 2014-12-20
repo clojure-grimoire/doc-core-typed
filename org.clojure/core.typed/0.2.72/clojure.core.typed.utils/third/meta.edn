@@ -1,0 +1,1 @@
+{:type :fn, :src "(def third (comp second next))", :ns "clojure.core.typed.utils", :name "third", :file "clojure/core/typed/utils.clj", :column 1, :line 94}

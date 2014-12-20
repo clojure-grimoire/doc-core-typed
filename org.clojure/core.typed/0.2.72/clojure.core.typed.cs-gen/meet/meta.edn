@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn meet [s t] (c/In s t))", :ns "clojure.core.typed.cs-gen", :name "meet", :file "clojure/core/typed/cs_gen.clj", :column 1, :line 75, :arglists ([s t])}

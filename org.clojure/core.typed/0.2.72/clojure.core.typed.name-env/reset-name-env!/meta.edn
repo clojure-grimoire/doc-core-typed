@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-name-env! [nme-env]\n  (let [e (current-name-env)]\n    (reset! e nme-env))\n  nil)", :ns "clojure.core.typed.name-env", :name "reset-name-env!", :file "clojure/core/typed/name_env.clj", :column 1, :line 89, :arglists ([nme-env])}

@@ -1,0 +1,1 @@
+{:type :var, :src "(def protocol-name-type ::protocol-name)", :ns "clojure.core.typed.name-env", :name "protocol-name-type", :file "clojure/core/typed/name_env.clj", :column 1, :line 32}

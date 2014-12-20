@@ -1,0 +1,1 @@
+{:type :var, :src "(def datatype-name-type ::datatype-name)", :ns "clojure.core.typed.name-env", :name "datatype-name-type", :file "clojure/core/typed/name_env.clj", :column 1, :line 33}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-nonnilable-method-return [sym m]\n  (swap! METHOD-RETURN-NONNILABLE-ENV assoc sym m)\n  nil)", :ns "clojure.core.typed.method-return-nilables", :name "add-nonnilable-method-return", :file "clojure/core/typed/method_return_nilables.clj", :column 1, :line 14, :arglists ([sym m])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn variance? [v]\n  (contains? variances v))", :ns "clojure.core.typed.type-rep", :name "variance?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 126, :arglists ([v])}

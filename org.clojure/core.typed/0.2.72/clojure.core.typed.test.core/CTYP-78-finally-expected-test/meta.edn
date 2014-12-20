@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-78-finally-expected-test\n  (is (check-ns 'clojure.core.typed.test.finally)))", :ns "clojure.core.typed.test.core", :name "CTYP-78-finally-expected-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2216, :test #<core$fn__27388 clojure.core.typed.test.core$fn__27388@3e028c37>}

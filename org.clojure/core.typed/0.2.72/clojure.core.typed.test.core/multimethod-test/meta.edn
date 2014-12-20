@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest multimethod-test\n  (is (check-ns 'clojure.core.typed.test.mm)))", :ns "clojure.core.typed.test.core", :name "multimethod-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1268, :test #<core$fn__25364 clojure.core.typed.test.core$fn__25364@71693a66>}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJ-PROTOCOL-ENV (atom {} :validator protocol-env?))", :ns "clojure.core.typed.protocol-env", :name "CLJ-PROTOCOL-ENV", :file "clojure/core/typed/protocol_env.clj", :column 1, :line 30}

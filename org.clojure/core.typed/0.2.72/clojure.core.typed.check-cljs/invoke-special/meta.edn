@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti invoke-special (fn [{{:keys [op] :as fexpr} :f :as expr} & expected]\n                                (when (= :var op)\n                                  (-> fexpr :info :name))))", :ns "clojure.core.typed.check-cljs", :name "invoke-special", :file "clojure/core/typed/check_cljs.clj", :column 1, :line 133}

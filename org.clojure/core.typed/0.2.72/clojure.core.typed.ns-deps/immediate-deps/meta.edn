@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn immediate-deps [target-ns]\n  {:pre [(symbol? target-ns)]\n   :post [(t/tc-ignore\n            ((con/set-c? symbol?) %))]}\n  (or (@(current-deps) target-ns)\n      #{}))", :ns "clojure.core.typed.ns-deps", :name "immediate-deps", :file "clojure/core/typed/ns_deps.clj", :column 1, :line 59, :arglists ([target-ns])}

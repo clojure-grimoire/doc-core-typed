@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.promote-demote", :name "ElimVars", :type :var, :src nil, :doc "A set of variables to be eliminated via promotion\n  or demotion.\n\n(t/Set clojure.lang.Symbol)\n"}

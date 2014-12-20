@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn satisfies-bounds?\n  \"True if type t is inside bounds\"\n  [t bnds]\n  (and (sub/subtype? t (:upper-bound bnds))\n       (sub/subtype? (:lower-bound bnds) t)))", :ns "clojure.core.typed.inst", :name "satisfies-bounds?", :file "clojure/core/typed/inst.clj", :column 1, :line 33, :arglists ([t bnds]), :doc "True if type t is inside bounds"}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -tapp [op & rands]\n  (r/TApp-maker op (seq rands)))", :ns "clojure.core.typed.type-ctors", :name "-tapp", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2323, :arglists ([op & rands])}

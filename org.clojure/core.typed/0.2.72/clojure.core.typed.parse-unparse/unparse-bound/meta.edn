@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn unparse-bound [name]\n  {:pre [((some-fn symbol? con/znat?) name)]}\n  (if (symbol? name)\n    (-> name r/make-F r/F-original-name)\n    `(~'B ~name)))", :ns "clojure.core.typed.parse-unparse", :name "unparse-bound", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 1375, :arglists ([name])}

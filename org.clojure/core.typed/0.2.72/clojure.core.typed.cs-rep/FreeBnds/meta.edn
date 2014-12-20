@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.cs-rep", :name "FreeBnds", :type :var, :src nil, :doc "A map of free variable names to their bounds.\n\n(t/Map t/Sym Bounds)\n"}

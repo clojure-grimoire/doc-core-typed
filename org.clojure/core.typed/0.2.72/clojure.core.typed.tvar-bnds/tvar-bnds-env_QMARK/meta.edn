@@ -1,0 +1,1 @@
+{:type :fn, :src "(def tvar-bnds-env? (con/hash-c? symbol? r/Bounds?))", :ns "clojure.core.typed.tvar-bnds", :name "tvar-bnds-env?", :file "clojure/core/typed/tvar_bnds.clj", :column 1, :line 24}

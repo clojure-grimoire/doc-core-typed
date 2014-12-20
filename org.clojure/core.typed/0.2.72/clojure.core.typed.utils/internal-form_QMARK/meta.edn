@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn internal-form? [expr kw]\n  (= kw (:form (first (:statements expr)))))", :ns "clojure.core.typed.utils", :name "internal-form?", :file "clojure/core/typed/utils.clj", :column 1, :line 374, :arglists ([expr kw])}

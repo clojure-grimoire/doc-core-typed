@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn sequential-c? [c?]\n  (every-pred sequential?\n              (every-c? c?)))", :ns "clojure.core.typed.contract-utils", :name "sequential-c?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 73, :arglists ([c?])}

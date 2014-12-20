@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.type-rep", :name "Variance", :type :var, :src nil, :doc "Keywords that represent a certain variance\n\n(t/U ':constant ':covariant ':contravariant ':invariant ':dotted)\n"}

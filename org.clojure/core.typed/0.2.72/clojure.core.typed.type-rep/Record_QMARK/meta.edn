@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Record? [^DataType a]\n  (boolean\n    (when (DataType? a)\n      (.record? a))))", :ns "clojure.core.typed.type-rep", :name "Record?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 279, :arglists ([a])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "eret", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro eret [f]\n  `(let [ret# (-> ~(tc-common* f {}) :ret)]\n     (assert (r/TCResult? ret#))\n     ret#))", :column 1, :line 139, :macro true, :arglists ([f])}

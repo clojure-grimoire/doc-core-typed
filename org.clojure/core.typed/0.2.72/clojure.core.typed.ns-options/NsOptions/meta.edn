@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.ns-options", :name "NsOptions", :type :var, :src nil, :doc "Options for namespaces\n\n(t/HMap :optional {:warn-on-unannotated-vars Boolean})\n"}

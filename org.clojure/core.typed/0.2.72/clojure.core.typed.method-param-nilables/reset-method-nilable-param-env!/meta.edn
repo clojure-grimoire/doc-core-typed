@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-method-nilable-param-env! [m]\n  (reset! METHOD-PARAM-NILABLE-ENV m)\n  nil)", :ns "clojure.core.typed.method-param-nilables", :name "reset-method-nilable-param-env!", :file "clojure/core/typed/method_param_nilables.clj", :column 1, :line 14, :arglists ([m])}

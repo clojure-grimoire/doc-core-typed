@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-ns-opts! []\n  (reset! ns-opts (init-ns-opts))\n  nil)", :ns "clojure.core.typed.ns-options", :name "reset-ns-opts!", :file "clojure/core/typed/ns_options.clj", :column 1, :line 22, :arglists ([])}

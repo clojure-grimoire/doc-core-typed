@@ -1,0 +1,1 @@
+{:type :var, :src "(def variances #{:constant :covariant :contravariant :invariant :dotted})", :ns "clojure.core.typed.type-rep", :name "variances", :file "clojure/core/typed/type_rep.clj", :column 1, :line 123}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn make-FnIntersection [& fns]\n  {:pre [(every? Function? fns)]}\n  (FnIntersection-maker fns))", :ns "clojure.core.typed.type-rep", :name "make-FnIntersection", :file "clojure/core/typed/type_rep.clj", :column 1, :line 800, :arglists ([& fns])}

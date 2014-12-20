@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.tools-analyzer-jvm-ann", :name "Env", :type :var, :src nil, :doc "\n\n(t/HMap\n :mandatory\n {:locals (t/Map t/Symbol t/Any),\n  :context (t/U ':return ':statement ':expr),\n  :ns t/Symbol}\n :optional\n {:this t/Any})\n"}

@@ -1,0 +1,1 @@
+{:type :var, :src "(def -top (TopFilter-maker))", :ns "clojure.core.typed.filter-rep", :name "-top", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 52}

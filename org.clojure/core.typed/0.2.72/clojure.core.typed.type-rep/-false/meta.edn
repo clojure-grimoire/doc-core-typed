@@ -1,0 +1,1 @@
+{:type :var, :src "(def -false (-val false))", :ns "clojure.core.typed.type-rep", :name "-false", :file "clojure/core/typed/type_rep.clj", :column 1, :line 409}

@@ -1,0 +1,1 @@
+{:type :macro, :src "(u/add-defmethod-generator invoke-apply)", :macro true, :ns "clojure.core.typed.check", :name "add-invoke-apply-method", :file "clojure/core/typed/check.clj", :column 1, :line 245, :arglists ([nme params & body])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord MyRecord [a]\n  Object\n  (toString [this] nil))", :ns "clojure.core.typed.test.records", :name "map->MyRecord", :file "clojure/core/typed/test/records.clj", :column 1, :line 9, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.records.MyRecord, taking a map of keywords to field values."}

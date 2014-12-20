@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type F [name]\n  \"A named free variable\"\n  [(symbol? name)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "F-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 163, :arglists ([name & {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

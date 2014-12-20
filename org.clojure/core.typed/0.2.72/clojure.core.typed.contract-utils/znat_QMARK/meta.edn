@@ -1,0 +1,1 @@
+{:type :fn, :src "(def znat? (every-pred integer? (complement neg?)))", :ns "clojure.core.typed.contract-utils", :name "znat?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 19}

@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:dynamic *TypeFn-variance-check* true)", :ns "clojure.core.typed.type-ctors", :name "*TypeFn-variance-check*", :file "clojure/core/typed/type_ctors.clj", :column 1, :dynamic true, :line 1064}

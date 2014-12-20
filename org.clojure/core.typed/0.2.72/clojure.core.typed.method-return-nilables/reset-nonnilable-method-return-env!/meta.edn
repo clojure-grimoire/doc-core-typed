@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-nonnilable-method-return-env! [m]\n  (reset! METHOD-RETURN-NONNILABLE-ENV m)\n  nil)", :ns "clojure.core.typed.method-return-nilables", :name "reset-nonnilable-method-return-env!", :file "clojure/core/typed/method_return_nilables.clj", :column 1, :line 18, :arglists ([m])}

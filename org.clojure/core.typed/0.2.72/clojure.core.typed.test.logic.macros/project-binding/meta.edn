@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "project-binding", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn project-binding [s]\n  (fn [var]\n    `(~var (cljs.core.logic/-walk* ~s ~var))))", :column 1, :line 145, :arglists ([s])}

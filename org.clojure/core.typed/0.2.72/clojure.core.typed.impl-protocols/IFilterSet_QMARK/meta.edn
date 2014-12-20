@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn IFilterSet? [a]\n  (instance? clojure.core.typed.impl_protocols.IFilterSet a))", :ns "clojure.core.typed.impl-protocols", :name "IFilterSet?", :file "clojure/core/typed/impl_protocols.clj", :column 1, :line 57, :arglists ([a])}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce subtype-cache (atom {}))", :ns "clojure.core.typed.subtype", :name "subtype-cache", :file "clojure/core/typed/subtype.clj", :column 1, :line 72}

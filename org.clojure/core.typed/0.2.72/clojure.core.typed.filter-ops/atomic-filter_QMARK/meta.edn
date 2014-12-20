@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn atomic-filter? [a]\n  (boolean \n    ((some-fn fr/TypeFilter? fr/NotTypeFilter?\n              fr/TopFilter? fr/BotFilter?) \n     a)))", :ns "clojure.core.typed.filter-ops", :name "atomic-filter?", :file "clojure/core/typed/filter_ops.clj", :column 1, :line 418, :arglists ([a])}

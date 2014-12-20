@@ -1,0 +1,1 @@
+{:type :fn, :src "(def set-difference (fnil set/difference #{}))", :ns "clojure.core.typed.nilsafe-utils", :name "set-difference", :file "clojure/core/typed/nilsafe_utils.clj", :column 1, :line 20}

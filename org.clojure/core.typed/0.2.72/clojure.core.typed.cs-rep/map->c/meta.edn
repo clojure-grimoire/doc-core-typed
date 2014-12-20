@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/defrecord c [S X T bnds]\n  \"A type constraint on a variable within an upper and lower bound\"\n  [(r/Type? S)\n   (symbol? X)\n   (r/Type? T)\n   (r/Bounds? bnds)])", :ns "clojure.core.typed.cs-rep", :name "map->c", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 61, :arglists ([{:as m__383__auto__, :keys [S X T bnds]}]), :doc ""}

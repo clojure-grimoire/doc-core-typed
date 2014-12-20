@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Protocol-normal-extenders\n  [p]\n  (set (extenders @(resolve-Protocol p))))", :ns "clojure.core.typed.type-ctors", :name "Protocol-normal-extenders", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 675, :arglists ([p])}

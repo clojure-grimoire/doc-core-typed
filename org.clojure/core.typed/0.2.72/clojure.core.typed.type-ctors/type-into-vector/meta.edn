@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn type-into-vector [x] (if (r/Union? x) (:types x) [x]))", :ns "clojure.core.typed.type-ctors", :name "type-into-vector", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2143, :arglists ([x])}

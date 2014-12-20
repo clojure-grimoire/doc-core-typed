@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn fi\n  \"All index variables in type (dotted bounds, etc.)\"\n  [t]\n  {:post [((con/set-c? symbol?) %)]}\n  (set (keys (idx-variances t))))", :ns "clojure.core.typed.frees", :name "fi", :file "clojure/core/typed/frees.clj", :column 1, :line 79, :arglists ([t]), :doc "All index variables in type (dotted bounds, etc.)"}

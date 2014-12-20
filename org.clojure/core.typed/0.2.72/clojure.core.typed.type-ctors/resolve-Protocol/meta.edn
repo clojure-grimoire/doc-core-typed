@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn resolve-Protocol\n  [{:keys [the-var]}]\n  {:post [(var? %)]}\n  (let [v (resolve the-var)]\n    (assert (var? v) (str \"Cannot resolve protocol: \" the-var))\n    v))", :ns "clojure.core.typed.type-ctors", :name "resolve-Protocol", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 667, :arglists ([{:keys [the-var]}])}

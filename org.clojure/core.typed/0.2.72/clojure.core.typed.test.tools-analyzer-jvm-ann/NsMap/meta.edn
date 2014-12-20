@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.tools-analyzer-jvm-ann", :name "NsMap", :type :var, :src nil, :doc "\n\n(t/HMap\n :mandatory\n {:mappings (t/Map t/Symbol t/Any),\n  :aliases (t/Map t/Symbol t/Symbol),\n  :ns t/Symbol})\n"}

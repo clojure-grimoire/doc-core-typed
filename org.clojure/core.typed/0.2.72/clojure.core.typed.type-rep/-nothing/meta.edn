@@ -1,0 +1,1 @@
+{:type :var, :src "(def -nothing (Bottom))", :ns "clojure.core.typed.type-rep", :name "-nothing", :file "clojure/core/typed/type_rep.clj", :column 1, :line 90}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-object NoObject []\n  \"Represents no info about the object of this expression\n  should only be used for parsing type annotations and expected types\"\n  []\n  :methods\n  [p/IRObject])", :ns "clojure.core.typed.object-rep", :name "NoObject?", :file "clojure/core/typed/object_rep.clj", :column 1, :line 66, :arglists ([a__2329__auto__])}

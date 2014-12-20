@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/defrecord cset-entry [fixed dmap]\n  \"\"\n  [((con/hash-c? symbol? c?) fixed)\n   (dmap? dmap)])", :ns "clojure.core.typed.cs-rep", :name "->cset-entry", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 123, :arglists ([fixed dmap]), :doc ""}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn declare-name* [sym]\n  {:pre [(symbol? sym)\n         (namespace sym)]}\n  (add-type-name sym declared-name-type)\n  nil)", :ns "clojure.core.typed.name-env", :name "declare-name*", :file "clojure/core/typed/name_env.clj", :column 1, :line 113, :arglists ([sym])}

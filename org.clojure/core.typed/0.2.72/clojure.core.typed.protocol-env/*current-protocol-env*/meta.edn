@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *current-protocol-env* nil)", :ns "clojure.core.typed.protocol-env", :name "*current-protocol-env*", :file "clojure/core/typed/protocol_env.clj", :column 1, :dynamic true, :line 22}

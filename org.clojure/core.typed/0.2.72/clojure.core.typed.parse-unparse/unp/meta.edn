@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn unp [t] (prn (unparse-type t)))", :ns "clojure.core.typed.parse-unparse", :name "unp", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 1261, :arglists ([t])}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic \n  *current-dt-ancestors* nil)", :ns "clojure.core.typed.datatype-ancestor-env", :name "*current-dt-ancestors*", :file "clojure/core/typed/datatype_ancestor_env.clj", :column 1, :dynamic true, :line 41}

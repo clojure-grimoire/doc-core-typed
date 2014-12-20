@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn init-deps [] \n  {})", :ns "clojure.core.typed.ns-deps", :name "init-deps", :file "clojure/core/typed/ns_deps.clj", :column 1, :line 17, :arglists ([])}

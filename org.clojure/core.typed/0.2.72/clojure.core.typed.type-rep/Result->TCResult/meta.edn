@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Result->TCResult [{:keys [t fl o] :as r}]\n  {:pre [(Result? r)]\n   :post [(TCResult? %)]}\n  (ret t fl o))", :ns "clojure.core.typed.type-rep", :name "Result->TCResult", :file "clojure/core/typed/type_rep.clj", :column 1, :line 870, :arglists ([{:keys [t fl o], :as r}])}

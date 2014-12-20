@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn supertype-of-one-arr [A s ts]\n  (some #(handle-failure \n           (arr-subtype A % s))\n        ts))", :ns "clojure.core.typed.subtype", :name "supertype-of-one-arr", :file "clojure/core/typed/subtype.clj", :column 1, :line 1029, :arglists ([A s ts])}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJ-USED-VARS (atom #{} :validator (con/set-c? (every-pred symbol? namespace))))", :ns "clojure.core.typed.var-env", :name "CLJ-USED-VARS", :file "clojure/core/typed/var_env.clj", :column 1, :line 18}

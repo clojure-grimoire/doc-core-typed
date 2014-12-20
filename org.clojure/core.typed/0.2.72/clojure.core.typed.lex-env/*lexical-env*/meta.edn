@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *lexical-env* (-PropEnv {} #{}))", :ns "clojure.core.typed.lex-env", :name "*lexical-env*", :file "clojure/core/typed/lex_env.clj", :column 1, :dynamic true, :line 23}

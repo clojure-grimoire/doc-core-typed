@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn free-in-scope\n  \"Find the free scoped as name\"\n  [name]\n  {:pre [(symbol? name)]\n   :post [((some-fn nil? r/F?) %)]}\n  (tvar/*current-tvars* name))", :ns "clojure.core.typed.free-ops", :name "free-in-scope", :file "clojure/core/typed/free_ops.clj", :column 1, :line 41, :arglists ([name]), :doc "Find the free scoped as name"}

@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro add-default-fold-case [ty fld-fn]\n  `(add-fold-case fold-rhs-default ~ty ~fld-fn))", :macro true, :ns "clojure.core.typed.fold-rep", :name "add-default-fold-case", :file "clojure/core/typed/fold_rep.clj", :column 1, :line 34, :arglists ([ty fld-fn])}

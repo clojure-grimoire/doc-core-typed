@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type FlowSet [normal]\n  \"The filter that is true when an expression returns normally ie. not an exception.\"\n  [(p/IFilter? normal)]\n  :methods\n  [p/IFilter])", :ns "clojure.core.typed.type-rep", :name "FlowSet?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 914, :arglists ([a__2329__auto__])}

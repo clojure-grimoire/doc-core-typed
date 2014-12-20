@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type IntegerCLJS []\n  \"Primitive integer in CLJS\"\n  []\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "IntegerCLJS-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 1073, :arglists ([& {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

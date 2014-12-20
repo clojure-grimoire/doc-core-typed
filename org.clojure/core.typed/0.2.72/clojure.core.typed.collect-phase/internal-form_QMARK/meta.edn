@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn internal-form? [expr]\n  (u/internal-form? expr ::t/special-collect))", :ns "clojure.core.typed.collect-phase", :name "internal-form?", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 81, :arglists ([expr])}

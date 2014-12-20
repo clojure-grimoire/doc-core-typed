@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn inc-sequence-number []\n  (swap! next-sequence-number inc))", :ns "clojure.core.typed.utils", :name "inc-sequence-number", :file "clojure/core/typed/utils.clj", :column 1, :line 126, :arglists ([])}

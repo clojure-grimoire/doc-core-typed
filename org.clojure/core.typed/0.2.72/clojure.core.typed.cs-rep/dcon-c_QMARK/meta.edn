@@ -1,0 +1,1 @@
+{:type :fn, :src "(def dcon-c? (some-fn dcon? dcon-exact? dcon-dotted?))", :ns "clojure.core.typed.cs-rep", :name "dcon-c?", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 99}

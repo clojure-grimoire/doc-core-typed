@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *check-fn-method1-checkfn* nil)", :ns "clojure.core.typed.check.fn-method-utils", :name "*check-fn-method1-checkfn*", :file "clojure/core/typed/check/fn_method_utils.clj", :column 1, :dynamic true, :line 9}

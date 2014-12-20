@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.type-ctors", :name "TypeMap", :type :var, :src nil, :doc "A regular map with types as keys and vals.\n\n(t/Map r/Type r/Type)\n"}

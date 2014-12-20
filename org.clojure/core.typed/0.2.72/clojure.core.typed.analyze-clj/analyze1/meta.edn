@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn analyze1 [form env]\n  (taj/analyze+eval form env {:bindings {#'ta/macroexpand-1 macroexpand-1}}))", :ns "clojure.core.typed.analyze-clj", :name "analyze1", :file "clojure/core/typed/analyze_clj.clj", :column 1, :line 107, :arglists ([form env])}

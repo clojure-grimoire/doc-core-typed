@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn simplify-In [t]\n  {:pre [(r/Intersection? t)]}\n  (let [mi (apply c/In (:types t))]\n    (if (r/Intersection? mi)\n      (:types mi)\n      [mi])))", :ns "clojure.core.typed.subtype", :name "simplify-In", :file "clojure/core/typed/subtype.clj", :column 1, :line 128, :arglists ([t])}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJ-TYPED-DEPS (atom (init-deps) :validator dep-map?))", :ns "clojure.core.typed.ns-deps", :name "CLJ-TYPED-DEPS", :file "clojure/core/typed/ns_deps.clj", :column 1, :line 39}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn currently-subtyping? []\n  (boolean (seq *sub-current-seen*)))", :ns "clojure.core.typed.subtype", :name "currently-subtyping?", :file "clojure/core/typed/subtype.clj", :column 1, :line 52, :arglists ([])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -hset [fixed & {:keys [complete?] :or {complete? true}}]\n  (HSet-maker fixed complete?))", :ns "clojure.core.typed.type-rep", :name "-hset", :file "clojure/core/typed/type_rep.clj", :column 1, :line 598, :arglists ([fixed & {:keys [complete?], :or {complete? true}}])}

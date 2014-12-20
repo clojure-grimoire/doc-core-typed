@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.bootstrap-cljs", :name "base-aliases", :file "clojure/core/typed/bootstrap_cljs.clj", :type :macro, :src "(defmacro base-aliases \n  \"Define base aliases\"\n  []\n  `(do ~@(map #(list 'def %) (concat -base-aliases -specials))))", :column 1, :line 18, :macro true, :arglists ([]), :doc "Define base aliases"}

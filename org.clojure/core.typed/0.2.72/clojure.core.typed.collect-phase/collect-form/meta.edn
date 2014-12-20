@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn collect-form [form]\n  (let [ast (ana-clj/ast-for-form form)]\n    (collect-ast ast)))", :ns "clojure.core.typed.collect-phase", :name "collect-form", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 72, :arglists ([form])}

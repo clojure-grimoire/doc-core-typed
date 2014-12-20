@@ -1,0 +1,1 @@
+{:type :fn, :src "(t/tc-ignore\n(defn -extends [clss & {:keys [without]}]\n  (r/Extends-maker (r/sorted-type-set clss) (r/sorted-type-set without)))\n  )", :ns "clojure.core.typed.type-ctors", :name "-extends", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2103, :arglists ([clss & {:keys [without]}])}

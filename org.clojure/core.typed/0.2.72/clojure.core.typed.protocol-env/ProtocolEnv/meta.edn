@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.protocol-env", :name "ProtocolEnv", :type :var, :src nil, :doc "A map mapping protocol symbols their types.\n\n(t/Map t/Sym r/Type)\n"}

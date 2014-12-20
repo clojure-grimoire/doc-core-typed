@@ -1,0 +1,1 @@
+{:type :fn, :src "(def parse-hvec-types (parse-types-with-rest-drest\n                        \"Invalid heterogeneous vector syntax:\"))", :ns "clojure.core.typed.parse-unparse", :name "parse-hvec-types", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 602}

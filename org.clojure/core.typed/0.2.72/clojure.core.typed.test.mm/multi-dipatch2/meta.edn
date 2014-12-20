@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti multi-dipatch2 (fn [a]\n                           [(+ 2 3 4 2) (class a)]))", :ns "clojure.core.typed.test.mm", :name "multi-dipatch2", :file "clojure/core/typed/test/mm.clj", :column 1, :line 42}

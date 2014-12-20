@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn update-name-env! [nme-env]\n  (let [e (current-name-env)]\n    (swap! e (t/fn [n :- NameEnv]\n               (merge n nme-env))))\n  nil)", :ns "clojure.core.typed.name-env", :name "update-name-env!", :file "clojure/core/typed/name_env.clj", :column 1, :line 82, :arglists ([nme-env])}

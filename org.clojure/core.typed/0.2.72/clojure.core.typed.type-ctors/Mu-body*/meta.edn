@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Mu-body* [name t]\n  {:pre [(r/Mu? t)\n         (symbol? name)]}\n  (instantiate name (p/mu-scope t)))", :ns "clojure.core.typed.type-ctors", :name "Mu-body*", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1410, :arglists ([name t])}

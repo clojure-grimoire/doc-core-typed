@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.datatype-ancestor-env", :name "DTAncestorEnv", :type :var, :src nil, :doc "Environment mapping datatype names to sets of ancestor types.\n\n(t/Map t/Sym (t/Set r/ScopedType))\n"}

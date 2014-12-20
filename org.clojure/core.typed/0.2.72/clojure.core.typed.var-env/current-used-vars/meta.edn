@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn current-used-vars []\n  (let [env *current-used-vars*]\n    (assert env \"No used var env bound\")\n    env))", :ns "clojure.core.typed.var-env", :name "current-used-vars", :file "clojure/core/typed/var_env.clj", :column 1, :line 38, :arglists ([])}

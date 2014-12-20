@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn tvar-bnds-fail\n  \"Returns the bounds of tvar. Throws an exception if not found\"\n  [var]\n  {:post [%]}\n  (lookup-tvar-bnds var))", :ns "clojure.core.typed.tvar-bnds", :name "tvar-bnds-fail", :file "clojure/core/typed/tvar_bnds.clj", :column 1, :line 38, :arglists ([var]), :doc "Returns the bounds of tvar. Throws an exception if not found"}

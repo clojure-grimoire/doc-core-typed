@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn is-var-mutated? [id]\n  (contains? *mutated-bindings* id))", :ns "clojure.core.typed.type-rep", :name "is-var-mutated?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 910, :arglists ([id])}

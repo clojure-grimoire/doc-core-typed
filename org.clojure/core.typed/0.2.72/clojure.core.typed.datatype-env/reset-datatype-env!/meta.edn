@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-datatype-env! [new-env]\n  (assert-datatype-env)\n  (t/when-let-fail [a *current-datatype-env*]\n    (reset! a new-env)))", :ns "clojure.core.typed.datatype-env", :name "reset-datatype-env!", :file "clojure/core/typed/datatype_env.clj", :column 1, :line 68, :arglists ([new-env])}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *cs-current-seen* #{})", :ns "clojure.core.typed.cs-gen", :name "*cs-current-seen*", :file "clojure/core/typed/cs_gen.clj", :column 1, :dynamic true, :line 273}

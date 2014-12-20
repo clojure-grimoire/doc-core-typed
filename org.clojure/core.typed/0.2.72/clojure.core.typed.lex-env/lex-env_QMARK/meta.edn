@@ -1,0 +1,1 @@
+{:type :fn, :src "(def lex-env? (con/hash-c? (every-pred symbol? (complement namespace)) r/Type?))", :ns "clojure.core.typed.lex-env", :name "lex-env?", :file "clojure/core/typed/lex_env.clj", :column 1, :line 10}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn class-isa? \n  \"A faster version of isa?, both parameters must be classes\"\n  [s ^Class t]\n  (.isAssignableFrom t s))", :ns "clojure.core.typed.subtype", :name "class-isa?", :file "clojure/core/typed/subtype.clj", :column 1, :line 1347, :arglists ([s t]), :doc "A faster version of isa?, both parameters must be classes"}

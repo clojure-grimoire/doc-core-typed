@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn typed-ns-opts [ns]\n  (-> ns meta :core.typed))", :ns "clojure.core.typed.utils", :name "typed-ns-opts", :file "clojure/core/typed/utils.clj", :column 1, :line 332, :arglists ([ns])}

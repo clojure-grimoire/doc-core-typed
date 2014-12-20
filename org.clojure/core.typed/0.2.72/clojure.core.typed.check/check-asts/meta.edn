@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn check-asts [asts]\n  (doall\n    (for [ast asts]\n      (check-expr ast))))", :ns "clojure.core.typed.check", :name "check-asts", :file "clojure/core/typed/check.clj", :column 1, :line 113, :arglists ([asts])}

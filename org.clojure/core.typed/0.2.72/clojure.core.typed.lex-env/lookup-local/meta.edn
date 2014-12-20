@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn lookup-local [sym]\n  (-> *lexical-env* :l sym))", :ns "clojure.core.typed.lex-env", :name "lookup-local", :file "clojure/core/typed/lex_env.clj", :column 1, :line 30, :arglists ([sym])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn get-rclass \n  \"Returns the RClass with class symbol csym.\n  Returns nil if not found.\"\n  [csym]\n  (@RESTRICTED-CLASS csym))", :ns "clojure.core.typed.rclass-env", :name "get-rclass", :file "clojure/core/typed/rclass_env.clj", :column 1, :line 15, :arglists ([csym]), :doc "Returns the RClass with class symbol csym.\n  Returns nil if not found."}

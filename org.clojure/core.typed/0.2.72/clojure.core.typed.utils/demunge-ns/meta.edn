@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn demunge-ns [nsym]\n  (symbol (clojure.repl/demunge (str nsym))))", :ns "clojure.core.typed.utils", :name "demunge-ns", :file "clojure/core/typed/utils.clj", :column 1, :line 336, :arglists ([nsym])}

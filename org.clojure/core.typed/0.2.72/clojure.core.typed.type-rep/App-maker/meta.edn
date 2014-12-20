@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type App [rator rands]\n  \"An application of a polymorphic type to type arguments\"\n  [(Type? rator)\n   (every? Type? rands)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "App-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 368, :arglists ([rator rands & {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

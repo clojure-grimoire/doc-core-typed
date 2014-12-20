@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn allowed-hmap-key? [k]\n  (keyword-value? k))", :ns "clojure.core.typed.type-ctors", :name "allowed-hmap-key?", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 132, :arglists ([k])}

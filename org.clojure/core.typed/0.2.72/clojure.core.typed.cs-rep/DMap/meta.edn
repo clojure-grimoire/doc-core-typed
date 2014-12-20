@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.cs-rep", :name "DMap", :type :var, :src nil, :doc "Map of dotted free symbols to constraints, wrapped\n  in a dmap constructor.\n\ndmap\n"}

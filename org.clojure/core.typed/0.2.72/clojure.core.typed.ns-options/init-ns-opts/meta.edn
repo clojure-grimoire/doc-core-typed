@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn init-ns-opts []\n  {})", :ns "clojure.core.typed.ns-options", :name "init-ns-opts", :file "clojure/core/typed/ns_options.clj", :column 1, :line 15, :arglists ([])}

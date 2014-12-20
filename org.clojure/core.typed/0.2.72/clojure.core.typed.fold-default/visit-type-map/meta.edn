@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn visit-type-map [m f]\n  (into {} (for [[k v] m]\n             [(f k) (f v)])))", :ns "clojure.core.typed.fold-default", :name "visit-type-map", :file "clojure/core/typed/fold_default.clj", :column 1, :line 206, :arglists ([m f])}

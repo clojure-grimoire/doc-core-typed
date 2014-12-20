@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type LTRange [n]\n  \"The type of all numbers less than n\"\n  [(number? n)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "LTRange?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 780, :arglists ([a__2329__auto__])}

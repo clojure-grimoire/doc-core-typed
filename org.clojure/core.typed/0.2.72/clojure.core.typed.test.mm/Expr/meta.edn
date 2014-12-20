@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.mm", :name "Expr", :type :var, :src nil, :doc "\n\n(t/U '{:op ':test1, :a Number, :b Number} '{:op ':test2})\n"}

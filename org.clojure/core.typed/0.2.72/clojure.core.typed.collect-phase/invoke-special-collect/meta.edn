@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti invoke-special-collect (fn [expr]\n                                   (when-let [var (-> expr :fn :var)]\n                                     (coerce/var->symbol var))))", :ns "clojure.core.typed.collect-phase", :name "invoke-special-collect", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 108}

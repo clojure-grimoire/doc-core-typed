@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-In-cache []\n  (reset! In-cache {})\n  (reset! intersect-cache {})\n  nil)", :ns "clojure.core.typed.type-ctors", :name "reset-In-cache", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 382, :arglists ([])}

@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro sub-clj? [s t]\n  `(impl/with-clojure-impl\n     (subtype? (prs/parse-type '~s)\n               (prs/parse-type '~t))))", :macro true, :ns "clojure.core.typed.subtype", :name "sub-clj?", :file "clojure/core/typed/subtype.clj", :column 1, :line 1451, :arglists ([s t])}

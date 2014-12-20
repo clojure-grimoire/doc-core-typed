@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-object NextPE []\n  \"A path calling clojure.core/next\"\n  [])", :ns "clojure.core.typed.path-rep", :name "NextPE-maker", :file "clojure/core/typed/path_rep.clj", :column 1, :line 32, :arglists ([& {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

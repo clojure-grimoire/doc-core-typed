@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn collect-asts [asts]\n  (doseq [ast asts]\n    (collect ast)))", :ns "clojure.core.typed.collect-cljs", :name "collect-asts", :file "clojure/core/typed/collect_cljs.clj", :column 1, :line 33, :arglists ([asts])}

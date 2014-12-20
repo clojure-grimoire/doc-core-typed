@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type Name [id]\n  \"A late bound name\"\n  [((every-pred symbol?\n                (some-fn namespace #(some #{\\.} (str %))))\n     id)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "Name?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 349, :arglists ([a__2329__auto__])}

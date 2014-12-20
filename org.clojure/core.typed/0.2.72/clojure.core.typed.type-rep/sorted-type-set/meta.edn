@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn sorted-type-set [ts]\n  (apply sorted-set-by u/type-comparator ts))", :ns "clojure.core.typed.type-rep", :name "sorted-type-set", :file "clojure/core/typed/type_rep.clj", :column 1, :line 74, :arglists ([ts])}

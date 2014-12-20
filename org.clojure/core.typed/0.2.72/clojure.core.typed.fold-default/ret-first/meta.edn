@@ -1,0 +1,1 @@
+{:type :fn, :src "(def ret-first (fn [a & rest] a))", :ns "clojure.core.typed.fold-default", :name "ret-first", :file "clojure/core/typed/fold_default.clj", :column 1, :line 237}

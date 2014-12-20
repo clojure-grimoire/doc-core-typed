@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn get-declared-kind [sym]\n  (assert-declared-kinds)\n  (if-let [tfn (declared-kind-or-nil sym)]\n    tfn\n    (err/int-error (str \"No declared kind for Name \" sym))))", :ns "clojure.core.typed.declared-kind-env", :name "get-declared-kind", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :line 35, :arglists ([sym])}

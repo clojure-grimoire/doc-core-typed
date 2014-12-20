@@ -1,0 +1,1 @@
+{:type :fn, :src "(defspecial object)", :ns "clojure.core.typed.utils", :name "object-comparator", :file "clojure/core/typed/utils.clj", :column 1, :line 286, :arglists ([t1__2333__auto__ t2__2334__auto__])}

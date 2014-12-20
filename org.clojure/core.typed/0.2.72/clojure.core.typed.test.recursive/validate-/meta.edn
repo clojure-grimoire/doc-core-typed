@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.recursive", :doc "Evaluates the validator.", :arglists ([this value]), :name "validate-"}

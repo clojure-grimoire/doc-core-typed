@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn KwArgsSeq->HMap [kws]\n  {:pre [(r/KwArgsSeq? kws)]\n   :post [(r/Type? %)]}\n  (make-HMap :mandatory (:mandatory kws) \n             :optional (:optional kws)))", :ns "clojure.core.typed.type-ctors", :name "KwArgsSeq->HMap", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2121, :arglists ([kws])}

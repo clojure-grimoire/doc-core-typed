@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti instance-method-special (fn [expr & args]\n                                    {:post [((some-fn nil? symbol?) %)]}\n                                    (cu/MethodExpr->qualsym expr)))", :ns "clojure.core.typed.check", :name "instance-method-special", :file "clojure/core/typed/check.clj", :column 1, :line 250}

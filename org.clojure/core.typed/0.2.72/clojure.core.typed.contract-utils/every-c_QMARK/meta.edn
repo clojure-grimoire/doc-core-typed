@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn every-c? [c]\n  #(every? c %))", :ns "clojure.core.typed.contract-utils", :name "every-c?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 14, :arglists ([c])}

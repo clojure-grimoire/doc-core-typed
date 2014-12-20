@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn init-jsnominal-entry [nom]\n  {:jsnominal nom\n   :fields {}\n   :methods {}\n   :ctors nil\n   :ancestors #{}})", :ns "clojure.core.typed.jsnominal-env", :name "init-jsnominal-entry", :file "clojure/core/typed/jsnominal_env.clj", :column 1, :line 44, :arglists ([nom])}

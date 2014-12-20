@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ret-f [r]\n  {:pre [(TCResult? r)]\n   :post [(p/IFilterSet? %)]}\n  (:fl r))", :ns "clojure.core.typed.type-rep", :name "ret-f", :file "clojure/core/typed/type_rep.clj", :column 1, :line 962, :arglists ([r])}

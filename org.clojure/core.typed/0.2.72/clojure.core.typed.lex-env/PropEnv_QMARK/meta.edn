@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/defrecord PropEnv [l props]\n  \"A lexical environment l, props is a list of known propositions\"\n  [(lex-env? l)\n   (set? props)\n   (every? fr/Filter? props)])", :ns "clojure.core.typed.lex-env", :name "PropEnv?", :file "clojure/core/typed/lex_env.clj", :column 1, :line 12, :arglists ([r__382__auto__])}

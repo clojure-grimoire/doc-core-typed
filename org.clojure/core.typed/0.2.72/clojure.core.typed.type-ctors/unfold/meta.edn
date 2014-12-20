@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn unfold [t]\n  {:pre [(r/Mu? t)]\n   :post [(r/Type? %)]}\n  (let [substitute @(substitute-var)\n        sym (Mu-fresh-symbol* t)\n        body (Mu-body* sym t)]\n    (substitute t sym body)))", :ns "clojure.core.typed.type-ctors", :name "unfold", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1437, :arglists ([t])}

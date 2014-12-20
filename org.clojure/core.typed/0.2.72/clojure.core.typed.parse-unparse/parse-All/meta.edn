@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-All [[_All_ bnds syn & more :as all]]\n  ;(prn \"All syntax\" all)\n  (when-not (not more) \n    (err/int-error (str \"Bad All syntax: \" all)))\n  (parse-all-type bnds syn))", :ns "clojure.core.typed.parse-unparse", :name "parse-All", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 357, :arglists ([[_All_ bnds syn & more :as all]])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Nil? [a] (= -nil a))", :ns "clojure.core.typed.type-rep", :name "Nil?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 415, :arglists ([a])}

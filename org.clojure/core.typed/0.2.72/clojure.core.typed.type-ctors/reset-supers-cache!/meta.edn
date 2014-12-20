@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-supers-cache! []\n  (reset! supers-cache {})\n  nil)", :ns "clojure.core.typed.type-ctors", :name "reset-supers-cache!", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 962, :arglists ([])}

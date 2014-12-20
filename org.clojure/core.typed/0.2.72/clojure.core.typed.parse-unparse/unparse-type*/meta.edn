@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti unparse-type* class)", :ns "clojure.core.typed.parse-unparse", :name "unparse-type*", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 1260}

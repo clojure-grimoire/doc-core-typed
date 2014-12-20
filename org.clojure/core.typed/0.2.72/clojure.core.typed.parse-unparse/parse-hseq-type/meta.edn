@@ -1,0 +1,1 @@
+{:type :fn, :src "(def parse-hseq-type (parse-types-with-rest-drest\n                      \"Invalid heterogeneous seq syntax:\"))", :ns "clojure.core.typed.parse-unparse", :name "parse-hseq-type", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 624}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/defrecord RecurTarget [dom rest drest kws]\n  \"A target for recur\"\n  [(every? r/Type? dom)\n   ((some-fn nil? r/Type?) rest)\n   ((some-fn nil? r/DottedPretype?) drest)\n   (nil? kws)])", :ns "clojure.core.typed.check.recur-utils", :name "RecurTarget?", :file "clojure/core/typed/check/recur_utils.clj", :column 1, :line 7, :arglists ([r__382__auto__])}

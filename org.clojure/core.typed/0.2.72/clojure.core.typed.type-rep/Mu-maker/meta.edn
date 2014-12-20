@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type Mu [scope]\n  \"A recursive type containing one bound variable, itself\"\n  [(Scope? scope)]\n  :methods\n  [p/TCType\n   p/IMu\n   (mu-scope [_] scope)])", :ns "clojure.core.typed.type-rep", :name "Mu-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 376, :arglists ([scope & {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

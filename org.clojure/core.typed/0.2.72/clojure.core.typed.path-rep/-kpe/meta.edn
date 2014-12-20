@@ -1,0 +1,1 @@
+{:type :fn, :src "(def -kpe KeyPE-maker)", :ns "clojure.core.typed.path-rep", :name "-kpe", :file "clojure/core/typed/path_rep.clj", :column 1, :line 52}

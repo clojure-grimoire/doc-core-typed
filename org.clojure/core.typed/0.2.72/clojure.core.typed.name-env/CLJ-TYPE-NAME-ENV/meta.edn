@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJ-TYPE-NAME-ENV (atom {} :validator name-env?))", :ns "clojure.core.typed.name-env", :name "CLJ-TYPE-NAME-ENV", :file "clojure/core/typed/name_env.clj", :column 1, :line 76}

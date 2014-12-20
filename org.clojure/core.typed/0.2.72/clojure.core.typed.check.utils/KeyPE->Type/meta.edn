@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn KeyPE->Type [k]\n  {:pre [(pe/KeyPE? k)]\n   :post [(r/Type? %)]}\n  (r/-val (:val k)))", :ns "clojure.core.typed.check.utils", :name "KeyPE->Type", :file "clojure/core/typed/check/utils.clj", :column 1, :line 40, :arglists ([k])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type Scope [body]\n  \"A scope that contains one bound variable, can be nested. Not used directly\"\n  [((some-fn Type? Scope?) body)]\n  :methods\n  [p/IScope\n   (scope-body [this] body)])", :ns "clojure.core.typed.type-rep", :name "Scope?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 187, :arglists ([a__2329__auto__])}

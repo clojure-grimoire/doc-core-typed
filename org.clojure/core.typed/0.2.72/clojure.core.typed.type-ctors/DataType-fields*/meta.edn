@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn DataType-fields* [^DataType dt]\n  {:pre [(r/DataType? dt)]\n   :post [((con/array-map-c? symbol? r/Type?) %)]}\n  (:fields dt))", :ns "clojure.core.typed.type-ctors", :name "DataType-fields*", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1027, :arglists ([dt])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn resolve-Get [{:keys [target key not-found] :as t}]\n  {:pre [(r/GetType? t)]\n   :post [(r/Type? %)]}\n  (find-val-type target key not-found))", :ns "clojure.core.typed.type-ctors", :name "resolve-Get", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1335, :arglists ([{:keys [target key not-found], :as t}])}

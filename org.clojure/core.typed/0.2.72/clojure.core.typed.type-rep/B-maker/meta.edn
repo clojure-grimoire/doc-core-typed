@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-type B [idx]\n  \"de Bruijn indexes - should never appear outside of this file.\n  Bound type variables\"\n  [(con/znat? idx)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "B-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 141, :arglists ([idx & {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

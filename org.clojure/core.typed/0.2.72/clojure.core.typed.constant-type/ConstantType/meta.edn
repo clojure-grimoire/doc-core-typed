@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol ConstantType \n  (constant-ret [this]))", :doc nil, :ns "clojure.core.typed.constant-type", :name "ConstantType", :file "clojure/core/typed/constant_type.clj", :column 1, :line 12}

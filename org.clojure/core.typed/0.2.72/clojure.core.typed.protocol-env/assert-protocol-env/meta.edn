@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn assert-protocol-env []\n  (assert *current-protocol-env* \"No current protocol env\"))", :ns "clojure.core.typed.protocol-env", :name "assert-protocol-env", :file "clojure/core/typed/protocol_env.clj", :column 1, :line 36, :arglists ([])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn subtype-flow-set? [fs1 fs2]\n  {:pre [(r/FlowSet? fs1)\n         (r/FlowSet? fs2)]}\n  (let [n1 (fully-resolve-filter (:normal fs1))\n        n2 (fully-resolve-filter (:normal fs2))]\n    (= n1 n2)))", :ns "clojure.core.typed.subtype", :name "subtype-flow-set?", :file "clojure/core/typed/subtype.clj", :column 1, :line 1115, :arglists ([fs1 fs2])}

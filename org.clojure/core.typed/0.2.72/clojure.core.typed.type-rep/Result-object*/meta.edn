@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Result-object* [r]\n  {:pre [(Result? r)]\n   :post [(p/IRObject? %)]}\n  (:o r))", :ns "clojure.core.typed.type-rep", :name "Result-object*", :file "clojure/core/typed/type_rep.clj", :column 1, :line 888, :arglists ([r])}

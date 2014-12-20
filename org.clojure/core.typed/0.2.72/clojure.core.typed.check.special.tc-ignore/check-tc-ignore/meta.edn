@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn check-tc-ignore [check expr expected]\n  (assoc expr\n         ::t/tc-ignore true\n         u/expr-type (r/ret r/-any)))", :ns "clojure.core.typed.check.special.tc-ignore", :name "check-tc-ignore", :file "clojure/core/typed/check/special/tc_ignore.clj", :column 1, :line 6, :arglists ([check expr expected])}

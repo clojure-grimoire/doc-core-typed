@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ret-flow [r]\n  {:pre [(TCResult? r)]\n   :post [(FlowSet? %)]}\n  (:flow r))", :ns "clojure.core.typed.type-rep", :name "ret-flow", :file "clojure/core/typed/type_rep.clj", :column 1, :line 974, :arglists ([r])}

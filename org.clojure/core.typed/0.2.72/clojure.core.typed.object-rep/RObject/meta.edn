@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.object-rep", :name "RObject", :type :var, :src nil, :doc "An object with a path.\n\np/IRObject\n"}

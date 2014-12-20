@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-object ClassPE []\n  \"A path calling clojure.core/class\"\n  [])", :ns "clojure.core.typed.path-rep", :name "ClassPE?", :file "clojure/core/typed/path_rep.clj", :column 1, :line 37, :arglists ([a__2329__auto__])}

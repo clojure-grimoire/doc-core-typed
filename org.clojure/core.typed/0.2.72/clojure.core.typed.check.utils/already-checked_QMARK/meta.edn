@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn already-checked? [nsym]\n  (t/when-let-fail [a vs/*already-checked*]\n    (boolean (@a nsym))))", :ns "clojure.core.typed.check.utils", :name "already-checked?", :file "clojure/core/typed/check/utils.clj", :column 1, :line 431, :arglists ([nsym])}

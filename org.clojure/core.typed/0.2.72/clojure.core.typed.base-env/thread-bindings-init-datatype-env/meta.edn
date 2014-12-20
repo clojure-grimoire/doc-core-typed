@@ -1,0 +1,1 @@
+{:type :var, :src "(delay-and-cache-env ^:private init-datatype-env {})", :ns "clojure.core.typed.base-env", :name "thread-bindings-init-datatype-env", :file "clojure/core/typed/base_env.clj", :column 1, :line 1797}

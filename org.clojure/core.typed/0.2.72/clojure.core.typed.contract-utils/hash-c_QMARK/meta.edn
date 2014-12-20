@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn hash-c? [ks-c? vs-c?]\n  (every-pred map?\n              #(every? ks-c? (keys %))\n              #(every? vs-c? (vals %))))", :ns "clojure.core.typed.contract-utils", :name "hash-c?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 60, :arglists ([ks-c? vs-c?])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn load-cljs? []\n  ((impl/v 'clojure.core.typed.init/cljs?)))", :ns "clojure.core.typed.reset-env", :name "load-cljs?", :file "clojure/core/typed/reset_env.clj", :column 1, :line 10, :arglists ([])}

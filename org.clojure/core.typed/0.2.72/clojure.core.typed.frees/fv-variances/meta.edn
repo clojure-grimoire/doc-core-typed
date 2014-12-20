@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn fv-variances \n  \"Map of frees to their variances\"\n  [t]\n  {:post [(variance-map? %)]}\n  (binding [*frees-mode* ::frees]\n    (frees-in t)))", :ns "clojure.core.typed.frees", :name "fv-variances", :file "clojure/core/typed/frees.clj", :column 1, :line 56, :arglists ([t]), :doc "Map of frees to their variances"}

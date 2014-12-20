@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *mutated-bindings* #{})", :ns "clojure.core.typed.type-rep", :name "*mutated-bindings*", :file "clojure/core/typed/type_rep.clj", :column 1, :dynamic true, :line 908}

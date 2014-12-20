@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest ignore-macro-def-test\n  (is-cf (defmacro foobar [])))", :ns "clojure.core.typed.test.core", :name "ignore-macro-def-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1758, :test #<core$fn__25934 clojure.core.typed.test.core$fn__25934@10cf7130>}

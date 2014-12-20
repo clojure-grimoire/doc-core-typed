@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -filter-at [t o]\n  (if (or/Path? o)\n    (let [{p :path i :id} o]\n      (-filter t i p))\n    fr/-top))", :ns "clojure.core.typed.filter-ops", :name "-filter-at", :file "clojure/core/typed/filter_ops.clj", :column 1, :line 38, :arglists ([t o])}

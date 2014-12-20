@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn lookup-tvar\n  \"Returns the mapped-to type, or nil\"\n  [var]\n  (*current-tvars* var))", :ns "clojure.core.typed.tvar-env", :name "lookup-tvar", :file "clojure/core/typed/tvar_env.clj", :column 1, :line 57, :arglists ([var]), :doc "Returns the mapped-to type, or nil"}

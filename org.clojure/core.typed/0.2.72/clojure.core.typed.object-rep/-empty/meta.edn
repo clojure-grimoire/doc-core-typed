@@ -1,0 +1,1 @@
+{:type :var, :src "(def -empty (EmptyObject-maker))", :ns "clojure.core.typed.object-rep", :name "-empty", :file "clojure/core/typed/object_rep.clj", :column 1, :line 36}

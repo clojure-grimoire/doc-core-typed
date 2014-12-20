@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn make-cset-entry\n  ([fixed] (make-cset-entry fixed nil))\n  ([fixed dmap] (->cset-entry fixed\n                              (or dmap (->dmap {})))))", :ns "clojure.core.typed.cs-rep", :name "make-cset-entry", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 130, :arglists ([fixed] [fixed dmap])}

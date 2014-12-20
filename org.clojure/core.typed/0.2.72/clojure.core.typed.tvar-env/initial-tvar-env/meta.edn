@@ -1,0 +1,1 @@
+{:type :var, :src "(def initial-tvar-env {})", :ns "clojure.core.typed.tvar-env", :name "initial-tvar-env", :file "clojure/core/typed/tvar_env.clj", :column 1, :line 30}

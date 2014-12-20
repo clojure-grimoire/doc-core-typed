@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Mu-fresh-symbol* [t]\n  {:pre [(r/Mu? t)]\n   :post [(symbol? %)]}\n  (let [s (or (Mu-free-name* t)\n              (gensym))]\n    (fresh-symbol s)))", :ns "clojure.core.typed.type-ctors", :name "Mu-fresh-symbol*", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1422, :arglists ([t])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "env-locals", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn env-locals [& syms]\n  (disj (set (apply concat syms)) '_))", :column 1, :line 362, :arglists ([& syms])}

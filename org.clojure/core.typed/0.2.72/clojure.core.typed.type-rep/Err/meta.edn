@@ -1,0 +1,1 @@
+{:type :var, :src "(def Err (TCError-maker))", :ns "clojure.core.typed.type-rep", :name "Err", :file "clojure/core/typed/type_rep.clj", :column 1, :line 104}

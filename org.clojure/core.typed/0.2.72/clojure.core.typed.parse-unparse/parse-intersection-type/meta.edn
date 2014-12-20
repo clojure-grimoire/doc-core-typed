@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-intersection-type [[i & types]]\n  (c/make-Intersection (doall (map parse-type types))))", :ns "clojure.core.typed.parse-unparse", :name "parse-intersection-type", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 380, :arglists ([[i & types]])}

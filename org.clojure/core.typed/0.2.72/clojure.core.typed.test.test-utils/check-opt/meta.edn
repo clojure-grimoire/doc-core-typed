@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "check-opt", :file "clojure/core/typed/test/test_utils.clj", :type :fn, :src "(defn check-opt [opt]\n  #_(assert (empty? (set/difference (set (keys opt))\n                                  #{:expected :ret}))))", :column 1, :line 20, :arglists ([opt])}

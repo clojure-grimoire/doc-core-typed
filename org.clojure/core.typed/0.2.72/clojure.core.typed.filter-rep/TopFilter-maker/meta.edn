@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-filter TopFilter []\n  \"Trivially true proposition\"\n  []\n  :methods\n  [p/IFilter])", :ns "clojure.core.typed.filter-rep", :name "TopFilter-maker", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 44, :arglists ([& {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

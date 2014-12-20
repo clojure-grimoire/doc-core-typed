@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn AnyType? [a]\n  (or (Type? a)\n      (instance? clojure.core.typed.impl_protocols.TCAnyType a)))", :ns "clojure.core.typed.type-rep", :name "AnyType?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 45, :arglists ([a])}

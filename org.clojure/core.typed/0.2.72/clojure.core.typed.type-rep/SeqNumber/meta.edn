@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.type-rep", :name "SeqNumber", :type :var, :src nil, :doc "\n\nLong\n"}

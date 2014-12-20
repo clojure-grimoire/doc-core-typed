@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest ctyp97-tvar-scoping-test\n  (is (check-ns 'clojure.core.typed.test.ctyp97-tvar-scoping)))", :ns "clojure.core.typed.test.core", :name "ctyp97-tvar-scoping-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2892, :test #<core$fn__29287 clojure.core.typed.test.core$fn__29287@14e11cb7>}

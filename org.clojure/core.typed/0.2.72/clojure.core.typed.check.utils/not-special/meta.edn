@@ -1,0 +1,1 @@
+{:type :var, :src "(def not-special ::not-special)", :ns "clojure.core.typed.check.utils", :name "not-special", :file "clojure/core/typed/check/utils.clj", :column 1, :line 102}

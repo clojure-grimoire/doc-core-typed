@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn lookup-tvar-bnds\n  \"Returns the bounds of tvar or nil\"\n  [var]\n  (*current-tvar-bnds* var))", :ns "clojure.core.typed.tvar-bnds", :name "lookup-tvar-bnds", :file "clojure/core/typed/tvar_bnds.clj", :column 1, :line 33, :arglists ([var]), :doc "Returns the bounds of tvar or nil"}

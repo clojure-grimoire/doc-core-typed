@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti fold-rhs (fn [mode options ty]\n                     [mode (class ty)]))", :ns "clojure.core.typed.fold-rep", :name "fold-rhs", :file "clojure/core/typed/fold_rep.clj", :column 1, :line 19}

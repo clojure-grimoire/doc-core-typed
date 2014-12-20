@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn IScope? [a]\n  (instance? clojure.core.typed.impl_protocols.IScope a))", :ns "clojure.core.typed.impl-protocols", :name "IScope?", :file "clojure/core/typed/impl_protocols.clj", :column 1, :line 29, :arglists ([a])}

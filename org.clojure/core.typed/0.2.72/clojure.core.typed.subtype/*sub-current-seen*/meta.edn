@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *sub-current-seen* #{})", :ns "clojure.core.typed.subtype", :name "*sub-current-seen*", :file "clojure/core/typed/subtype.clj", :column 1, :dynamic true, :line 50}

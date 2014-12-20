@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn get-and-inc-id []\n  (profiling/p :utils/get-and-inc-id\n  (let [id @next-sequence-number\n        _ (inc-sequence-number)]\n    id)))", :ns "clojure.core.typed.utils", :name "get-and-inc-id", :file "clojure/core/typed/utils.clj", :column 1, :line 129, :arglists ([])}

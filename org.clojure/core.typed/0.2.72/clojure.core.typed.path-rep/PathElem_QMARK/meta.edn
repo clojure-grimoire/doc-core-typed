@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn PathElem? [a]\n  (satisfies? IPathElem a))", :ns "clojure.core.typed.path-rep", :name "PathElem?", :file "clojure/core/typed/path_rep.clj", :column 1, :line 18, :arglists ([a])}

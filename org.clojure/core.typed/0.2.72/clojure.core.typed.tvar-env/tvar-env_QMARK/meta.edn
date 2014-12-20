@@ -1,0 +1,1 @@
+{:type :fn, :src "(def tvar-env? (con/hash-c? symbol? r/F?))", :ns "clojure.core.typed.tvar-env", :name "tvar-env?", :file "clojure/core/typed/tvar_env.clj", :column 1, :line 27}

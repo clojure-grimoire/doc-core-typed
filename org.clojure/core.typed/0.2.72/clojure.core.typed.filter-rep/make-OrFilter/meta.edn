@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn make-OrFilter [& fs]\n  {:pre [(every? Filter? fs)\n         (seq fs)]\n   :post [(Filter? %)]}\n  (OrFilter-maker (set fs)))", :ns "clojure.core.typed.filter-rep", :name "make-OrFilter", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 118, :arglists ([& fs])}

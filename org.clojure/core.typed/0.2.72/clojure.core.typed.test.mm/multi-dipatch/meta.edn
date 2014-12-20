@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti multi-dipatch (fn [a b]\n                          [(:op a) (:op b)]))", :ns "clojure.core.typed.test.mm", :name "multi-dipatch", :file "clojure/core/typed/test/mm.clj", :column 1, :line 22}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -PropEnv [l props]\n  (->PropEnv l (if (set? props)\n                 props\n                 (into #{} props))))", :ns "clojure.core.typed.lex-env", :name "-PropEnv", :file "clojure/core/typed/lex_env.clj", :column 1, :line 18, :arglists ([l props])}

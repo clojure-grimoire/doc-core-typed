@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Result-filter* [r]\n  {:pre [(Result? r)]\n   :post [(p/IFilter? %)]}\n  (:fl r))", :ns "clojure.core.typed.type-rep", :name "Result-filter*", :file "clojure/core/typed/type_rep.clj", :column 1, :line 882, :arglists ([r])}

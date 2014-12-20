@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn IFilter? [a]\n  (instance? clojure.core.typed.impl_protocols.IFilter a))", :ns "clojure.core.typed.impl-protocols", :name "IFilter?", :file "clojure/core/typed/impl_protocols.clj", :column 1, :line 44, :arglists ([a])}

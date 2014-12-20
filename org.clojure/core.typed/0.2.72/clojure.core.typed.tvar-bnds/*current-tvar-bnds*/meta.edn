@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *current-tvar-bnds* initial-tvar-bnds-env)", :ns "clojure.core.typed.tvar-bnds", :name "*current-tvar-bnds*", :file "clojure/core/typed/tvar_bnds.clj", :column 1, :dynamic true, :line 30}

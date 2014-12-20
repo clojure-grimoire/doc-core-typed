@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest ns-deps-test\n  (is (t/check-ns* 'cljs.core.typed.test.dep-one))\n  (is (t/check-ns* 'cljs.core.typed.test.dep-two)))", :ns "clojure.core.typed.test.cljs", :name "ns-deps-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 124, :test #<cljs$fn__15570 clojure.core.typed.test.cljs$fn__15570@41da4be8>}

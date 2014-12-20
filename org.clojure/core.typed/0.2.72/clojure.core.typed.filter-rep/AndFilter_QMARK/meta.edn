@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/def-filter AndFilter [fs]\n  \"Logical conjunction of filters\"\n  [(set? fs)\n   (seq fs)\n   (every? Filter? fs)]\n  :methods\n  [p/IFilter])", :ns "clojure.core.typed.filter-rep", :name "AndFilter?", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 94, :arglists ([a__2329__auto__])}

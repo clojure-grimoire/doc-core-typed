@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn emit-form [f]\n  (emit-form/emit-form f))", :ns "clojure.core.typed.util-cljs", :name "emit-form", :file "clojure/core/typed/util_cljs.clj", :column 1, :line 43, :arglists ([f])}

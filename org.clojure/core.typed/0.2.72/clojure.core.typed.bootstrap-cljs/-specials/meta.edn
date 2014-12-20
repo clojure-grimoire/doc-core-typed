@@ -1,0 +1,1 @@
+{:type :var, :src "(def -specials \n  '#{All U Any Pred Int Bool Num Str Object ReadOnlyArray\n     Array IFn TFn I HSequential})", :ns "clojure.core.typed.bootstrap-cljs", :name "-specials", :file "clojure/core/typed/bootstrap_cljs.clj", :column 1, :line 12}

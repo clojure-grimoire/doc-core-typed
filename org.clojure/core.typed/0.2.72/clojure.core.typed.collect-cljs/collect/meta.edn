@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti collect (fn [expr] (:op expr)))", :ns "clojure.core.typed.collect-cljs", :name "collect", :file "clojure/core/typed/collect_cljs.clj", :column 1, :line 48}

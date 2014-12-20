@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.cs-rep", :name "SubstRHS", :type :var, :src nil, :doc "The substitution records.\n\n(t/U t-subst i-subst i-subst-starred i-subst-dotted)\n"}

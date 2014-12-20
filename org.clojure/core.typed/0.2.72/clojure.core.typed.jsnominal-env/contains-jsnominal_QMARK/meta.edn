@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn contains-jsnominal?\n  [csym]\n  (boolean (get-jsnominal csym)))", :ns "clojure.core.typed.jsnominal-env", :name "contains-jsnominal?", :file "clojure/core/typed/jsnominal_env.clj", :column 1, :line 60, :arglists ([csym])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -empty-fn []\n  -empty)", :ns "clojure.core.typed.object-rep", :name "-empty-fn", :file "clojure/core/typed/object_rep.clj", :column 1, :line 38, :arglists ([])}

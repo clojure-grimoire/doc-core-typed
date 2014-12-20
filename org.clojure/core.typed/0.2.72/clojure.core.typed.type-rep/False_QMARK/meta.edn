@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn False? [a] (= -false a))", :ns "clojure.core.typed.type-rep", :name "False?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 416, :arglists ([a])}

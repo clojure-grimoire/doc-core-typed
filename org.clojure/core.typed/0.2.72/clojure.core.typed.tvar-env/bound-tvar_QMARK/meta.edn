@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn bound-tvar?\n  \"Returns true if the current type variable is bound\"\n  [var]\n  (contains? *current-tvars* var))", :ns "clojure.core.typed.tvar-env", :name "bound-tvar?", :file "clojure/core/typed/tvar_env.clj", :column 1, :line 51, :arglists ([var]), :doc "Returns true if the current type variable is bound"}

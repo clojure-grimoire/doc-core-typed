@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.cs-gen", :name "NoMentions", :type :var, :src nil, :doc "A set of variables not to mention in the constraints\n\n(t/Set t/Sym)\n"}

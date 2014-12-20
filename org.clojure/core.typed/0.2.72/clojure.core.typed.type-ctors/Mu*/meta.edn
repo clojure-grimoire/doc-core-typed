@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Mu* [name body]\n  (let [original-name (-> name r/make-F r/F-original-name)\n        v (r/Mu-maker (abstract name body))]\n    (with-original-names v original-name)))", :ns "clojure.core.typed.type-ctors", :name "Mu*", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1403, :arglists ([name body])}

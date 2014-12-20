@@ -1,0 +1,1 @@
+{:type :fn, :src "(u/defrecord dcon-exact [fixed rest]\n  \"\"\n  [(every? c? fixed)\n   (c? rest)])", :ns "clojure.core.typed.cs-rep", :name "map->dcon-exact", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 82, :arglists ([{:as m__383__auto__, :keys [fixed rest]}]), :doc ""}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.cs-rep", :name "SubstMap", :type :var, :src nil, :doc "A substutition map of symbols naming frees to types\n  to instantitate them with.\n\n(t/Map t/Sym SubstRHS)\n"}

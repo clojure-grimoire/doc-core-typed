@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-deps! []\n  (reset! (current-deps) (init-deps)))", :ns "clojure.core.typed.ns-deps", :name "reset-deps!", :file "clojure/core/typed/ns_deps.clj", :column 1, :line 67, :arglists ([])}

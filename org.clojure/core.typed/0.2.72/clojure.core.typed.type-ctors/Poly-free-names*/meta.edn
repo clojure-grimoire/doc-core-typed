@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Poly-free-names* [poly]\n  {:pre [(r/Poly? poly)]\n   :post [((some-fn nil? \n                    (every-pred seq (con/every-c? symbol?)))\n           %)]}\n  (get-original-names poly))", :ns "clojure.core.typed.type-ctors", :name "Poly-free-names*", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1154, :arglists ([poly])}

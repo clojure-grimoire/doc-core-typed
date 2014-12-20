@@ -1,0 +1,1 @@
+{:type :var, :src "(defmulti deprecated-clj-symbol identity)", :ns "clojure.core.typed.parse-unparse", :name "deprecated-clj-symbol", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 901}

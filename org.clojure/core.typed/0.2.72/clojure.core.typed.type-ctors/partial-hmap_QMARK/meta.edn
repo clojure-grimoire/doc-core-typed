@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn partial-hmap? [^HeterogeneousMap hmap]\n  {:pre [(r/HeterogeneousMap? hmap)]}\n  (.other-keys? hmap))", :ns "clojure.core.typed.type-ctors", :name "partial-hmap?", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 249, :arglists ([hmap])}

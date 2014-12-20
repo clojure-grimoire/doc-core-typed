@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn -path [path id]\n  {:pre [(every? pr/PathElem? path)\n         (fr/name-ref? id)]\n   :post [(Path? %)]}\n  (Path-maker path id))", :ns "clojure.core.typed.object-rep", :name "-path", :file "clojure/core/typed/object_rep.clj", :column 1, :line 59, :arglists ([path id])}
