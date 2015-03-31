@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki var>* [sym]\n  (impl/the-var sym))", :ns "clojure.core.typed", :name "var>*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 2096}

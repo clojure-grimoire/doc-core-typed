@@ -1,0 +1,1 @@
+{:type :var, :src "(def any-impl ::any-impl)", :ns "clojure.core.typed.current-impl", :name "any-impl", :file "clojure/core/typed/current_impl.clj", :column 1, :line 35}

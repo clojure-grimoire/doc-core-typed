@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Option", :type :var, :src nil, :doc "A union of x and nil.\n\n(TFn [[x :variance :covariant]] (U nil x))\n", :forms [(Option t)]}

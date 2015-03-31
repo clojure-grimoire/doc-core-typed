@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.pred-hmap", :name "cow-moo", :file "clojure/core/typed/test/pred_hmap.clj", :type :fn, :src "(defn cow-moo [cow])", :column 1, :line 16, :arglists ([cow])}

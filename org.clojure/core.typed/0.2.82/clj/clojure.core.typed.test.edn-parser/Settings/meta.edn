@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.edn-parser", :name "Settings", :file "clojure/core/typed/test/edn_parser.clj", :type :var, :src "(t/defalias Settings (t/Map t/Kw t/Any))", :column 1, :line 13, :declared true}

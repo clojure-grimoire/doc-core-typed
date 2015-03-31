@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn check-ns [nsym]\n  {:pre [(symbol? nsym)]\n   :post [(nil? %)]}\n  (cu/check-ns-and-deps*\n    nsym\n    {:ast-for-ns ana/ast-for-ns\n     :check-asts check-asts\n     :check-ns check-ns}))", :ns "clojure.core.typed.check-cljs", :name "check-ns", :file "clojure/core/typed/check_cljs.clj", :column 1, :line 56, :arglists ([nsym])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn conj-types [left & rtypes]\n  {:pre [(r/Type? left)\n         (every? r/TCResult? rtypes)]\n   :post [((some-fn nil? r/Type?) %)]}\n  (c/reduce-type-transform conj-pair left rtypes))", :ns "clojure.core.typed.assoc-utils", :name "conj-types", :file "clojure/core/typed/assoc_utils.clj", :column 1, :line 409, :arglists ([left & rtypes])}

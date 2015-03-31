@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "sub?", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro sub? [s t]\n  `(impl/with-clojure-impl\n     (subtype? (parse-type '~s)\n               (parse-type '~t))))", :column 1, :line 101, :macro true, :arglists ([s t])}

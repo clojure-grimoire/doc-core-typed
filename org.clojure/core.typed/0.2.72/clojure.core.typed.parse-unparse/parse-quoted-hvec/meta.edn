@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-quoted-hvec [syn]\n  (let [{:keys [fixed drest rest]} (parse-hvec-types syn)]\n    (r/-hvec fixed\n             :drest drest\n             :rest rest)))", :ns "clojure.core.typed.parse-unparse", :name "parse-quoted-hvec", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 684, :arglists ([syn])}

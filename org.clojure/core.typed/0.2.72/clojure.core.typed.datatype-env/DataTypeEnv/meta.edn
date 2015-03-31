@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.datatype-env", :name "DataTypeEnv", :type :var, :src nil, :doc "An Environment mapping datatype symbols to types.\n\n(t/Map t/Sym r/Type)\n"}

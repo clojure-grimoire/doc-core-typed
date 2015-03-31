@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype FooT [])", :ns "clojure.core.typed.test.variance-test", :name "->FooT", :file "clojure/core/typed/test/variance_test.clj", :column 1, :line 10, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.variance_test.FooT."}

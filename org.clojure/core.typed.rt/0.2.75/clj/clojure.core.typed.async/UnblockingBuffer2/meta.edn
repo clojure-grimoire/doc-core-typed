@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "UnblockingBuffer2", :type :var, :src nil, :doc "An unblocking buffer that can write type w and read type t.\n\n(TFn\n [[w :variance :contravariant] [r :variance :covariant]]\n (t/I (Buffer2 w r) impl/UnblockingBuffer))\n", :forms [(UnblockingBuffer2 t t)]}

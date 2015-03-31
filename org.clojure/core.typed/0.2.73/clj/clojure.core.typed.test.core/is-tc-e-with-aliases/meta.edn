@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.core", :name "is-tc-e-with-aliases", :file "clojure/core/typed/test/core.clj", :type :macro, :src "(defmacro is-tc-e-with-aliases [& body]\n  `(is-clj (do (check-ns '~'clojure.core.typed.test.util-aliases)\n               (tc-e ~@body)\n               true)))", :column 1, :line 59, :macro true, :arglists ([& body])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "NonEmptyColl", :type :var, :src nil, :doc "A persistent collection with member type x and count greater than 0.\n\n(TFn\n [[x :variance :covariant]]\n (I (clojure.lang.IPersistentCollection x) (CountRange 1)))\n", :forms [(NonEmptyColl t)]}

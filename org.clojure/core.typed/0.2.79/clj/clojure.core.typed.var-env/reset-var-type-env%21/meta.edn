@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-var-type-env! [m nocheck]\n  (reset! (current-var-annotations) m)\n  (reset! (current-nocheck-var?) nocheck)\n  (reset! (current-used-vars) #{})\n  (reset! (current-checked-var-defs) #{})\n  nil)", :ns "clojure.core.typed.var-env", :name "reset-var-type-env!", :file "clojure/core/typed/var_env.clj", :column 1, :line 98, :arglists ([m nocheck])}

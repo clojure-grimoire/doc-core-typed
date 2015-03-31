@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn constant-type [s]\n  (r/ret-t (constant-ret s)))", :ns "clojure.core.typed.constant-type", :name "constant-type", :file "clojure/core/typed/constant_type.clj", :column 1, :line 15, :arglists ([s])}

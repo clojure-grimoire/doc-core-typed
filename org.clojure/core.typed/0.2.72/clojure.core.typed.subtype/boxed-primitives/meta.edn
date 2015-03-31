@@ -1,1 +1,0 @@
-{:type :var, :src "(def boxed-primitives\n  {Byte/TYPE Byte\n   Short/TYPE Short\n   Integer/TYPE Integer\n   Long/TYPE Long\n   Float/TYPE Float\n   Double/TYPE Double\n   Character/TYPE Character\n   Boolean/TYPE Boolean})", :ns "clojure.core.typed.subtype", :name "boxed-primitives", :file "clojure/core/typed/subtype.clj", :column 1, :line 1375}

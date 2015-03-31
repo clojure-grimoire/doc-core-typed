@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn loaded? []\n  @successfully-loaded?)", :ns "clojure.core.typed.init", :name "loaded?", :file "clojure/core/typed/init.clj", :column 1, :line 11, :arglists ([])}

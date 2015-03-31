@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn warn [msg]\n  (println (str \"WARNING:\" msg)))", :ns "clojure.core.typed.errors", :name "warn", :file "clojure/core/typed/errors.clj", :column 1, :line 117, :arglists ([msg])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn pprint-reflection-sym [cls]\n  (-> (reflect/typename cls)\n      (str/replace \"<>\" \"[]\")\n      symbol))", :ns "clojure.core.typed.reflect-utils", :name "pprint-reflection-sym", :file "clojure/core/typed/reflect_utils.clj", :column 1, :line 17, :arglists ([cls])}

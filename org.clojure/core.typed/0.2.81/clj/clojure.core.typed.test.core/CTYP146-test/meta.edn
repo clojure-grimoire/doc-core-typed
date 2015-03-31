@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP146-test\n  (is (check-ns 'clojure.core.typed.test.CTYP146)))", :ns "clojure.core.typed.test.core", :name "CTYP146-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3410, :test #<core$fn__32690 clojure.core.typed.test.core$fn__32690@5ca4910d>}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest number-ops-test\n  (is-tc-e (min (Integer. 3) 10) Number))", :ns "clojure.core.typed.test.core", :name "number-ops-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1496, :test #<core$fn__27643 clojure.core.typed.test.core$fn__27643@59ecc033>}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "ReadOnlyChan", :type :var, :src nil, :doc "A core.async channel that statically disallows writes.\n\n(TFn [[r :variance :covariant]] (Chan2 t/Nothing r))\n", :forms (quote [(ReadOnlyChan t)])}

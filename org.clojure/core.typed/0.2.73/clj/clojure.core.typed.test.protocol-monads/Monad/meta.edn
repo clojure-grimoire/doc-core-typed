@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol Monad\n  (do-result [_ v])\n  (bind [mv f]))", :doc nil, :ns "clojure.core.typed.test.protocol-monads", :name "Monad", :file "clojure/core/typed/test/protocol_monads.clj", :column 1, :line 14}

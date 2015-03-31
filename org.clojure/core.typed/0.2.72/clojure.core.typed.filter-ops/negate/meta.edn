@@ -1,1 +1,0 @@
-{:type :var, :src "(def negate opposite-filter)", :ns "clojure.core.typed.filter-ops", :name "negate", :file "clojure/core/typed/filter_ops.clj", :column 1, :line 447}

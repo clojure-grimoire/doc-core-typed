@@ -1,1 +1,0 @@
-{:type :fn, :src "(defrecord OptionalKey [k])", :ns "clojure.core.typed.contract-utils", :name "map->OptionalKey", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 39, :arglists ([m__5869__auto__]), :doc "Factory function for class clojure.core.typed.contract_utils.OptionalKey, taking a map of keywords to field values."}

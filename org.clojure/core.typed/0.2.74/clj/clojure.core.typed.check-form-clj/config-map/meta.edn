@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn config-map []\n  {:impl impl/clojure\n   :ast-for-form ana-clj/ast-for-form\n   :unparse-ns *ns*\n   :collect-expr collect-clj/collect-ast\n   :check-expr chk-clj/check-expr})", :ns "clojure.core.typed.check-form-clj", :name "config-map", :file "clojure/core/typed/check_form_clj.clj", :column 1, :line 8, :arglists ([])}

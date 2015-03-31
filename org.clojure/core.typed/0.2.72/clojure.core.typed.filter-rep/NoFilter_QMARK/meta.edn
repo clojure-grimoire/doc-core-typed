@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-filter NoFilter []\n  \"Represents no info about filters, used for parsing types\"\n  []\n  :methods\n  [p/IFilter])", :ns "clojure.core.typed.filter-rep", :name "NoFilter?", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 63, :arglists ([a__2329__auto__])}

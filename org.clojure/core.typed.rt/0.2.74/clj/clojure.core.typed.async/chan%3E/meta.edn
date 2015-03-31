@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "chan>", :file "clojure/core/typed/async.clj", :type :macro, :src "(defmacro chan>\n  \"DEPRECATED: use chan\"\n  [t & args]\n  (prn \"DEPRECATED: chan>, use chan\")\n  `((inst async/chan ~t) ~@args))", :column 1, :line 428, :macro true, :arglists ([t & args]), :doc "DEPRECATED: use chan"}

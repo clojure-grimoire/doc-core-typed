@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn ^:skip-wiki ignore-with-unchecked-cast* [form ty]\n  form)", :ns "clojure.core.typed.unsafe", :name "ignore-with-unchecked-cast*", :file "clojure/core/typed/unsafe.clj", :skip-wiki true, :column 1, :line 6, :arglists ([form ty])}

@@ -1,1 +1,0 @@
-{:type :var, :src "(defmulti parse-filter* \n  #(when (coll? %)\n     (first %)))", :ns "clojure.core.typed.parse-unparse", :name "parse-filter*", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 992}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn make-AndFilter [& fs]\n  {:pre [(every? Filter? fs)]\n   :post [(AndFilter? %)]}\n  (AndFilter-maker (set fs)))", :ns "clojure.core.typed.filter-rep", :name "make-AndFilter", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 103, :arglists ([& fs])}

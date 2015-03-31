@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-object KeyPE [val]\n  \"A key in a hash-map\"\n  [(keyword? val)])", :ns "clojure.core.typed.path-rep", :name "KeyPE?", :file "clojure/core/typed/path_rep.clj", :column 1, :line 47, :arglists ([a__2329__auto__])}

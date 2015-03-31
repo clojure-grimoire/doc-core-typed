@@ -1,1 +1,0 @@
-{:type :fn, :src "(def rclass-ancestor-env? \n  (con/hash-c? symbol? (con/hmap-c? :replacements (con/hash-c? symbol? r/scoped-Type?)\n                                    :ancestors (con/sorted-set-c? r/scoped-Type?))))", :ns "clojure.core.typed.rclass-ancestor-env", :name "rclass-ancestor-env?", :file "clojure/core/typed/rclass_ancestor_env.clj", :column 1, :line 19}

@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.type-rep", :name "AnyType", :type :var, :src nil, :doc "A normal type or special type like Function.\n\n(t/U Type p/TCAnyType)\n"}

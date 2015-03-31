@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJS-DECLARED-KIND-ENV (atom {}))", :ns "clojure.core.typed.declared-kind-env", :name "CLJS-DECLARED-KIND-ENV", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :line 17}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *current-nocheck-var?* nil)", :ns "clojure.core.typed.var-env", :name "*current-nocheck-var?*", :file "clojure/core/typed/var_env.clj", :column 1, :dynamic true, :line 12}

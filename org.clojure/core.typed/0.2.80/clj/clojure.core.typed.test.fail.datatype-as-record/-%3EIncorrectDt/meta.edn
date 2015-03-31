@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype IncorrectDt [])", :ns "clojure.core.typed.test.fail.datatype-as-record", :name "->IncorrectDt", :file "clojure/core/typed/test/fail/datatype_as_record.clj", :column 1, :line 6, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.fail.datatype_as_record.IncorrectDt."}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "go-loop", :file "clojure/core/typed/async.clj", :type :macro, :src "(defmacro go-loop\n  \"Like (go (t/loop ...))\"\n  [& body]\n  (let [[t? t body] (maybe-annotation body)]\n    (if t?\n      `(go :- ~t (t/loop ~@body))\n      `(go (t/loop ~@body)))))", :column 1, :line 335, :macro true, :arglists ([& body]), :doc "Like (go (t/loop ...))"}

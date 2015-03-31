@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-checked-var-def [sym]\n  (swap! (current-checked-var-defs) conj sym)\n  nil)", :ns "clojure.core.typed.var-env", :name "add-checked-var-def", :file "clojure/core/typed/var_env.clj", :column 1, :line 89, :arglists ([sym])}

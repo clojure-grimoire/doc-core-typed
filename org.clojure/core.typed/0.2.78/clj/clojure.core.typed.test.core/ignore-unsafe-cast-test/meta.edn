@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest ignore-unsafe-cast-test\n  (is-tc-e (unsafe/ignore-with-unchecked-cast\n             (fn [] (+ 'a 1))\n             String)\n           String))", :ns "clojure.core.typed.test.core", :name "ignore-unsafe-cast-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2940, :test #<core$fn__31414 clojure.core.typed.test.core$fn__31414@5bfaf7b1>}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn number-value? [val]\n  (boolean\n    (when (r/Value? val)\n      (number? (:val val)))))", :ns "clojure.core.typed.type-ctors", :name "number-value?", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1459, :arglists ([val])}

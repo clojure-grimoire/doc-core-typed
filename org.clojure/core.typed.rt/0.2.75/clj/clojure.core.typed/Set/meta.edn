@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Set", :type :var, :src nil, :doc "A persistent set with member type x\n\n(TFn [[x :variance :covariant]] (clojure.lang.IPersistentSet x))\n", :forms [(Set t)]}

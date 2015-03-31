@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.example", :name "use-map", :file "clojure/core/typed/test/example.clj", :type :fn, :src "(defn use-map [a]\n  (get a :a))", :column 1, :line 20, :arglists ([a])}

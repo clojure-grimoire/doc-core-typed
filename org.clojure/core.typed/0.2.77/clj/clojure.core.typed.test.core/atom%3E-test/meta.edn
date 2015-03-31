@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest atom>-test\n  (is-tc-e (atom> (Vec Any) [])\n           (Atom1 (Vec Any))))", :ns "clojure.core.typed.test.core", :name "atom>-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1892, :test #<core$fn__28333 clojure.core.typed.test.core$fn__28333@136efed0>}

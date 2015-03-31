@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.atom", :name "InnerEntry", :file "clojure/core/typed/test/atom.clj", :type :var, :src "(defalias InnerEntry '{:c '{:d String}})", :column 1, :line 12, :declared true}

@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.type-contract", :name "keyword-singleton?", :file "clojure/core/typed/type_contract.clj", :type :fn, :src "(defn keyword-singleton? [{:keys [op val]}]\n  (when ('#{:singleton} op)\n    (keyword? val)))", :column 1, :line 12, :arglists ([{:keys [op val]}])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.pred", :name "Number?", :file "clojure/core/typed/test/pred.clj", :type :fn, :src "(def Number? (t/pred Number))", :column 1, :line 6}

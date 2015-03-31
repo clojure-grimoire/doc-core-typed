@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.util-aliases", :name "MapStruct2", :file "clojure/core/typed/test/util_aliases.clj", :type :var, :src "(t/defalias MapStruct2 (t/HMap :mandatory {:type (t/Value :MapStruct2) \n                                           :b MyName}))", :column 1, :line 8, :declared true}

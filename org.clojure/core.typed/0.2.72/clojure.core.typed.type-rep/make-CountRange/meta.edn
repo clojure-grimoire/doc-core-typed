@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn make-CountRange\n  ([lower] (make-CountRange lower nil))\n  ([lower upper] (CountRange-maker lower upper)))", :ns "clojure.core.typed.type-rep", :name "make-CountRange", :file "clojure/core/typed/type_rep.clj", :column 1, :line 788, :arglists ([lower] [lower upper])}

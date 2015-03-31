@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol Foo\n  (my_dash [this] :- t/Num))", :doc nil, :ns "clojure.core.typed.test.protocol-munge", :name "Foo", :file "clojure/core/typed/test/protocol_munge.clj", :column 1, :line 4}

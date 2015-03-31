@@ -1,1 +1,0 @@
-{:type :var, :src "(def -any (Top-maker))", :ns "clojure.core.typed.type-rep", :name "-any", :file "clojure/core/typed/type_rep.clj", :column 1, :line 60}

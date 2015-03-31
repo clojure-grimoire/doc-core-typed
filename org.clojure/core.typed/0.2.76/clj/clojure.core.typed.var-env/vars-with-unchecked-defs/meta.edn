@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn vars-with-unchecked-defs []\n  (set/difference @(current-used-vars)\n                  @(current-checked-var-defs)\n                  @(current-nocheck-var?)))", :ns "clojure.core.typed.var-env", :name "vars-with-unchecked-defs", :file "clojure/core/typed/var_env.clj", :column 1, :line 93, :arglists ([])}

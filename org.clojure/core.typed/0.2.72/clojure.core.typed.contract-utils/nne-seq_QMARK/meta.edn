@@ -1,1 +1,0 @@
-{:type :fn, :src "(def nne-seq? (some-fn nil? (every-pred seq seq?)))", :ns "clojure.core.typed.contract-utils", :name "nne-seq?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 17}

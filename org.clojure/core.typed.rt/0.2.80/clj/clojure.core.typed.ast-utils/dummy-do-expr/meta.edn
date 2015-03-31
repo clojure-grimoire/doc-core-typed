@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn dummy-do-expr [statements ret env]\n  {:op :do\n   :statements statements\n   :ret ret\n   :env env})", :ns "clojure.core.typed.ast-utils", :name "dummy-do-expr", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 88, :arglists ([statements ret env])}

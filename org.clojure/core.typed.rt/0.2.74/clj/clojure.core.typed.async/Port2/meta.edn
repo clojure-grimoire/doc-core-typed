@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Port2", :type :var, :src nil, :doc "A port that can write type w and read type r\n\n(TFn\n [[w :variance :contravariant] [r :variance :covariant]]\n (I (impl/WritePort w) (impl/ReadPort r)))\n", :forms [(Port2 t t)]}

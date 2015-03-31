@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.trampoline", :name "funb", :file "clojure/core/typed/test/trampoline.clj", :type :fn, :src "(defn funb [n]\n  (if (= n 0)\n    0\n    #(funa (dec n))))", :column 1, :line 14, :arglists ([n])}

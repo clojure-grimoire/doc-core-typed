@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-alias-env! []\n  (let [alias-env (init-alias-env)]\n    (nme-env/reset-name-env! alias-env)))", :ns "clojure.core.typed.base-env", :name "reset-alias-env!", :file "clojure/core/typed/base_env.clj", :column 1, :line 57, :arglists ([])}

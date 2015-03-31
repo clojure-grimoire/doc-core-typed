@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.get-bounded-tvar", :name "stop", :file "clojure/core/typed/test/get_bounded_tvar.clj", :type :fn, :src "(defn stop [sketch]\n  (reset! (:running? sketch) false)\n  sketch)", :column 1, :line 11, :arglists ([sketch])}

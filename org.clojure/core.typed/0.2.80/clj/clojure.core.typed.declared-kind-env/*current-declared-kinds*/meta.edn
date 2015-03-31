@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *current-declared-kinds* nil)", :ns "clojure.core.typed.declared-kind-env", :name "*current-declared-kinds*", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :dynamic true, :line 9}

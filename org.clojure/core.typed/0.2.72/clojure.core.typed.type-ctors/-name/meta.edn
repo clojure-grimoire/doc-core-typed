@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -name [sym & ts]\n  (let [nme (r/Name-maker sym)]\n    (if ts\n      (-tapp nme ts)\n      nme)))", :ns "clojure.core.typed.type-ctors", :name "-name", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2326, :arglists ([sym & ts])}

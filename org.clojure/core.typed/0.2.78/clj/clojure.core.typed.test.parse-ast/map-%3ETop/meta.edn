@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Top [])", :ns "clojure.core.typed.test.parse-ast", :name "map->Top", :file "clojure/core/typed/test/parse_ast.clj", :column 1, :line 5, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.parse_ast.Top, taking a map of keywords to field values."}

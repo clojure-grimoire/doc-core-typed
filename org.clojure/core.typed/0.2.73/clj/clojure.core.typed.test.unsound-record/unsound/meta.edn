@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.unsound-record", :name "unsound", :file "clojure/core/typed/test/unsound_record.clj", :type :fn, :src "(defn unsound [r]\n  (let [r (assoc r :a nil)]\n    (assert (instance? Foo r))\n    (inc (:a r))))", :column 1, :line 8, :arglists ([r])}

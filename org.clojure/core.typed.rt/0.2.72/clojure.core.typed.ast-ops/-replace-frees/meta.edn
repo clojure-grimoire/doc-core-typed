@@ -1,1 +1,0 @@
-{:type :var, :src "(defmulti -replace-frees (fn [e & args] (:op e)))", :ns "clojure.core.typed.ast-ops", :name "-replace-frees", :file "clojure/core/typed/ast_ops.clj", :column 1, :line 76}

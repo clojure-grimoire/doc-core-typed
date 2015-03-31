@@ -1,1 +1,0 @@
-{:type :fn, :src "(def method-map?\n  (con/hmap-c? :declaring-class symbol?\n               :return-type symbol?\n               :name symbol?\n               :parameter-types (con/every-c? symbol?)\n               :flags (con/set-c? keyword?)))", :ns "clojure.core.typed.check.utils", :name "method-map?", :file "clojure/core/typed/check/utils.clj", :column 1, :line 188}

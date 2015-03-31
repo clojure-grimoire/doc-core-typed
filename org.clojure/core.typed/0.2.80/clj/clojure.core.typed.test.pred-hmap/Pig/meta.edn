@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.pred-hmap", :name "Pig", :file "clojure/core/typed/test/pred_hmap.clj", :type :var, :src "(t/defalias Pig '{:type ':pig})", :column 1, :line 5, :declared true}

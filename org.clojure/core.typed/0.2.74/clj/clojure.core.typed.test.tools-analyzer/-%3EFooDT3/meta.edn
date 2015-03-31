@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype FooDT3 [])", :ns "clojure.core.typed.test.tools-analyzer", :name "->FooDT3", :file "clojure/core/typed/test/tools_analyzer.clj", :column 1, :line 32, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.tools_analyzer.FooDT3."}

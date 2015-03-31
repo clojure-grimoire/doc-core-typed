@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Var1", :type :var, :src nil, :doc "An var that can read and write type x.\n\n(TFn [[x :variance :invariant]] (clojure.lang.Var x x))\n", :forms [(Var1 t)]}

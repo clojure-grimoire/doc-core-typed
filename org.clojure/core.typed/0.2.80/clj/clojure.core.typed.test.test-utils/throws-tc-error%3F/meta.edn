@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "throws-tc-error?", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro throws-tc-error? [& body]\n  `(err/with-ex-info-handlers\n     [err/tc-error? (constantly true)]\n     ~@body\n     false))", :column 1, :line 95, :macro true, :arglists ([& body])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "tc-err", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro tc-err [frm & opts]\n  (apply common-test/tc-err tc-common* frm opts))", :column 1, :line 85, :macro true, :arglists ([frm & opts])}

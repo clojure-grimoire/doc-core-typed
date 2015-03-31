@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn simple-filter-better? [f1 f2]\n  (or (fl/NoFilter? f2)\n      (sub/subtype-filter? f1 f2)))", :ns "clojure.core.typed.check-below", :name "simple-filter-better?", :file "clojure/core/typed/check_below.clj", :column 1, :line 13, :arglists ([f1 f2])}

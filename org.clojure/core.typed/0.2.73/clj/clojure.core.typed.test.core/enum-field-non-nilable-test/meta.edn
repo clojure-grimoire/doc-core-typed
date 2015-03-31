@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest enum-field-non-nilable-test\n  (is-tc-e (java.util.concurrent.TimeUnit/NANOSECONDS)\n           java.util.concurrent.TimeUnit))", :ns "clojure.core.typed.test.core", :name "enum-field-non-nilable-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1126, :test #<core$fn__27142 clojure.core.typed.test.core$fn__27142@17c0eaaa>}

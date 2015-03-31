@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn reset-dotted-var-store! []\n  (reset! DOTTED-VAR-STORE {})\n  nil)", :ns "clojure.core.typed.cs-gen", :name "reset-dotted-var-store!", :file "clojure/core/typed/cs_gen.clj", :column 1, :line 1226, :arglists ([])}

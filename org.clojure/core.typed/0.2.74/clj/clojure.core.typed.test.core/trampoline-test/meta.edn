@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest trampoline-test\n  (is (check-ns 'clojure.core.typed.test.trampoline)))", :ns "clojure.core.typed.test.core", :name "trampoline-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2841, :test #<core$fn__31264 clojure.core.typed.test.core$fn__31264@3e5c9435>}

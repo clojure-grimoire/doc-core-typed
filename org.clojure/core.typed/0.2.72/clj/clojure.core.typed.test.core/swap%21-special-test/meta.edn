@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest swap!-special-test\n  (is (check-ns 'clojure.core.typed.test.swap-bang)))", :ns "clojure.core.typed.test.core", :name "swap!-special-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2593, :test #<core$fn__30820 clojure.core.typed.test.core$fn__30820@17a0cd49>}

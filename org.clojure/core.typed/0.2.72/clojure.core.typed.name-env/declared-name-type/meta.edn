@@ -1,1 +1,0 @@
-{:type :var, :src "(def declared-name-type ::declared-name)", :ns "clojure.core.typed.name-env", :name "declared-name-type", :file "clojure/core/typed/name_env.clj", :column 1, :line 31}

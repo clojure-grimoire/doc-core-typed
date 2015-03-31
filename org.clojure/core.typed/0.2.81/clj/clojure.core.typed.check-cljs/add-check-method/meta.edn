@@ -1,0 +1,1 @@
+{:type :macro, :src "(u/add-defmethod-generator check)", :macro true, :ns "clojure.core.typed.check-cljs", :name "add-check-method", :file "clojure/core/typed/check_cljs.clj", :column 1, :line 72, :arglists ([nme params & body])}

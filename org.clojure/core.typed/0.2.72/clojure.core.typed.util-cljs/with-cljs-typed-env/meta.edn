@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro with-cljs-typed-env [& body]\n  `(env/with-compiler-env (or env/*compiler* default-env)\n     ~@body))", :macro true, :ns "clojure.core.typed.util-cljs", :name "with-cljs-typed-env", :file "clojure/core/typed/util_cljs.clj", :column 1, :line 12, :arglists ([& body])}

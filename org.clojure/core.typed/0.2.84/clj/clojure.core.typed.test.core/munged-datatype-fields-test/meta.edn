@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest munged-datatype-fields-test\n  (is (check-ns 'clojure.core.typed.test.munge-record-field)))", :ns "clojure.core.typed.test.core", :name "munged-datatype-fields-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1789, :test #<core$fn__27959 clojure.core.typed.test.core$fn__27959@3eca8a90>}

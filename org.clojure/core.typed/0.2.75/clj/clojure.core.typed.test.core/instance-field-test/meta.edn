@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest instance-field-test\n  (is-tc-e (.ns ^clojure.lang.Var #'clojure.core/map))\n  (is-tc-err (fn [] (.ns ^clojure.lang.Var 'a))))", :ns "clojure.core.typed.test.core", :name "instance-field-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1306, :test #<core$fn__27547 clojure.core.typed.test.core$fn__27547@76b6a229>}

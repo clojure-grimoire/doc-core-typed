@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest subtype-prims-cljs-test\n  (is-cljs (sub/subtype? (r/-val 1) (prs/parse-cljs 'number))))", :ns "clojure.core.typed.test.cljs", :name "subtype-prims-cljs-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 45, :test #<cljs$fn__17021 clojure.core.typed.test.cljs$fn__17021@11a78895>}

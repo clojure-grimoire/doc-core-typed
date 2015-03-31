@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn HList->HSequential [l]\n  {:pre [(r/HeterogeneousList? l)]\n   :post [(r/HSequential? %)]}\n  (r/-hsequential (:types l)))", :ns "clojure.core.typed.type-ctors", :name "HList->HSequential", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 85, :arglists ([l])}

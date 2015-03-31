@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.unsound-simplify", :name "foo", :file "clojure/core/typed/test/unsound_simplify.clj", :type :fn, :src "(defn foo [p]\n  (when (P1? p)\n    (get-p1 p)))", :column 1, :line 25, :arglists ([p])}

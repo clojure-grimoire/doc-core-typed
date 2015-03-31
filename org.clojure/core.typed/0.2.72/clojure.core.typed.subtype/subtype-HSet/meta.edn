@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn subtype-HSet [s t]\n  {:pre [(r/HSet? s)\n         (r/HSet? t)]}\n  (if (and (= (:fixed s) (:fixed t))\n           (:complete? s)\n           (:complete? t))\n    *sub-current-seen*\n    (fail! s t)))", :ns "clojure.core.typed.subtype", :name "subtype-HSet", :file "clojure/core/typed/subtype.clj", :column 1, :line 119, :arglists ([s t])}

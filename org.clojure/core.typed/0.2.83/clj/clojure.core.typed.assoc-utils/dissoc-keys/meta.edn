@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn dissoc-keys [t ks]\n  {:post [((some-fn nil? r/Type?) %)]}\n  (c/reduce-type-transform -dissoc-key t ks))", :ns "clojure.core.typed.assoc-utils", :name "dissoc-keys", :file "clojure/core/typed/assoc_utils.clj", :column 1, :line 169, :arglists ([t ks])}

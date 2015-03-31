@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-jsvar-type-env! [m]\n  (reset! CLJS-JSVAR-ANNOTATIONS m)\n  nil)", :ns "clojure.core.typed.var-env", :name "reset-jsvar-type-env!", :file "clojure/core/typed/var_env.clj", :column 1, :line 105, :arglists ([m])}

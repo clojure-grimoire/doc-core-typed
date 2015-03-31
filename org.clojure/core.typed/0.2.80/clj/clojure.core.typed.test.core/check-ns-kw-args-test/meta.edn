@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest check-ns-kw-args-test\n  (is (check-ns 'clojure.core.typed.test.interop :collect-only true)))", :ns "clojure.core.typed.test.core", :name "check-ns-kw-args-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2634, :test #<core$fn__30416 clojure.core.typed.test.core$fn__30416@75ee5dcf>}

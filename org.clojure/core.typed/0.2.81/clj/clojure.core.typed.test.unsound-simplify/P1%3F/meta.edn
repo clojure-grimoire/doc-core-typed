@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.unsound-simplify", :name "P1?", :file "clojure/core/typed/test/unsound_simplify.clj", :type :fn, :src "(defn P1? [a]\n  (satisfies? P1 a))", :column 1, :line 17, :arglists ([a])}

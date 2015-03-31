@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJS-JSVAR-ANNOTATIONS (atom {} :validator (con/hash-c? symbol? r/Type?)))", :ns "clojure.core.typed.var-env", :name "CLJS-JSVAR-ANNOTATIONS", :file "clojure/core/typed/var_env.clj", :column 1, :line 26}

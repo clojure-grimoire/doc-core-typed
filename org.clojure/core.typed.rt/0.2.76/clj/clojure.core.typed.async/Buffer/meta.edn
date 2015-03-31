@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Buffer", :type :var, :src nil, :doc "A buffer of type x.\n\n(TFn [[x :variance :invariant]] (Buffer2 x x))\n", :forms [(Buffer t)]}

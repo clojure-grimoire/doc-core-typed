@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-49 \n  (is (check-ns 'clojure.core.typed.test.succeed.CTYP49-unreachable)))", :ns "clojure.core.typed.test.core", :name "CTYP-49", :file "clojure/core/typed/test/core.clj", :column 1, :line 1817, :test #<core$fn__28208 clojure.core.typed.test.core$fn__28208@19a0080b>}

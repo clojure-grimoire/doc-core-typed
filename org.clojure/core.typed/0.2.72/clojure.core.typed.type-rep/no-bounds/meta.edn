@@ -1,1 +1,0 @@
-{:type :var, :src "(def no-bounds (Bounds-maker -any (Un) nil))", :ns "clojure.core.typed.type-rep", :name "no-bounds", :file "clojure/core/typed/type_rep.clj", :column 1, :line 900}

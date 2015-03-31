@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn check-form-info \n  [form & opts]\n  (load-if-needed)\n  (apply (impl/v 'clojure.core.typed.check-form-cljs/check-form-info)\n         form opts))", :ns "cljs.core.typed", :name "check-form-info", :file "cljs/core/typed.clj", :column 1, :line 242, :arglists ([form & opts])}

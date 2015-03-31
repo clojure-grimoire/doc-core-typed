@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "trace-s", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro trace-s []\n  \"Goal that prints the current substitution\"\n  `(fn [a#]\n     (println (str a#))\n     a#))", :column 1, :line 121, :macro true, :arglists ([])}

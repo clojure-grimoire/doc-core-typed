@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn var-exists? [env prefix suffix]\n  (let [compiler env/*compiler*\n        _ (assert compiler)]\n    (contains? (get-in @compiler [::ana/namespaces prefix :defs])\n               suffix)))", :ns "clojure.core.typed.util-cljs", :name "var-exists?", :file "clojure/core/typed/util_cljs.clj", :column 1, :line 16, :arglists ([env prefix suffix])}

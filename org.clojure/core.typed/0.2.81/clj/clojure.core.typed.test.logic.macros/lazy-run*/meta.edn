@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "lazy-run*", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro lazy-run*\n  \"Lazily executes goals until results are exhausted.\"\n  [& goals]\n  `(solve false ~@goals))", :column 1, :line 102, :macro true, :arglists ([& goals]), :doc "Lazily executes goals until results are exhausted."}

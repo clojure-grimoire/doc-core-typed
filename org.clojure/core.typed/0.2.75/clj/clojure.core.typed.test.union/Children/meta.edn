@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.union", :name "Children", :type :var, :src nil, :doc "A children API exists, but not checked yet\n\nt/Any\n"}

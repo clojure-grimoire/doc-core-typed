@@ -1,1 +1,0 @@
-{:type :var, :src "(defmulti parse-path-elem \n  #(cond\n     (symbol? %) %\n     (coll? %) (first %)\n     :else \n       (err/int-error (str \"Malformed path element: \" (pr-str %)))))", :ns "clojure.core.typed.parse-unparse", :name "parse-path-elem", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 1033}

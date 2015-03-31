@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn derive-error [kw]\n  (derive kw tc-error-parent))", :ns "clojure.core.typed.errors", :name "derive-error", :file "clojure/core/typed/errors.clj", :column 1, :line 15, :arglists ([kw])}

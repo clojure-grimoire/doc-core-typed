@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type ListDots [pre-type bound]\n  \"A dotted list\"\n  [(Type? pre-type)\n   ((some-fn F? B?) bound)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "ListDots?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 829, :arglists ([a__2329__auto__])}

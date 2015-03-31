@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro handle-subtype-failure [& body]\n  `(try\n     ~@body\n     (catch Exception e#\n       (if (identical? subtype-exn e#)\n         false\n         (throw e#)))))", :macro true, :ns "clojure.core.typed.utils", :name "handle-subtype-failure", :file "clojure/core/typed/utils.clj", :column 1, :line 32, :arglists ([& body])}

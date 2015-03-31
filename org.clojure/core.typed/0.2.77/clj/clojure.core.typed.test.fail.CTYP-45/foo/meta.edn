@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.fail.CTYP-45", :doc nil, :arglists ([my-proto]), :name "foo"}

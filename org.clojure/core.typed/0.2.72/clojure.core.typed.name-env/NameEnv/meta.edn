@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.name-env", :name "NameEnv", :type :var, :src nil, :doc "Environment mapping names to types. Keyword values are special.\n\n(t/Map t/Sym (t/U t/Kw r/Type))\n"}

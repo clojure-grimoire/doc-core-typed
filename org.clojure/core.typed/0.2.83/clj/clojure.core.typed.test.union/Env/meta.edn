@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.union", :name "Env", :file "clojure/core/typed/test/union.clj", :type :var, :src "(t/defalias Env\n  \"An environment\"\n  (t/HMap :optional {:line t/Int,\n                     :column t/Int,\n                     :source t/Any}))", :column 1, :line 22, :declared true, :doc "An environment"}

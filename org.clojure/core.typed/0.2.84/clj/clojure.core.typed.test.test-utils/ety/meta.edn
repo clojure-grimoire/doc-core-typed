@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "ety", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro ety [f]\n  `(-> (eret ~f) r/ret-t))", :column 1, :line 145, :macro true, :arglists ([f])}

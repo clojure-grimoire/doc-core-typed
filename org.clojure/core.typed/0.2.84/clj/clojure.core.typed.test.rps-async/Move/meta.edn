@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rps-async", :name "Move", :file "clojure/core/typed/test/rps_async.clj", :type :var, :src "(t/defalias Move\n  \"A legal move in rock-paper-scissors\"\n  (t/U ':rock ':paper ':scissors))", :column 1, :line 11, :declared true, :doc "A legal move in rock-paper-scissors"}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *dotted-scope* {})", :ns "clojure.core.typed.dvar-env", :name "*dotted-scope*", :file "clojure/core/typed/dvar_env.clj", :column 1, :dynamic true, :line 13}

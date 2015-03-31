@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.get-bounded-tvar", :name "QuilSketch", :file "clojure/core/typed/test/get_bounded_tvar.clj", :type :var, :src "(t/defalias QuilSketch Number)", :column 1, :line 4, :declared true}

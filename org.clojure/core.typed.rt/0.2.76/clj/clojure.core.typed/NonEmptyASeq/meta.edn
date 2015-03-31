@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "NonEmptyASeq", :type :var, :src nil, :doc "A sequential non-empty seq retured from clojure.core/seq\n\n(TFn\n [[x :variance :covariant]]\n (I\n  (clojure.lang.ISeq x)\n  clojure.lang.Sequential\n  (Iterable x)\n  (java.util.Collection x)\n  (java.util.List x)\n  clojure.lang.IObj\n  (CountRange 1)))\n", :forms [(NonEmptyASeq t)]}

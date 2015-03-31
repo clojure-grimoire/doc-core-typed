@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol PProcess\n  (stop [system] :- PProcess\n        \"Runs side effects to stop the process. Returns the process.\"))", :doc nil, :ns "clojure.core.typed.test.CTYP-37", :name "PProcess", :file "clojure/core/typed/test/CTYP_37.clj", :column 1, :line 7}

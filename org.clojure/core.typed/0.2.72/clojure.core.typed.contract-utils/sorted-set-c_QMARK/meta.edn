@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn sorted-set-c? [c?]\n  (every-pred sorted?\n              (set-c? c?)))", :ns "clojure.core.typed.contract-utils", :name "sorted-set-c?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 69, :arglists ([c?])}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(def parsed-free-map? (con/hmap-c? :fname symbol?\n                                   :bnd r/Bounds?\n                                   :variance r/variance?))", :ns "clojure.core.typed.parse-unparse", :name "parsed-free-map?", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 96}

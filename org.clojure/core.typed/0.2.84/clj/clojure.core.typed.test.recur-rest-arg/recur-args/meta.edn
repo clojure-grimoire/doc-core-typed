@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.recur-rest-arg", :name "recur-args", :file "clojure/core/typed/test/recur_rest_arg.clj", :type :fn, :src "(defn recur-args \n  [& args]\n  (recur args))", :column 1, :line 5, :arglists ([& args])}

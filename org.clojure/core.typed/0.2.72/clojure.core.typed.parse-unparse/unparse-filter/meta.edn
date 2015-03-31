@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn unparse-filter [f]\n  (unparse-filter* f))", :ns "clojure.core.typed.parse-unparse", :name "unparse-filter", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 1672, :arglists ([f])}

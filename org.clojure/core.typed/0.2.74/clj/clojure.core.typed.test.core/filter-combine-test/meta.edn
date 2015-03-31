@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest filter-combine-test\n  (is (check-ns 'clojure.core.typed.test.filter-combine)))", :ns "clojure.core.typed.test.core", :name "filter-combine-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1224, :test #<core$fn__27456 clojure.core.typed.test.core$fn__27456@5a568a04>}

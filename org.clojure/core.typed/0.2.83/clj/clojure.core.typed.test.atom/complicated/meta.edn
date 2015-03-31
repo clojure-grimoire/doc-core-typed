@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.atom", :name "complicated", :file "clojure/core/typed/test/atom.clj", :type :var, :src "(def complicated (atom {:a {:b {}}}))", :column 1, :line 16}

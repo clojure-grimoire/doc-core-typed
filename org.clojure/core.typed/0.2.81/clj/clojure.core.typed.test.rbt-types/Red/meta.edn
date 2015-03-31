@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt-types", :name "Red", :file "clojure/core/typed/test/rbt_types.clj", :type :var, :src "(defalias Red\n  \"A red node\"\n  (t/TFn [[l :variance :covariant]\n          [r :variance :covariant]]\n    '{:tree ':Red\n      :entry EntryT\n      :left l\n      :right r}))", :column 1, :line 17, :declared true, :doc "A red node"}

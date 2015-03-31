@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -top-fn []\n  -top)", :ns "clojure.core.typed.filter-rep", :name "-top-fn", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 55, :arglists ([])}

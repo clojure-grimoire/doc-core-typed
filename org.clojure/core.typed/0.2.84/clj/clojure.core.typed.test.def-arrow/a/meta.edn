@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.def-arrow", :name "a", :file "clojure/core/typed/test/def_arrow.clj", :type :var, :src "(t/def a :- Number, 1)", :column 1, :line 4}

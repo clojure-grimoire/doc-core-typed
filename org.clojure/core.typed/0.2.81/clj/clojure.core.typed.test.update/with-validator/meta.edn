@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.update", :name "with-validator", :file "clojure/core/typed/test/update.clj", :type :macro, :src "(defmacro with-validator [v & body]\n  `(let [~v (atom true :validator (constantly true))\n         b# ~@body]\n     b#))", :column 1, :line 18, :macro true, :arglists ([v & body])}

@@ -1,1 +1,0 @@
-{:type :var, :src "(def cs-gen-exn (Exception. \"Constraint generation failed.\"))", :ns "clojure.core.typed.utils", :name "cs-gen-exn", :file "clojure/core/typed/utils.clj", :column 1, :line 30}

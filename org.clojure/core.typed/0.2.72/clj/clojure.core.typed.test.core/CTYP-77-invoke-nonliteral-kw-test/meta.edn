@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-77-invoke-nonliteral-kw-test\n  (is (check-ns 'clojure.core.typed.test.non-literal-val-fn)))", :ns "clojure.core.typed.test.core", :name "CTYP-77-invoke-nonliteral-kw-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2219, :test #<core$fn__29638 clojure.core.typed.test.core$fn__29638@6f4db3b9>}

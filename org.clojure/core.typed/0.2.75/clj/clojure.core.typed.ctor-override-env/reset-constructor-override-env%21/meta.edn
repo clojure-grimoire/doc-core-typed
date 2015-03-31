@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-constructor-override-env! [m]\n  (reset! CONSTRUCTOR-OVERRIDE-ENV m)\n  nil)", :ns "clojure.core.typed.ctor-override-env", :name "reset-constructor-override-env!", :file "clojure/core/typed/ctor_override_env.clj", :column 1, :line 16, :arglists ([m])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.union", :name "Env", :type :var, :src nil, :doc "An environment\n\n(t/HMap :optional {:line t/Int, :column t/Int, :source t/Any})\n"}

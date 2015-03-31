@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type Value [val]\n  \"A Clojure value\"\n  []\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "Value?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 391, :arglists ([a__2329__auto__])}

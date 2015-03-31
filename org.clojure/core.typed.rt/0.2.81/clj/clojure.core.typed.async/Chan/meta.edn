@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Chan", :file "clojure/core/typed/async.clj", :type :var, :src "(defalias \n  ^{:forms '[(Chan t)]}\n  Chan\n  \"A core.async channel\"\n  (TFn [[x :variance :invariant]]\n    (Chan2 x x)))", :column 1, :line 98, :declared true, :doc "A core.async channel", :forms [(Chan t)]}

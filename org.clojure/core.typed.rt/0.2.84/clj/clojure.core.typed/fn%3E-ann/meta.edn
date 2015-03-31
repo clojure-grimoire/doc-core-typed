@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  fn>-ann \n  \"Internal use only. Use fn>.\"\n  [fn-of param-types-syn]\n  fn-of)", :ns "clojure.core.typed", :name "fn>-ann", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 130, :doc "Internal use only. Use fn>."}

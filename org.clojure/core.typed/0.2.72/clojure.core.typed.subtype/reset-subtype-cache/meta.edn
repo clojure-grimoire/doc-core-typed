@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn reset-subtype-cache []\n  (reset! subtype-cache {})\n  nil)", :ns "clojure.core.typed.subtype", :name "reset-subtype-cache", :file "clojure/core/typed/subtype.clj", :column 1, :line 75, :arglists ([])}

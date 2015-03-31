@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki add-to-alias-env [form qsym t]\n  (swap! impl/alias-env assoc qsym \n         (impl/with-impl impl/clojure\n           (with-current-location form\n             (delay-parse t))))\n  nil)", :ns "clojure.core.typed", :name "add-to-alias-env", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 1211}

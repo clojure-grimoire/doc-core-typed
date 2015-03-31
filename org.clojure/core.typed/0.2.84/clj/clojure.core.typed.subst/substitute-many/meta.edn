@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn substitute-many [target images names]\n  (reduce (fn [t [im nme]] (substitute im nme t))\n          target\n          (map vector images names)))", :ns "clojure.core.typed.subst", :name "substitute-many", :file "clojure/core/typed/subst.clj", :column 1, :line 44, :arglists ([target images names])}

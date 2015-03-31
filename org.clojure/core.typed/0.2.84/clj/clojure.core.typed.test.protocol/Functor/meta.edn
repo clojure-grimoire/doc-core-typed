@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol [[F :variance :covariant, \n               :> FunctorLB\n               :< Functor]]\n  Functor\n  ([a b c ...] fmap [fv :- (F a), g :- [a :-> b]] :- (F b)))", :doc nil, :ns "clojure.core.typed.test.protocol", :name "Functor", :file "clojure/core/typed/test/protocol.clj", :column 1, :line 46}

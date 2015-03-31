@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn internal-dispatch-val [expr]\n  (:form (second (:statements expr))))", :ns "clojure.core.typed.utils", :name "internal-dispatch-val", :file "clojure/core/typed/utils.clj", :column 1, :line 359, :arglists ([expr])}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/defrecord dmap [map]\n  \"\"\n  [((con/hash-c? symbol? dcon-c?) map)])", :ns "clojure.core.typed.cs-rep", :name "dmap?", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 103, :arglists ([r__382__auto__])}

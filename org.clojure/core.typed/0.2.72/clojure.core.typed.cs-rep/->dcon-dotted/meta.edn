@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/defrecord dcon-dotted [fixed dc dbound]\n  \"\"\n  [(every? c? fixed)\n   (c? dc)\n   (r/F? dbound)])", :ns "clojure.core.typed.cs-rep", :name "->dcon-dotted", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 90, :arglists ([fixed dc dbound]), :doc ""}

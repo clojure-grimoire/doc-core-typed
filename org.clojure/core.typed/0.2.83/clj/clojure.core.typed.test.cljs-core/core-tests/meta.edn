@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.cljs-core", :name "core-tests", :file "clojure/core/typed/test/cljs_core.clj", :type :var, :src "(def core-tests (atom {}))", :column 1, :line 11}

@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol IFoo\n  (bar [this]))", :doc nil, :ns "clojure.core.typed.test.protocol-untyped-extend", :name "IFoo", :file "clojure/core/typed/test/protocol_untyped_extend.clj", :column 1, :line 8}

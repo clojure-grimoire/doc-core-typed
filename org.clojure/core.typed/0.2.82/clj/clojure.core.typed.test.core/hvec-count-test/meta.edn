@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest hvec-count-test\n  (is (not\n        (sub?-q `(I (CountRange 1) (HVec [clojure.core.typed/Any ~'*]))\n                `(CountRange 0 0)))))", :ns "clojure.core.typed.test.core", :name "hvec-count-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3115, :test #<core$fn__31726 clojure.core.typed.test.core$fn__31726@4a478e67>}

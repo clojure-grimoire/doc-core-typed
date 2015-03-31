@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest flatten-test\n  (is-tc-e (flatten nil))\n  (is-tc-e (flatten [1 2]))\n  (is-tc-e (vec (flatten [1 2])))\n  (is-tc-err (flatten :a)))", :ns "clojure.core.typed.test.core", :name "flatten-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 4564, :test #<core$fn__37704 clojure.core.typed.test.core$fn__37704@23c22f85>}

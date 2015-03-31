@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "both-sub?", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro both-sub? [s t]\n  `(both-subtype? (parse-type '~s)\n                  (parse-type '~t)))", :column 1, :line 119, :macro true, :arglists ([s t])}

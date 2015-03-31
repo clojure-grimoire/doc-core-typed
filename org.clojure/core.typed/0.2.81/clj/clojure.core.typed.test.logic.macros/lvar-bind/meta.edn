@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "lvar-bind", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn lvar-bind [sym]\n  ((juxt identity\n         (fn [s] `(cljs.core.logic/lvar '~s))) sym))", :column 1, :line 20, :arglists ([sym])}

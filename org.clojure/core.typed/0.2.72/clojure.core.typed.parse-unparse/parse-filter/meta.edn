@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-filter [f]\n  (cond\n    (= 'tt f) f/-top\n    (= 'ff f) f/-bot\n    (not ((some-fn seq? list?) f)) (err/int-error (str \"Malformed filter expression: \" (pr-str f)))\n    :else (parse-filter* f)))", :ns "clojure.core.typed.parse-unparse", :name "parse-filter", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 972, :arglists ([f])}

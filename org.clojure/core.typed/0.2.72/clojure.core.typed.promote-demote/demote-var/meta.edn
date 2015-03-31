@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn demote-var [T V]\n  {:pre [(r/AnyType? T)\n         (set? V)\n         (every? symbol? V)]\n   :post [(r/AnyType? %)]}\n  (demote T V))", :ns "clojure.core.typed.promote-demote", :name "demote-var", :file "clojure/core/typed/promote_demote.clj", :column 1, :line 50, :arglists ([T V])}

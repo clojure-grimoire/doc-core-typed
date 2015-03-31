@@ -1,0 +1,1 @@
+{:type :var, :src "(def ExpectedDispatchType ::expected-dispatch-type)", :ns "clojure.core.typed.check.multi", :name "ExpectedDispatchType", :file "clojure/core/typed/check/multi.clj", :column 1, :line 8}

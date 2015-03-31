@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn make-ExactCountRange [c]\n  {:pre [(con/znat? c)]}\n  (make-CountRange c c))", :ns "clojure.core.typed.type-rep", :name "make-ExactCountRange", :file "clojure/core/typed/type_rep.clj", :column 1, :line 793, :arglists ([c])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn dummy-fn-expr [methods variadic-method env]\n  {:op :fn\n   :env env\n   :methods (vec (concat methods (when variadic-method [variadic-method])))\n   :variadic? (boolean variadic-method)})", :ns "clojure.core.typed.ast-utils", :name "dummy-fn-expr", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 70, :arglists ([methods variadic-method env])}

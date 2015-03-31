@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype Foo []\n  PBar\n  (rec [this bar]\n    (if (even? (rand-int 10))\n      (recur bar)\n      bar)))", :ns "clojure.core.typed.test.datatype-recur", :name "->Foo", :file "clojure/core/typed/test/datatype_recur.clj", :column 1, :line 8, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.datatype_recur.Foo."}

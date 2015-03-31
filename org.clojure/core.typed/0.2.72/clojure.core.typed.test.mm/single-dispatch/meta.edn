@@ -1,1 +1,0 @@
-{:type :var, :src "(defmulti single-dispatch :op)", :ns "clojure.core.typed.test.mm", :name "single-dispatch", :file "clojure/core/typed/test/mm.clj", :column 1, :line 14}

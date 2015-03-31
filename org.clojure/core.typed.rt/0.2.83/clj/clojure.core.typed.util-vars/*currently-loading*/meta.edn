@@ -1,0 +1,1 @@
+{:type :var, :src "(def ^:skip-wiki ^:dynamic *currently-loading* false)", :ns "clojure.core.typed.util-vars", :name "*currently-loading*", :file "clojure/core/typed/util_vars.clj", :skip-wiki true, :column 1, :dynamic true, :line 36}

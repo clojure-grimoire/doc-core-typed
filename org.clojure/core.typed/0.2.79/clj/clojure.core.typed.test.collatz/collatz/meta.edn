@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.collatz", :name "collatz", :file "clojure/core/typed/test/collatz.clj", :type :fn, :src "(defn collatz [n]\n  (cond\n    (= 1 n) \n     1\n    (and (integer? n) \n         (even? n)) \n     (collatz (/ n 2))\n    :else \n     (collatz (inc (* 3 n)))))", :column 1, :line 5, :arglists ([n])}

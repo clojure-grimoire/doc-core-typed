@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rec-type", :name "Report", :type :var, :src nil, :doc "\n\n(t/Rec [x] (t/Map t/Any (t/U t/Keyword x)))\n"}

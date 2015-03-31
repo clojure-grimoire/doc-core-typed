@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn declare-datatype* [sym]\n  (add-type-name sym datatype-name-type)\n  nil)", :ns "clojure.core.typed.name-env", :name "declare-datatype*", :file "clojure/core/typed/name_env.clj", :column 1, :line 131, :arglists ([sym])}

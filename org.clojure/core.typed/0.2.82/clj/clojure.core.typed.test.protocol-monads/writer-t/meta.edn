@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-monads", :name "writer-t", :file "clojure/core/typed/test/protocol_monads.clj", :type :fn, :src "(defn writer-t [m accumulator]\n  (let [writer-m (writer accumulator)]\n    (fn [v]\n      (writer-transformer. m (m (writer-m v)) writer-m))))", :column 1, :line 624, :arglists ([m accumulator])}

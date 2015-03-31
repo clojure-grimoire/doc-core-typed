@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  declare-alias-kind* \n  \"Internal use only. Use declare-alias-kind.\"\n  [sym ty]\n  nil)", :ns "clojure.core.typed", :name "declare-alias-kind*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 1158, :doc "Internal use only. Use declare-alias-kind."}

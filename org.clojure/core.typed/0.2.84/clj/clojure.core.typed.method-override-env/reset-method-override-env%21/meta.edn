@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-method-override-env! [m]\n  (reset! METHOD-OVERRIDE-ENV m)\n  nil)", :ns "clojure.core.typed.method-override-env", :name "reset-method-override-env!", :file "clojure/core/typed/method_override_env.clj", :column 1, :line 20, :arglists ([m])}

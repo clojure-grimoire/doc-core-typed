@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rps-async", :name "PlayerName", :type :var, :src nil, :doc "A player's name in rock-paper-scissors\n\nt/Str\n"}

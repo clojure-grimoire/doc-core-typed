@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro with-recur-target [tgt & body]\n  `(binding [*recur-target* ~tgt]\n     ~@body))", :macro true, :ns "clojure.core.typed.check.recur-utils", :name "with-recur-target", :file "clojure/core/typed/check/recur_utils.clj", :column 1, :line 24, :arglists ([tgt & body])}

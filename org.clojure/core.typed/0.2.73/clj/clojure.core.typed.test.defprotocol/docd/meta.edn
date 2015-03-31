@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.defprotocol", :doc "trailing docstring", :arglists ([this a]), :name "docd"}

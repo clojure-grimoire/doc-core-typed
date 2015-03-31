@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest unannotated-datatype-test\n  (is (check-ns 'clojure.core.typed.test.unannotated-datatype)))", :ns "clojure.core.typed.test.core", :name "unannotated-datatype-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1743, :test #<core$fn__28040 clojure.core.typed.test.core$fn__28040@1e103b05>}

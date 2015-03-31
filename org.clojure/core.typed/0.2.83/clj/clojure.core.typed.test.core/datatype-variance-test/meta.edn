@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest datatype-variance-test\n  (is (check-ns 'clojure.core.typed.test.variance-test)))", :ns "clojure.core.typed.test.core", :name "datatype-variance-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2943, :test #<core$fn__31330 clojure.core.typed.test.core$fn__31330@496cff2a>}

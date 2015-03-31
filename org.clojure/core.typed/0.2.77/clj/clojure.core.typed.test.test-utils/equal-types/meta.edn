@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "equal-types", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro equal-types [l r]\n  `(equal-types-noparse ~l (binding [*ns* (find-ns '~'clojure.core.typed)] (parse-type (quote ~r)))))", :column 1, :line 164, :macro true, :arglists ([l r])}

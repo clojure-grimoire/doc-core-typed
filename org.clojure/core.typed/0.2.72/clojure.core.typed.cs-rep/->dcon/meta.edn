@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/defrecord dcon [fixed rest]\n  \"\"\n  [(every? c? fixed)\n   ((some-fn nil? c?) rest)])", :ns "clojure.core.typed.cs-rep", :name "->dcon", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 75, :arglists ([fixed rest]), :doc ""}

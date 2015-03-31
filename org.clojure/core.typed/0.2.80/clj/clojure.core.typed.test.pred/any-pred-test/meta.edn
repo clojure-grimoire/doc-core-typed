@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest any-pred-test\n  (is ((every-pred\n         (t/pred t/Any))\n       1 2 nil [1])))", :ns "clojure.core.typed.test.pred", :name "any-pred-test", :file "clojure/core/typed/test/pred.clj", :column 1, :line 178, :test #<pred$fn__20504 clojure.core.typed.test.pred$fn__20504@3da07c8c>}

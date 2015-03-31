@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro prepare-check-fn [& body]\n  `(binding [fn-method-u/*check-fn-method1-checkfn* check\n             fn-method-u/*check-fn-method1-rest-type* check-fn-rest]\n     ~@body))", :macro true, :ns "clojure.core.typed.check-cljs", :name "prepare-check-fn", :file "clojure/core/typed/check_cljs.clj", :column 1, :line 250, :arglists ([& body])}

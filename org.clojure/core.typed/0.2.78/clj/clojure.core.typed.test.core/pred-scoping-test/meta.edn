@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest pred-scoping-test\n  (is (check-ns 'clojure.core.typed.test.pred-scoping)))", :ns "clojure.core.typed.test.core", :name "pred-scoping-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3036, :test #<core$fn__31667 clojure.core.typed.test.core$fn__31667@1e2bf1ec>}

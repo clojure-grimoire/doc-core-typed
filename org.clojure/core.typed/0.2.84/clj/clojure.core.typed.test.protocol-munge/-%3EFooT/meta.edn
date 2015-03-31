@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype FooT []\n  Foo\n  (my_dash [this] 1)\n  Bar\n  (my_dash_interface [this] 'a))", :ns "clojure.core.typed.test.protocol-munge", :name "->FooT", :file "clojure/core/typed/test/protocol_munge.clj", :column 1, :line 13, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.protocol_munge.FooT."}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn used-vars []\n  @(current-used-vars))", :ns "clojure.core.typed.var-env", :name "used-vars", :file "clojure/core/typed/var_env.clj", :column 1, :line 58, :arglists ([])}

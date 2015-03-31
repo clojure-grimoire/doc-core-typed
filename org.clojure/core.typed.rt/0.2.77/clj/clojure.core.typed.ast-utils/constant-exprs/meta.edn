@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn constant-exprs [exprs]\n  (map constant-expr exprs))", :ns "clojure.core.typed.ast-utils", :name "constant-exprs", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 44, :arglists ([exprs])}

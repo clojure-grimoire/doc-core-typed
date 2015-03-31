@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.mm", :name "Expr", :file "clojure/core/typed/test/mm.clj", :type :var, :src "(t/defalias Expr\n  (t/U '{:op ':test1\n         :a Number\n         :b Number}\n       '{:op ':test2}))", :column 1, :line 4, :declared true}

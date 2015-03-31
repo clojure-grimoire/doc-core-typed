@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn declare-protocol* [sym]\n  {:pre [(symbol? sym)\n         (namespace sym)]}\n  (add-type-name sym protocol-name-type)\n  nil)", :ns "clojure.core.typed.name-env", :name "declare-protocol*", :file "clojure/core/typed/name_env.clj", :column 1, :line 124, :arglists ([sym])}

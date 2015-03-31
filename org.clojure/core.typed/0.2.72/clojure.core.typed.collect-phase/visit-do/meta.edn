@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn visit-do [{:keys [statements ret] :as expr} f]\n  (when (internal-form? expr)\n    (internal-collect-expr expr))\n  (doseq [expr (concat statements [ret])]\n    (f expr)))", :ns "clojure.core.typed.collect-phase", :name "visit-do", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 88, :arglists ([{:keys [statements ret], :as expr} f])}

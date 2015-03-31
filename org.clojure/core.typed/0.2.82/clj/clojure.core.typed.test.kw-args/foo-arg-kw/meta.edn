@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.kw-args", :name "foo-arg-kw", :file "clojure/core/typed/test/kw_args.clj", :type :fn, :src "(defn foo-arg-kw [c & {:keys [a]}]\n  (when a\n    (inc a)))", :column 1, :line 17, :arglists ([c & {:keys [a]}])}

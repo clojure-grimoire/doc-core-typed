@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.CTYP-124-case-update-default", :name "case-default", :file "clojure/core/typed/test/CTYP_124_case_update_default.clj", :type :fn, :src "(defn case-default [e]\n  (case e\n    :a :b\n    e))", :column 1, :line 5, :arglists ([e])}

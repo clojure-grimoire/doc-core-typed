@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol IValidator\n  \"Validator abstraction\"\n  (validate- [this value] :- ValidationResult\n             \"Evaluates the validator.\"))", :doc "Validator abstraction", :ns "clojure.core.typed.test.recursive", :name "IValidator", :file "clojure/core/typed/test/recursive.clj", :column 1, :line 5}

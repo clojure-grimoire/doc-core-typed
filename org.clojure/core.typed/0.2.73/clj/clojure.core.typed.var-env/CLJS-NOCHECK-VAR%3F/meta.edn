@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJS-NOCHECK-VAR? (atom #{} :validator (con/set-c? (every-pred symbol? namespace))))", :ns "clojure.core.typed.var-env", :name "CLJS-NOCHECK-VAR?", :file "clojure/core/typed/var_env.clj", :column 1, :line 22}

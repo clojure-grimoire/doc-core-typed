@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Future", :type :var, :src nil, :doc "A Clojure future (see clojure.core/{future-call,future}).\n\n(TFn\n [[x :variance :covariant]]\n (Extends\n  [(clojure.lang.IDeref x)\n   (clojure.lang.IBlockingDeref x)\n   clojure.lang.IPending\n   java.util.concurrent.Future]))\n", :forms [(Future t)]}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest static-pred-test\n  (is (check-ns 'clojure.core.typed.test.pred-hmap)))", :ns "clojure.core.typed.test.core", :name "static-pred-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3168, :test #<core$fn__30056 clojure.core.typed.test.core$fn__30056@7895ca84>}

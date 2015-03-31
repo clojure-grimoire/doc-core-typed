@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-Nothing [s]\n  (parse-U `(clojure.core.typed/U)))", :ns "clojure.core.typed.parse-ast", :name "parse-Nothing", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 855, :arglists ([s])}

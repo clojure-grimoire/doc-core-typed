@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest HMap-syntax-test\n  (is-clj (= (parse-type `(HMap :absent-keys #{:op}))\n             (make-HMap :absent-keys #{(-val :op)} :complete? false))))", :ns "clojure.core.typed.test.core", :name "HMap-syntax-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1459, :test #<core$fn__27754 clojure.core.typed.test.core$fn__27754@523b55d7>}

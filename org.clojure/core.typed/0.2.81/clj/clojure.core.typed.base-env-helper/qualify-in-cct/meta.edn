@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn qualify-in-cct [as]\n  (for [[k v] (partition 2 as)]\n    [(-> (symbol \"clojure.core.typed\" (name k))\n         (with-meta (meta k)))\n     v]))", :ns "clojure.core.typed.base-env-helper", :name "qualify-in-cct", :file "clojure/core/typed/base_env_helper.clj", :column 1, :line 19, :arglists ([as])}

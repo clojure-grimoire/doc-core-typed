@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn unparse-flow-set [flow]\n  {:pre [(r/FlowSet? flow)]}\n  (unparse-filter (r/flow-normal flow)))", :ns "clojure.core.typed.parse-unparse", :name "unparse-flow-set", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 1402, :arglists ([flow])}

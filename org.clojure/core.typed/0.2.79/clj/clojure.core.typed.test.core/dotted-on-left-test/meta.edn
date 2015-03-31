@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest dotted-on-left-test\n  (is-tc-e (memoize (fn []))))", :ns "clojure.core.typed.test.core", :name "dotted-on-left-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1208, :test #<core$fn__27267 clojure.core.typed.test.core$fn__27267@468a8675>}

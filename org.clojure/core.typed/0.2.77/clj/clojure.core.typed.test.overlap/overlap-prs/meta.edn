@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.overlap", :name "overlap-prs", :file "clojure/core/typed/test/overlap.clj", :type :macro, :src "(defmacro overlap-prs [s1 s2]\n  `(clj\n     (overlap (parse-type ~s1) (parse-type ~s2))))", :column 1, :line 10, :macro true, :arglists ([s1 s2])}

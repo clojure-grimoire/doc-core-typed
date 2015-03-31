@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest hmap-subtype\n  (is-cf {} (clojure.lang.APersistentMap clojure.core.typed/Any clojure.core.typed/Any)))", :ns "clojure.core.typed.test.core", :name "hmap-subtype", :file "clojure/core/typed/test/core.clj", :column 1, :line 982, :test #<core$fn__26917 clojure.core.typed.test.core$fn__26917@485a11e7>}

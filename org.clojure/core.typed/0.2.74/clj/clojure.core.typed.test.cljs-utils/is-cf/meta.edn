@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.cljs-utils", :name "is-cf", :file "clojure/core/typed/test/cljs_utils.clj", :type :macro, :src "(defmacro is-cf [& body]\n  `(is-cljs (t/cf ~@body) true))", :column 1, :line 33, :macro true, :arglists ([& body])}

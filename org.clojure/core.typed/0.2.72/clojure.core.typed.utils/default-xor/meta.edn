@@ -1,1 +1,0 @@
-{:type :var, :src "(def default-xor 1)", :ns "clojure.core.typed.utils", :name "default-xor", :file "clojure/core/typed/utils.clj", :column 1, :line 135}

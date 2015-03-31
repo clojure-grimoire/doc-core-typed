@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rec-type", :name "Data", :file "clojure/core/typed/test/rec_type.clj", :type :var, :src "(t/defalias Data\n  (t/Map t/Any t/Any))", :column 1, :line 21, :declared true}

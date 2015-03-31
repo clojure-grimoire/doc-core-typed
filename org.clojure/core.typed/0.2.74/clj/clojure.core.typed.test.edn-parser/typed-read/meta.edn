@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.edn-parser", :name "typed-read", :file "clojure/core/typed/test/edn_parser.clj", :type :fn, :src "(t/tc-ignore\n(defn typed-read [r]\n  (edn/read r))\n  )", :column 1, :line 26, :arglists ([r])}

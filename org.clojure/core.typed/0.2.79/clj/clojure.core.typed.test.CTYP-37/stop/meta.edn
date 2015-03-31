@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.CTYP-37", :doc "Runs side effects to stop the process. Returns the process.", :arglists ([system]), :name "stop"}

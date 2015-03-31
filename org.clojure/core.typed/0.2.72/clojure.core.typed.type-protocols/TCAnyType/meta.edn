@@ -1,1 +1,0 @@
-{:type :var, :src "(u/defprotocol TCAnyType)", :doc nil, :ns "clojure.core.typed.type-protocols", :name "TCAnyType", :file "clojure/core/typed/type_protocols.clj", :column 1, :line 13}

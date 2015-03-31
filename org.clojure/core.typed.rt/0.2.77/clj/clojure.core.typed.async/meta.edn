@@ -1,0 +1,1 @@
+{:doc "This namespace contains annotations and helper macros for type\n    checking core.async code. Ensure clojure.core.async is require'd\n    before performing type checking.\n    \n    go\n      use go\n\n    chan\n      use chan\n\n    buffer\n      use buffer (similar for other buffer constructors)\n    "}

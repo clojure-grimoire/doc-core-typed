@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest seq-test\n  (is-tc-e [1 2 3] (t/Coll int))\n  (is-tc-e [1 2 3] (t/Seqable int))  ;;not sure if it should be...\n  (is-tc-e (seq [1 2 3]) (t/NonEmptyASeq int)))", :ns "clojure.core.typed.test.cljs", :name "seq-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 138, :test #<cljs$fn__17911 clojure.core.typed.test.cljs$fn__17911@57b177d9>}

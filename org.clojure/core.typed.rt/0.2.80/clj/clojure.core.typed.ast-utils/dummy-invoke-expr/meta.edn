@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn dummy-invoke-expr [fexpr args env]\n  {:op :invoke\n   :env env\n   :fn fexpr\n   :args args})", :ns "clojure.core.typed.ast-utils", :name "dummy-invoke-expr", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 55, :arglists ([fexpr args env])}

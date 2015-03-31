@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype NoisyHole [])", :ns "clojure.core.typed.hole", :name "->NoisyHole", :file "clojure/core/typed/hole.clj", :column 1, :line 17, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.hole.NoisyHole."}

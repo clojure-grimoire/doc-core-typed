@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn reset-protocol-env! [e]\n  (assert-protocol-env)\n  (t/when-let-fail [env *current-protocol-env*]\n    (reset! env e))\n  nil)", :ns "clojure.core.typed.protocol-env", :name "reset-protocol-env!", :file "clojure/core/typed/protocol_env.clj", :column 1, :line 40, :arglists ([e])}

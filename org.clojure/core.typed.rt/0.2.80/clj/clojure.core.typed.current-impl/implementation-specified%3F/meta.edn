@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn implementation-specified? []\n  (boolean *current-impl*))", :ns "clojure.core.typed.current-impl", :name "implementation-specified?", :file "clojure/core/typed/current_impl.clj", :column 1, :line 116, :arglists ([])}

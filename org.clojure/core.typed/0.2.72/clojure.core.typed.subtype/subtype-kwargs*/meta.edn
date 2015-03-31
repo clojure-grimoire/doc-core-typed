@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn subtype-kwargs* [^KwArgs s ^KwArgs t]\n  {:pre [((some-fn r/KwArgs? nil?) s)\n         ((some-fn r/KwArgs? nil?) t)]}\n  (if (= s t)\n    *sub-current-seen*\n    (err/nyi-error \"subtype kwargs\")))", :ns "clojure.core.typed.subtype", :name "subtype-kwargs*", :file "clojure/core/typed/subtype.clj", :column 1, :line 958, :arglists ([s t])}

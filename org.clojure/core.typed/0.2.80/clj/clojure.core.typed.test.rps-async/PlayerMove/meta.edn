@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rps-async", :name "PlayerMove", :file "clojure/core/typed/test/rps_async.clj", :type :var, :src "(t/defalias PlayerMove\n  \"A move in rock-paper-scissors. A Tuple of player name and move\"\n  '[PlayerName Move])", :column 1, :line 19, :declared true, :doc "A move in rock-paper-scissors. A Tuple of player name and move"}

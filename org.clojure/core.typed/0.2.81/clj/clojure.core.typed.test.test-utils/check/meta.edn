@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "check", :file "clojure/core/typed/test/test_utils.clj", :type :fn, :src "(defn check [& as]\n  (impl/with-clojure-impl\n    (apply chk/check-expr as)))", :column 1, :line 123, :arglists ([& as])}

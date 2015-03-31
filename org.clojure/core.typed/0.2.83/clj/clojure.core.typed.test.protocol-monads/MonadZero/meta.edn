@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol MonadZero\n  (zero [_])\n  (plus-step [mv mvs]))", :doc nil, :ns "clojure.core.typed.test.protocol-monads", :name "MonadZero", :file "clojure/core/typed/test/protocol_monads.clj", :column 1, :line 18}

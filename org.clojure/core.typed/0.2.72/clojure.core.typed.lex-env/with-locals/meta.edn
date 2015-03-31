@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro with-locals [locals & body]\n  `(binding [*lexical-env* (merge-locals *lexical-env* ~locals)]\n     ~@body))", :macro true, :ns "clojure.core.typed.lex-env", :name "with-locals", :file "clojure/core/typed/lex_env.clj", :column 1, :line 37, :arglists ([locals & body])}

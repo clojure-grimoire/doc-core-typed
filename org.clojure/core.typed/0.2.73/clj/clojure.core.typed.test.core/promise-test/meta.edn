@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest promise-test\n  (is (check-ns 'clojure.core.typed.test.promise)))", :ns "clojure.core.typed.test.core", :name "promise-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2944, :test #<core$fn__31525 clojure.core.typed.test.core$fn__31525@24bc4987>}

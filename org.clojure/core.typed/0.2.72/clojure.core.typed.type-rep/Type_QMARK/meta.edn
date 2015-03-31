@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn Type? [a]\n  (instance? clojure.core.typed.impl_protocols.TCType a))", :ns "clojure.core.typed.type-rep", :name "Type?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 40, :arglists ([a])}

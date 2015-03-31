@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro with-clj-name-env [& body]\n  `(binding [*current-name-env* CLJ-TYPE-NAME-ENV]\n     ~@body))", :macro true, :ns "clojure.core.typed.name-env", :name "with-clj-name-env", :file "clojure/core/typed/name_env.clj", :column 1, :line 43, :arglists ([& body])}

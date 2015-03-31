@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn declare-alias-kind* [sym ty]\n  (assert-declared-kinds)\n  (add-declared-kind sym ty))", :ns "clojure.core.typed.declared-kind-env", :name "declare-alias-kind*", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :line 50, :arglists ([sym ty])}

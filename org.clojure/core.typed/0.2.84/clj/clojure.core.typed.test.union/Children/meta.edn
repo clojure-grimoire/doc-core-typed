@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.union", :name "Children", :file "clojure/core/typed/test/union.clj", :type :var, :src "(t/defalias Children \n  \"A children API exists, but not checked yet\"\n  t/Any)", :column 1, :line 28, :declared true, :doc "A children API exists, but not checked yet"}

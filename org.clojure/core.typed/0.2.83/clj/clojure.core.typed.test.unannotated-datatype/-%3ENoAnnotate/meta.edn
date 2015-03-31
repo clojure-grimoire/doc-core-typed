@@ -1,0 +1,1 @@
+{:type :fn, :src "(tc-ignore (deftype NoAnnotate [a]))", :ns "clojure.core.typed.test.unannotated-datatype", :name "->NoAnnotate", :file "clojure/core/typed/test/unannotated_datatype.clj", :column 1, :line 4, :arglists ([a]), :doc "Positional factory function for class clojure.core.typed.test.unannotated_datatype.NoAnnotate."}

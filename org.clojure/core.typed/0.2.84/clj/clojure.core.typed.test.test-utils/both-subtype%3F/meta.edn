@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "both-subtype?", :file "clojure/core/typed/test/test_utils.clj", :type :fn, :src "(defn both-subtype? [s t]\n  (and (subtype? s t)\n       (subtype? t s)))", :column 1, :line 115, :arglists ([s t])}

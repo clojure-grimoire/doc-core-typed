@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-object NthPE [idx]\n  \"A path accessing an indexed member, as by clojure.core/first, second, nth\"\n  [(integer? idx)\n   (not (neg? idx))])", :ns "clojure.core.typed.path-rep", :name "NthPE?", :file "clojure/core/typed/path_rep.clj", :column 1, :line 26, :arglists ([a__2329__auto__])}

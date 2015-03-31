@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.all-envs", :name "name-env", :file "clojure/core/typed/all_envs.clj", :type :fn, :src "(defn name-env []\n  (let [nme-env (nme-env/name-env)]\n    (binding [vs/*verbose-types* true]\n      (into {}\n            (for [[k v] nme-env]\n              (when-not (keyword? v)\n                [k (prs/unparse-type v)]))))))", :column 1, :line 9, :arglists ([])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Num", :type :var, :src nil, :doc "A type that returns true for clojure.core/number?\n\nNumber\n", :forms [Num]}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.example", :name "not=", :file "clojure/core/typed/test/example.clj", :type :fn, :src "(defn not=\n  ([x] false)\n  ([x y] (not (= x y)))\n  ([x y & more]\n   (not (apply = x y more))))", :column 1, :line 98, :arglists ([x] [x y] [x y & more])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  ann-pprotocol* \n  \"Internal use only. Use ann-pprotocol.\"\n  [varsym vbnd mth]\n  nil)", :ns "clojure.core.typed", :name "ann-pprotocol*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 2029, :doc "Internal use only. Use ann-pprotocol."}

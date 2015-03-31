@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest defrecord-test\n  (is-tc-e (do (ann-record Foo [a :- Int])\n               (defrecord Foo [a])\n               (defn foo [] :- Foo (->Foo 3)))))", :ns "clojure.core.typed.test.core", :name "defrecord-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 4715, :test #<core$fn__37734 clojure.core.typed.test.core$fn__37734@335232fa>}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Delay", :type :var, :src nil, :doc "A Clojure delay (see clojure.core/{delay,force}).\n\n(TFn [[x :variance :covariant]] (clojure.lang.Delay x))\n", :forms [(Delay t)]}

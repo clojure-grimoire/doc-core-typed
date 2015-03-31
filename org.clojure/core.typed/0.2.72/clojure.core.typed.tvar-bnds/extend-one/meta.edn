@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn extend-one\n  \"Extend a tvar bounds environment.\"\n  [env var bnds]\n  (assoc env var bnds))", :ns "clojure.core.typed.tvar-bnds", :name "extend-one", :file "clojure/core/typed/tvar_bnds.clj", :column 1, :line 44, :arglists ([env var bnds]), :doc "Extend a tvar bounds environment."}

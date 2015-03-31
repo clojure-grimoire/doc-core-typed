@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn frees-in [t]\n  {:post [(variance-map? %)]}\n  (u/p :frees/frees-in\n  (frees t)))", :ns "clojure.core.typed.frees", :name "frees-in", :file "clojure/core/typed/frees.clj", :column 1, :line 117, :arglists ([t])}

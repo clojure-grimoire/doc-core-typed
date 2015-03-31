@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn cljs-primitives-fn []\n  {'number (r/NumberCLJS-maker)\n   'int (r/IntegerCLJS-maker)\n   'boolean (r/BooleanCLJS-maker)\n   'object (r/ObjectCLJS-maker)\n   'string (r/StringCLJS-maker)})", :ns "clojure.core.typed.parse-unparse", :name "cljs-primitives-fn", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 893, :arglists ([])}

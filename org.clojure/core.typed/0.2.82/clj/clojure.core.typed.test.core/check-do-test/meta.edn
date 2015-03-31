@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest check-do-test\n  (is-clj (= (ety (do 1 2))\n         (-val 2))))", :ns "clojure.core.typed.test.core", :name "check-do-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 341, :test #<core$fn__25090 clojure.core.typed.test.core$fn__25090@443d3ffc>}

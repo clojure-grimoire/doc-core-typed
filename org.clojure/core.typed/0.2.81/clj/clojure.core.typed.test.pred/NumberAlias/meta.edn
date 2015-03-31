@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.pred", :name "NumberAlias", :file "clojure/core/typed/test/pred.clj", :type :var, :src "(t/defalias NumberAlias \n  Number)", :column 1, :line 8, :declared true}

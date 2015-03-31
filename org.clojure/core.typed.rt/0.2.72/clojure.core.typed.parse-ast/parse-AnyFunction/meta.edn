@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-AnyFunction [s]\n  {:op :AnyFunction :form s})", :ns "clojure.core.typed.parse-ast", :name "parse-AnyFunction", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 872, :arglists ([s])}

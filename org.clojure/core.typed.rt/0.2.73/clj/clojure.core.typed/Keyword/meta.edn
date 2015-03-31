@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Keyword", :type :var, :src nil, :doc "A keyword\n\nclojure.lang.Keyword\n", :forms [Keyword]}

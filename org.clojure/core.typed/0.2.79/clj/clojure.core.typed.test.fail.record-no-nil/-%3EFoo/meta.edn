@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Foo [a])", :ns "clojure.core.typed.test.fail.record-no-nil", :name "->Foo", :file "clojure/core/typed/test/fail/record_no_nil.clj", :column 1, :line 5, :arglists ([a]), :doc "Positional factory function for class clojure.core.typed.test.fail.record_no_nil.Foo."}

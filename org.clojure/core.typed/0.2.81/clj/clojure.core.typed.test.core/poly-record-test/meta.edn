@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest poly-record-test\n  (is (check-ns 'clojure.core.typed.test.poly-record)))", :ns "clojure.core.typed.test.core", :name "poly-record-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3083, :test #<core$fn__31689 clojure.core.typed.test.core$fn__31689@a75ec67>}

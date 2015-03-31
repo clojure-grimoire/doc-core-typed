@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.var-usage", :name "foo", :file "clojure/core/typed/test/var_usage.clj", :type :var, :src "(declare foo)", :column 1, :line 5, :declared true}

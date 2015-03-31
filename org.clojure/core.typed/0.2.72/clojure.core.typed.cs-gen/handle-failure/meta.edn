@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro handle-failure [& body]\n  `(u/handle-cs-gen-failure ~@body))", :macro true, :ns "clojure.core.typed.cs-gen", :name "handle-failure", :file "clojure/core/typed/cs_gen.clj", :column 1, :line 68, :arglists ([& body])}

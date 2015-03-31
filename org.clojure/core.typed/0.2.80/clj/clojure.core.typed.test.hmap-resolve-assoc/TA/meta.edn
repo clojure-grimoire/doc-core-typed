@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.hmap-resolve-assoc", :name "TA", :file "clojure/core/typed/test/hmap_resolve_assoc.clj", :type :var, :src "(t/defalias TA (t/HMap :optional {:d t/Any}))", :column 1, :line 5, :declared true}

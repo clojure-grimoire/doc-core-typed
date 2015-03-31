@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-monads", :name "censor", :file "clojure/core/typed/test/protocol_monads.clj", :type :fn, :src "(defn censor [f mv]\n  (let [[v a] (deref mv)]\n    (writer-monad. v (f a))))", :column 1, :line 416, :arglists ([f mv])}

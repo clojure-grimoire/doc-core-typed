@@ -1,1 +1,0 @@
-{:type :var, :src "(def -bot (BotFilter-maker))", :ns "clojure.core.typed.filter-rep", :name "-bot", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 53}

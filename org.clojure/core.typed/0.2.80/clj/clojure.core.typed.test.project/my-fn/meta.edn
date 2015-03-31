@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.project", :name "my-fn", :file "clojure/core/typed/test/project.clj", :type :fn, :src "(defn my-fn [a b & c]\n  {:a 2})", :column 1, :line 8, :arglists ([a b & c])}

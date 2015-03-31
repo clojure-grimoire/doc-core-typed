@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn Mu-free-name* [t]\n  {:pre [(r/Mu? t)]\n   :post [((some-fn symbol? nil?) %)]}\n  (get-original-names t))", :ns "clojure.core.typed.type-ctors", :name "Mu-free-name*", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1416, :arglists ([t])}

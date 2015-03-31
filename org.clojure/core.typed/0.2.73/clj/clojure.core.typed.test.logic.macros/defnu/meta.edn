@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "defnu", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro defnu\n  \"Define a committed choice goal. See condu.\"\n  [& rest]\n  `(defnm condu ~@rest))", :column 1, :line 399, :macro true, :arglists ([& rest]), :doc "Define a committed choice goal. See condu."}

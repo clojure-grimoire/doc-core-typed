@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.CTYP-83-performance", :name "VersionVector", :file "clojure/core/typed/test/CTYP_83_performance.clj", :type :var, :src "(t/defalias VersionVector (t/NonEmptyVec Number))", :column 1, :line 9, :declared true}

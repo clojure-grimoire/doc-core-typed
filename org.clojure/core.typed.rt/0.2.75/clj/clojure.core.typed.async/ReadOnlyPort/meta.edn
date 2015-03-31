@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "ReadOnlyPort", :type :var, :src nil, :doc "A read-only port that can read type x\n\n(TFn [[t :variance :covariant]] (Port2 t/Nothing t))\n", :forms [(ReadOnlyPort t)]}

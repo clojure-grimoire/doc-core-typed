@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "SequentialSeqable", :type :var, :src nil, :doc "A sequential, seqable collection. Seq's aren't always Sequential.\n\n(TFn\n [[x :variance :covariant]]\n (I clojure.lang.Sequential (clojure.lang.Seqable x)))\n", :forms [(SequentialSeqable t)]}

@@ -1,0 +1,1 @@
+{:ns "cljs.core.typed", :name "inst", :file "cljs/core/typed.clj", :type :macro, :src "(defmacro inst \n  \"Instantiate a polymorphic type with a number of types\"\n  [inst-of & types]\n  `(inst-poly ~inst-of '~types))", :column 1, :line 131, :macro true, :arglists ([inst-of & types]), :doc "Instantiate a polymorphic type with a number of types"}

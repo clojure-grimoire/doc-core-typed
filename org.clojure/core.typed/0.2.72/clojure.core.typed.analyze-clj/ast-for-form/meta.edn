@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn ast-for-form\n  \"Returns an AST node for the form\"\n  [form]\n  (analyze1 form (taj/empty-env)))", :ns "clojure.core.typed.analyze-clj", :name "ast-for-form", :file "clojure/core/typed/analyze_clj.clj", :column 1, :line 125, :arglists ([form]), :doc "Returns an AST node for the form"}

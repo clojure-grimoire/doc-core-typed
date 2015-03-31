@@ -1,0 +1,1 @@
+{:type :fn, :src "(defmulti check (fn [expr & [expected]] \n                  (:op expr)))", :ns "clojure.core.typed.check-cljs", :name "check", :file "clojure/core/typed/check_cljs.clj", :column 1, :line 69}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.example", :name "to-set", :file "clojure/core/typed/test/example.clj", :type :fn, :src "(defn to-set [a]\n  (set a))", :column 1, :line 51, :arglists ([a])}

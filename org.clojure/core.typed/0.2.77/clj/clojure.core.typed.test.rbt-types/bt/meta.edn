@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt-types", :name "bt", :type :var, :src nil, :doc "Like rbt but additionally the root node is black\n\n(Rec\n [bt]\n (U\n  Empty\n  (Black\n   (U Empty (Black rbt rbt) (Red bt bt))\n   (U Empty (Black rbt rbt) (Red bt bt)))))\n"}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn get-type-name \n  \"Return the name with var symbol sym.\n  Returns nil if not found.\"\n  [sym]\n  (let [e (current-name-env)]\n    (@e sym)))", :ns "clojure.core.typed.name-env", :name "get-type-name", :file "clojure/core/typed/name_env.clj", :column 1, :line 95, :arglists ([sym]), :doc "Return the name with var symbol sym.\n  Returns nil if not found."}

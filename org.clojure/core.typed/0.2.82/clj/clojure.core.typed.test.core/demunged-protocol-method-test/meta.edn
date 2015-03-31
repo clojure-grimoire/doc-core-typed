@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest demunged-protocol-method-test\n  (is (check-ns 'clojure.core.typed.test.protocol-munge)))", :ns "clojure.core.typed.test.core", :name "demunged-protocol-method-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2816, :test #<core$fn__31055 clojure.core.typed.test.core$fn__31055@6d10383c>}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type Intersection [types]\n  \"An unordered intersection of types.\"\n  [(sorted? types)\n   (set? types)\n   (seq types)\n   (every? Type? types)]\n  :methods \n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "Intersection?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 109, :arglists ([a__2329__auto__])}

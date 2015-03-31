@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "List", :type :var, :src nil, :doc "A Clojure persistent list.\n\n(TFn [[x :variance :covariant]] (clojure.lang.IPersistentList x))\n", :forms [(List t)]}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-declared-kinds! [m]\n  (assert-declared-kinds)\n  (reset! *current-declared-kinds* m))", :ns "clojure.core.typed.declared-kind-env", :name "reset-declared-kinds!", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :line 20, :arglists ([m])}

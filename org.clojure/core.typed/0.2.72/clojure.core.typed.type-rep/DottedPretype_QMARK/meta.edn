@@ -1,1 +1,0 @@
-{:type :fn, :src "(declare DottedPretype?)", :ns "clojure.core.typed.type-rep", :name "DottedPretype?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 614, :declared true}

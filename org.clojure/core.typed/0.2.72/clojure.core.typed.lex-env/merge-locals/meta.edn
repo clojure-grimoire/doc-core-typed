@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn merge-locals [env new]\n  (-> env\n    (update-in [:l] #(merge % new))))", :ns "clojure.core.typed.lex-env", :name "merge-locals", :file "clojure/core/typed/lex_env.clj", :column 1, :line 33, :arglists ([env new])}

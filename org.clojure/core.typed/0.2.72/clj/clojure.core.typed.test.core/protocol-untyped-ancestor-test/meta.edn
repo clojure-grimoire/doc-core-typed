@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest protocol-untyped-ancestor-test\n  (is (check-ns 'clojure.core.typed.test.protocol-untyped-extend)))", :ns "clojure.core.typed.test.core", :name "protocol-untyped-ancestor-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1198, :test #<core$fn__27540 clojure.core.typed.test.core$fn__27540@61ea19bc>}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn cljs? []\n  @cljs-present?)", :ns "clojure.core.typed.init", :name "cljs?", :file "clojure/core/typed/init.clj", :column 1, :line 14, :arglists ([])}

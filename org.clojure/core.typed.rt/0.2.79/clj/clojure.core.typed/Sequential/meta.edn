@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Sequential", :type :var, :src nil, :doc "A sequential collection.\n\nclojure.lang.Sequential\n", :forms [Sequential]}

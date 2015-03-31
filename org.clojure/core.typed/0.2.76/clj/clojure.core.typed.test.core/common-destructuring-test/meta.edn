@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest common-destructuring-test\n  (is (check-ns 'clojure.core.typed.test.destructure)))", :ns "clojure.core.typed.test.core", :name "common-destructuring-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1191, :test #<core$fn__27270 clojure.core.typed.test.core$fn__27270@7dfeed2c>}

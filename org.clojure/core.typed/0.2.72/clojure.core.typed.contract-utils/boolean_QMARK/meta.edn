@@ -1,1 +1,0 @@
-{:type :fn, :src "(def boolean? (some-fn true? false?))", :ns "clojure.core.typed.contract-utils", :name "boolean?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 21}

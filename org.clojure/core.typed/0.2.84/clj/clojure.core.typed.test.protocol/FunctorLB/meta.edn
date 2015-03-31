@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol", :name "FunctorLB", :file "clojure/core/typed/test/protocol.clj", :type :var, :src "(t/defalias FunctorLB\n  (t/TFn [[x :variance :covariant]]\n         t/Nothing))", :column 1, :line 42, :declared true}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest expected-IPersistentMap-test\n  (is-tc-e {:a #(+ %1 %2)}\n           (Map Any [Num Num -> Num])))", :ns "clojure.core.typed.test.core", :name "expected-IPersistentMap-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2460, :test #<core$fn__30210 clojure.core.typed.test.core$fn__30210@5bb1237f>}

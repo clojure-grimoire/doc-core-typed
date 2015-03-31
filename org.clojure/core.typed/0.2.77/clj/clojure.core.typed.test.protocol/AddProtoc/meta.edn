@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol AddProtoc\n  (adder [this amount :- t/Num] :- t/Num))", :doc nil, :ns "clojure.core.typed.test.protocol", :name "AddProtoc", :file "clojure/core/typed/test/protocol.clj", :column 1, :line 4}

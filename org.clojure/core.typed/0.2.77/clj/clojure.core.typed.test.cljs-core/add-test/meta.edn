@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.cljs-core", :name "add-test", :file "clojure/core/typed/test/cljs_core.clj", :type :macro, :src "(defmacro add-test [f & pairs]\n  (assert (even? (count pairs)))\n  `(swap! core-tests conj \n      ['~(symbol \"cljs.core\" (name f)) '~pairs]))", :column 1, :line 13, :macro true, :arglists ([f & pairs])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn current-checked-var-defs []\n  (let [env *current-checked-var-defs*]\n    (assert env \"No checked var env bound\")\n    env))", :ns "clojure.core.typed.var-env", :name "current-checked-var-defs", :file "clojure/core/typed/var_env.clj", :column 1, :line 43, :arglists ([])}

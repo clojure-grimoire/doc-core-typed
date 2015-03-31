@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn deprecated-renamed-macro [form old new]\n  (deprecated-macro-syntax \n    form\n    (str \"Renamed macro: clojure.core.typed/\" old\n         \" -> clojure.core.typed/\" new)))", :ns "clojure.core.typed.errors", :name "deprecated-renamed-macro", :file "clojure/core/typed/errors.clj", :column 1, :line 191, :arglists ([form old new])}

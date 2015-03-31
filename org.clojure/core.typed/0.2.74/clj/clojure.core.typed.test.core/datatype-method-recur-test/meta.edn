@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest datatype-method-recur-test\n  (is (check-ns 'clojure.core.typed.test.datatype-recur)))", :ns "clojure.core.typed.test.core", :name "datatype-method-recur-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2211, :test #<core$fn__29527 clojure.core.typed.test.core$fn__29527@73b57a52>}

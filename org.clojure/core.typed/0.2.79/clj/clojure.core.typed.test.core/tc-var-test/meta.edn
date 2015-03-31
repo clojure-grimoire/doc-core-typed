@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest tc-var-test\n  (is-clj (subtype? (ret-t (tc-t seq?))\n                    (parse-type `(Pred (Seq Any))))))", :ns "clojure.core.typed.test.core", :name "tc-var-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 344, :test #<core$fn__25375 clojure.core.typed.test.core$fn__25375@79fc530e>}

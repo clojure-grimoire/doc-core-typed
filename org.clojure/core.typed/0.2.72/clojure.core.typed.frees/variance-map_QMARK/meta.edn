@@ -1,1 +1,0 @@
-{:type :fn, :src "(def variance-map? (con/hash-c? symbol? r/variance?))", :ns "clojure.core.typed.frees", :name "variance-map?", :file "clojure/core/typed/frees.clj", :column 1, :line 51}

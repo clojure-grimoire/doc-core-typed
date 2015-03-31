@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.test-utils", :name "tc", :file "clojure/core/typed/test/test_utils.clj", :type :macro, :src "(defmacro tc [form]\n  `(impl/with-clojure-impl\n     (t/check-form* '~form)))", :column 1, :line 174, :macro true, :arglists ([form])}

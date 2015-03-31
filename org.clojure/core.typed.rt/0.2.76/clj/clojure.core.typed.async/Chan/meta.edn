@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Chan", :type :var, :src nil, :doc "A core.async channel\n\n(TFn [[x :variance :invariant]] (Chan2 x x))\n", :forms (quote [(Chan t)])}

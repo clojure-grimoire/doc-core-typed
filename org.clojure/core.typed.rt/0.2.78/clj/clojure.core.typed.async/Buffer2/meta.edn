@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Buffer2", :type :var, :src nil, :doc "A buffer of that can write type w and read type t.\n\n(TFn\n [[w :variance :contravariant] [r :variance :covariant]]\n (t/I (impl/Buffer w r) clojure.lang.Counted))\n", :forms [(Buffer2 t t)]}

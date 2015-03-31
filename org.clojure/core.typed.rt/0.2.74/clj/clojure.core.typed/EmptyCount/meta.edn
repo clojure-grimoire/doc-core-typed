@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "EmptyCount", :type :var, :src nil, :doc "The type of all things with count 0. Use as part of an intersection.\neg. See EmptySeqable.\n\n(ExactCount 0)\n", :forms [EmptyCount]}

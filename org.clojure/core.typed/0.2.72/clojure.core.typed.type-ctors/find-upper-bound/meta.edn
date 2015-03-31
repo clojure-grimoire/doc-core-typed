@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn find-upper-bound [t]\n  {:pre [(r/Type? t)]}\n  (find-bound* t true))", :ns "clojure.core.typed.type-ctors", :name "find-upper-bound", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2216, :arglists ([t])}

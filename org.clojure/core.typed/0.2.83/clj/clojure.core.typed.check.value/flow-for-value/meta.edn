@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn flow-for-value []\n  (let [props (:props lex/*lexical-env*)\n        flow (r/-flow (apply fo/-and fl/-top props))]\n    flow))", :ns "clojure.core.typed.check.value", :name "flow-for-value", :file "clojure/core/typed/check/value.clj", :column 1, :line 14, :arglists ([])}

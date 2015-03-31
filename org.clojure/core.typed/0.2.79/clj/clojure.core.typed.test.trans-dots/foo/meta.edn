@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.trans-dots", :name "foo", :file "clojure/core/typed/test/trans_dots.clj", :type :fn, :src "(defn foo [& args])", :column 1, :line 12, :arglists ([& args])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "mplus*", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro mplus*\n  ([e] e)\n  ([e & e-rest]\n     `(cljs.core.logic/-mplus ~e (-inc (mplus* ~@e-rest)))))", :column 1, :line 32, :macro true, :arglists ([e] [e & e-rest])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord HorizontalLine [p l])", :ns "clojure.core.typed.test.records2", :name "map->HorizontalLine", :file "clojure/core/typed/test/records2.clj", :column 1, :line 14, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.records2.HorizontalLine, taking a map of keywords to field values."}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype Person [name age]\n  Age\n  (age [this] age))", :ns "clojure.core.typed.test.person", :name "->Person", :file "clojure/core/typed/test/person.clj", :column 1, :line 13, :arglists ([name age]), :doc "Positional factory function for class clojure.core.typed.test.person.Person."}

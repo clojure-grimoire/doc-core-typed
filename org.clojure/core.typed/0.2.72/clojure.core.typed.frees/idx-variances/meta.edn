@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn idx-variances \n  \"Map of indexes to their variances\"\n  [t]\n  {:post [(variance-map? %)]}\n  (binding [*frees-mode* ::idxs]\n    (frees-in t)))", :ns "clojure.core.typed.frees", :name "idx-variances", :file "clojure/core/typed/frees.clj", :column 1, :line 64, :arglists ([t]), :doc "Map of indexes to their variances"}

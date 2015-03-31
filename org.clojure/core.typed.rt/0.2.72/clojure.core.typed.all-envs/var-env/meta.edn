@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.all-envs", :name "var-env", :file "clojure/core/typed/all_envs.clj", :type :fn, :src "(defn var-env []\n  (let [var-env (var-env/var-annotations)]\n    (assert var-env)\n    (binding [vs/*verbose-types* true]\n      (into {}\n            (for [[k v] var-env]\n              [k (prs/unparse-type v)])))))", :column 1, :line 17, :arglists ([])}

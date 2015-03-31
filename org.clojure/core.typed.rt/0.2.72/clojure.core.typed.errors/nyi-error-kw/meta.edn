@@ -1,1 +1,0 @@
-{:type :var, :src "(def nyi-error-kw ::nyi-error)", :ns "clojure.core.typed.errors", :name "nyi-error-kw", :file "clojure/core/typed/errors.clj", :column 1, :line 11}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.example", :name "test1", :file "clojure/core/typed/test/example.clj", :type :fn, :src "(defn test1 [a b]\n  a)", :column 1, :line 9, :arglists ([a b])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(def opt-map? (con/hmap-c? (con/optional :recur-target-fn) ifn?\n                           (con/optional :validate-expected-fn) ifn?\n                           (con/optional :self-name) (some-fn nil? symbol?)))", :ns "clojure.core.typed.check.fn-methods", :name "opt-map?", :file "clojure/core/typed/check/fn_methods.clj", :column 1, :line 26}

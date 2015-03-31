@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol\n  [[x :variance :covariant]]\n  IFoo\n  (bar [this] :- t/Num)\n  (baz [this] :- t/Any))", :doc nil, :ns "clojure.core.typed.test.protocol", :name "IFoo", :file "clojure/core/typed/test/protocol.clj", :column 1, :line 16}

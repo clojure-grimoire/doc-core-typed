@@ -1,1 +1,0 @@
-{:type :var, :src "(defonce ns-opts (atom (init-ns-opts)))", :ns "clojure.core.typed.ns-options", :name "ns-opts", :file "clojure/core/typed/ns_options.clj", :column 1, :line 19}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest iterable-as-seqable-test\n  (is-cf (first (clojure.core.typed/ann-form [] (Iterable clojure.core.typed/Any)))))", :ns "clojure.core.typed.test.core", :name "iterable-as-seqable-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1613, :test #<core$fn__27893 clojure.core.typed.test.core$fn__27893@1e87db95>}

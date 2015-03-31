@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  inst-poly \n  \"Internal use only. Use inst.\"\n  [inst-of types-syn]\n  inst-of)", :ns "clojure.core.typed", :name "inst-poly", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 99, :doc "Internal use only. Use inst."}

@@ -1,1 +1,0 @@
-{:type :var, :src "(def default-env (env/default-compiler-env))", :ns "clojure.core.typed.util-cljs", :name "default-env", :file "clojure/core/typed/util_cljs.clj", :column 1, :line 10}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-seq [syn]\n  (parse-seq* syn))", :ns "clojure.core.typed.parse-ast", :name "parse-seq", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 840, :arglists ([syn])}

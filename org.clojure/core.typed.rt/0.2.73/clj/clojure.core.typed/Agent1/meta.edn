@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Agent1", :type :var, :src nil, :doc "An agent that can read and write type x.\n\n(TFn [[x :variance :invariant]] (clojure.lang.Agent x x))\n", :forms [(Agent1 t)]}

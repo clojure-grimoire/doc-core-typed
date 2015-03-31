@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.pred-hmap", :name "pig-oink", :file "clojure/core/typed/test/pred_hmap.clj", :type :fn, :src "(defn pig-oink [pig])", :column 1, :line 19, :arglists ([pig])}

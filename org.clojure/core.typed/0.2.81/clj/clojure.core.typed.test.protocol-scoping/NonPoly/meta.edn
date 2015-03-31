@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol NonPoly\n  (nonpoly [this]))", :doc nil, :ns "clojure.core.typed.test.protocol-scoping", :name "NonPoly", :file "clojure/core/typed/test/protocol_scoping.clj", :column 1, :line 4}

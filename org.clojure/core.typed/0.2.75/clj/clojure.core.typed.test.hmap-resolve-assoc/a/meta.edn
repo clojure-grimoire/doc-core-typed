@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.hmap-resolve-assoc", :name "a", :file "clojure/core/typed/test/hmap_resolve_assoc.clj", :type :fn, :src "(defn a [m] (assoc m :d \"foo\"))", :column 1, :line 8, :arglists ([m])}

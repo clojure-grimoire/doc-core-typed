@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "NonEmptyLazySeq", :type :var, :src nil, :doc "A non-empty lazy sequence of type t\n\n(TFn\n [[t :variance :covariant]]\n (I (clojure.lang.LazySeq t) (CountRange 1)))\n", :forms [(NonEmptyLazySeq t)]}

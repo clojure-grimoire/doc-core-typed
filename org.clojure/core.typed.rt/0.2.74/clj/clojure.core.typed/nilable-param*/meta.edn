@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  nilable-param* \n  \"Internal use only. Use nilable-param.\"\n  [msym mmap]\n  nil)", :ns "clojure.core.typed", :name "nilable-param*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 1666, :doc "Internal use only. Use nilable-param."}

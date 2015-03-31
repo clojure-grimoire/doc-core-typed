@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest ann-form-test\n  (is-clj (= (ety (ann-form (atom 1) (Atom1 Num)))\n             (parse-type `(Atom1 Num)))))", :ns "clojure.core.typed.test.core", :name "ann-form-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1023, :test #<core$fn__26476 clojure.core.typed.test.core$fn__26476@6c6f49a3>}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type FnIntersection [types]\n  \"An ordered intersection of Functions.\"\n  [(seq types)\n   (sequential? types)\n   (every? Function? types)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "FnIntersection?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 752, :arglists ([a__2329__auto__])}

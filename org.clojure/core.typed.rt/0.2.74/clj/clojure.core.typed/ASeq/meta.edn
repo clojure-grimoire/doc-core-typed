@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "ASeq", :type :var, :src nil, :doc "A sequential seq returned from clojure.core/seq\n\n(TFn\n [[x :variance :covariant]]\n (I\n  (clojure.lang.ISeq x)\n  clojure.lang.Sequential\n  (Iterable x)\n  (java.util.Collection x)\n  (java.util.List x)\n  clojure.lang.IObj))\n", :forms [(ASeq t)]}

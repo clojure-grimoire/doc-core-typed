@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "-inc", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro -inc [& rest]\n  `(cljs.core.logic/Inc. (fn [] ~@rest)))", :column 1, :line 37, :macro true, :arglists ([& rest])}

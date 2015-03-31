@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "EmptySeqable", :type :var, :src nil, :doc "A type that can be used to create a sequence of member type x\nwith count 0.\n\n(TFn\n [[x :variance :covariant]]\n (I (clojure.lang.Seqable x) (ExactCount 0)))\n", :forms [(EmptySeqable t)]}

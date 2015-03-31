@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest infer-def-test\n  (is-tc-e (do (def a 1)\n               (defn b [_] 'a)\n               (b a))\n           Symbol))", :ns "clojure.core.typed.test.core", :name "infer-def-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3379, :test #<core$fn__32484 clojure.core.typed.test.core$fn__32484@2fc6b92f>}

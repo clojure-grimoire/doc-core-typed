@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest kw-args-test\n  (is (check-ns 'clojure.core.typed.test.kw-args)))", :ns "clojure.core.typed.test.core", :name "kw-args-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1273, :test #<core$fn__27072 clojure.core.typed.test.core$fn__27072@4f78ff6d>}

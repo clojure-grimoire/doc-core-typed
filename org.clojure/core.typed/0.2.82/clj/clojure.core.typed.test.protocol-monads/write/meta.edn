@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-monads", :name "write", :file "clojure/core/typed/test/protocol_monads.clj", :type :fn, :src "(defn write [m-result val-to-write]\n  (let [[_ a] (deref (m-result nil))]\n    (writer-monad. nil (writer-m-add a val-to-write))))", :column 1, :line 408, :arglists ([m-result val-to-write])}

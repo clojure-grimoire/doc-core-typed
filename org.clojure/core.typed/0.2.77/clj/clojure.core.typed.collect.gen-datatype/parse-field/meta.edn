@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-field [[n _ t]]\n  [n (prs/parse-type t)])", :ns "clojure.core.typed.collect.gen-datatype", :name "parse-field", :file "clojure/core/typed/collect/gen_datatype.clj", :column 1, :line 16, :arglists ([[n _ t]])}

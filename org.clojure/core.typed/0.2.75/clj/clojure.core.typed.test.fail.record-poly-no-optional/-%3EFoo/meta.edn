@@ -1,0 +1,1 @@
+{:type :fn, :src "(t/tc-ignore\n(defrecord Foo [b])\n  )", :ns "clojure.core.typed.test.fail.record-poly-no-optional", :name "->Foo", :file "clojure/core/typed/test/fail/record_poly_no_optional.clj", :column 1, :line 7, :arglists ([b]), :doc "Positional factory function for class clojure.core.typed.test.fail.record_poly_no_optional.Foo."}

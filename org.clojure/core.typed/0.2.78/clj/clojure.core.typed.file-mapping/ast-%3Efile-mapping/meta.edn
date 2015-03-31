@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ast->file-mapping [ast]\n  (-> ast ast->info-map info-map->msg-map))", :ns "clojure.core.typed.file-mapping", :name "ast->file-mapping", :file "clojure/core/typed/file_mapping.clj", :column 1, :line 98, :arglists ([ast])}

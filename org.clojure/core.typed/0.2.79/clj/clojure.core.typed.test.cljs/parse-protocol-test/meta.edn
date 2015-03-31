@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest parse-protocol-test \n  (is-cljs (prs/parse-cljs '(cljs.core/IMap number number))))", :ns "clojure.core.typed.test.cljs", :name "parse-protocol-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 54, :test #<cljs$fn__17172 clojure.core.typed.test.cljs$fn__17172@6460c547>}

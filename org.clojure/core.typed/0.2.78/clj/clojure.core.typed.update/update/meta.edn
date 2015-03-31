@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn update [t lo]\n  {:pre [((some-fn fl/TypeFilter? fl/NotTypeFilter?) lo)]\n   :post [(r/Type? %)]}\n  (update* t (:type lo) (fl/TypeFilter? lo) (fl/filter-path lo)))", :ns "clojure.core.typed.update", :name "update", :file "clojure/core/typed/update.clj", :column 1, :line 336, :arglists ([t lo])}

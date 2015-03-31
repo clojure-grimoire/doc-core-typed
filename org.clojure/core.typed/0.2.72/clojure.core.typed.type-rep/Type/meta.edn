@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.type-rep", :name "Type", :type :var, :src nil, :doc "A normal type\n\np/TCType\n"}

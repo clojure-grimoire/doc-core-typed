@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn check-form*\n  [form expected type-provided?]\n  (chk-form/check-form* (config-map)\n    form expected type-provided?))", :ns "clojure.core.typed.check-form-clj", :name "check-form*", :file "clojure/core/typed/check_form_clj.clj", :column 1, :line 20, :arglists ([form expected type-provided?])}

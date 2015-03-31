@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.util-aliases", :name "MapStruct1", :type :var, :src nil, :doc "\n\n(t/HMap :mandatory {:type (t/Value :MapStruct1), :a MyName})\n"}

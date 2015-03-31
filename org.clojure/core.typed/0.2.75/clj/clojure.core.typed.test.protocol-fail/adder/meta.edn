@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.protocol-fail", :doc nil, :arglists ([this amount]), :name "adder"}

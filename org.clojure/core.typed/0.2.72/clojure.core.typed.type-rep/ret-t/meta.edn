@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn ret-t [r]\n  {:pre [(TCResult? r)]\n   :post [(AnyType? %)]}\n  (:t r))", :ns "clojure.core.typed.type-rep", :name "ret-t", :file "clojure/core/typed/type_rep.clj", :column 1, :line 956, :arglists ([r])}

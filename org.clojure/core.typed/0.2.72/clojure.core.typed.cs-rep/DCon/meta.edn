@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.cs-rep", :name "DCon", :type :var, :src nil, :doc "\n\n(t/U dcon dcon-exact dcon-dotted)\n"}

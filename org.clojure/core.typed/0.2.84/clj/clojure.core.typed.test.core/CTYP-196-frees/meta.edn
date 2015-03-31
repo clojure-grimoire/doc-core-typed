@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-196-frees\n  (is-tc-e (let [a first]\n             a)))", :ns "clojure.core.typed.test.core", :name "CTYP-196-frees", :file "clojure/core/typed/test/core.clj", :column 1, :line 4676, :test #<core$fn__37632 clojure.core.typed.test.core$fn__37632@39b16f7>}

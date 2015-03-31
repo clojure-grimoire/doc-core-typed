@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn KeywordValue->Fn [{:keys [val] :as t}]\n  {:pre [(keyword-value? t)\n         ;redundant test for core.typed\n         (keyword? val)]}\n  (impl/assert-clojure)\n  (keyword->Fn val))", :ns "clojure.core.typed.type-ctors", :name "KeywordValue->Fn", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2094, :arglists ([{:keys [val], :as t}])}

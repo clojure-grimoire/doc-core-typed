@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Future", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "A Clojure future (see clojure.core/{future-call,future}).", :forms [(Future t)]}

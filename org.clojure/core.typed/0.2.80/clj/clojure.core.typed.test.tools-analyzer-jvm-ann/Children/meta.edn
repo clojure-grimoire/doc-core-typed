@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.tools-analyzer-jvm-ann", :name "Children", :file "clojure/core/typed/test/tools_analyzer_jvm_ann.clj", :type :var, :src "(t/defalias Children (t/Vec t/Any))", :column 1, :line 32, :declared true}

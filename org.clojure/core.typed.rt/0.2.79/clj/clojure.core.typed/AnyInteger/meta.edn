@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "AnyInteger", :type :var, :src nil, :doc "A type that returns true for clojure.core/integer?\n\n(U Integer Long clojure.lang.BigInt BigInteger Short Byte)\n", :forms [AnyInteger]}

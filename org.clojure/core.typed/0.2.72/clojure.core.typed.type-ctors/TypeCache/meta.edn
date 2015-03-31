@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.type-ctors", :name "TypeCache", :type :var, :src nil, :doc "\n\n(t/Map (t/Set r/Type) r/Type)\n"}

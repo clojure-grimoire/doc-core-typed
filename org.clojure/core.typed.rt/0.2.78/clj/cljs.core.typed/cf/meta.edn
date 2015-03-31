@@ -1,0 +1,1 @@
+{:ns "cljs.core.typed", :name "cf", :file "cljs/core/typed.clj", :type :macro, :src "(defmacro cf\n  \"Check a single form with an optional expected type.\"\n  ([form] `(cf* '~form nil nil))\n  ([form expected] `(cf* '~form '~expected true)))", :column 1, :line 248, :macro true, :arglists ([form] [form expected]), :doc "Check a single form with an optional expected type."}

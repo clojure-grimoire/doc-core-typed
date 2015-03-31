@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest CTYP-85-abo-test\n  (is-tc-e (fn [] (fn [b] b))\n           [-> [Any -> Any]]))", :ns "clojure.core.typed.test.core", :name "CTYP-85-abo-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2331, :test #<core$fn__27826 clojure.core.typed.test.core$fn__27826@77071c0b>}

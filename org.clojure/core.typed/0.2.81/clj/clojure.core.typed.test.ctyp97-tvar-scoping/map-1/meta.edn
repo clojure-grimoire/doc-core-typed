@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.ctyp97-tvar-scoping", :name "map-1", :file "clojure/core/typed/test/ctyp97_tvar_scoping.clj", :type :fn, :src "(defn map-1 [f coll]\n  (lazy-seq\n   (if-let [s (seq coll)]\n     (cons (f (first s))\n           (map-1 f (rest s))))))", :column 1, :line 30, :arglists ([f coll])}

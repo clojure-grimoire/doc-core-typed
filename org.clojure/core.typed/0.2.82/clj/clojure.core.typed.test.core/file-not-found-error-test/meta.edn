@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest file-not-found-error-test\n  (is (err/top-level-error-thrown?\n        (check-ns 'this.doesnt-exist))))", :ns "clojure.core.typed.test.core", :name "file-not-found-error-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3410, :test #<core$fn__32684 clojure.core.typed.test.core$fn__32684@6590e6b0>}

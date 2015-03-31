@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn register-warn-on-unannotated-vars [nsym]\n  (swap! ns-opts \n         (t/fn [o :- NsOptions] \n           (update-in o [nsym :warn-on-unannotated-vars] (constantly true))))\n  nil)", :ns "clojure.core.typed.ns-options", :name "register-warn-on-unannotated-vars", :file "clojure/core/typed/ns_options.clj", :column 1, :line 27, :arglists ([nsym])}

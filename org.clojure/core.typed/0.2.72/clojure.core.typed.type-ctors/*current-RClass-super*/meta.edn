@@ -1,1 +1,0 @@
-{:type :var, :src "(defonce ^:dynamic *current-RClass-super* nil)", :ns "clojure.core.typed.type-ctors", :name "*current-RClass-super*", :file "clojure/core/typed/type_ctors.clj", :column 1, :dynamic true, :line 701}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -partial-hmap \n  ([types] (-partial-hmap types #{}))\n  ([types absent-keys] (make-HMap \n                         :mandatory types \n                         :absent-keys absent-keys)))", :ns "clojure.core.typed.type-ctors", :name "-partial-hmap", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 119, :arglists ([types] [types absent-keys])}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn join [s t] (c/Un s t))", :ns "clojure.core.typed.cs-gen", :name "join", :file "clojure/core/typed/cs_gen.clj", :column 1, :line 78, :arglists ([s t])}

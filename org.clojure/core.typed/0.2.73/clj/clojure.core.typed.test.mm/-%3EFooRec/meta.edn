@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord FooRec [a])", :ns "clojure.core.typed.test.mm", :name "->FooRec", :file "clojure/core/typed/test/mm.clj", :column 1, :line 39, :arglists ([a]), :doc "Positional factory function for class clojure.core.typed.test.mm.FooRec."}

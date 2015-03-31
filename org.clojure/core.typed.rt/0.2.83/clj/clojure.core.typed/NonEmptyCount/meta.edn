@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "NonEmptyCount", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "The type of all things with count greater than 0. Use as part of an intersection.\neg. See NonEmptySeq", :forms [NonEmptyCount]}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "trace-lvar", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn trace-lvar [a lvar]\n  `(println (format \"%5s = %s\" (str '~lvar) (-reify ~a ~lvar))))", :column 1, :line 127, :arglists ([a lvar])}

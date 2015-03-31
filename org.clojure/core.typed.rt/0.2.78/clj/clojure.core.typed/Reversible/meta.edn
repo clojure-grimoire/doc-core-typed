@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Reversible", :type :var, :src nil, :doc "A Clojure reversible collection.\n\n(TFn [[x :variance :covariant]] (clojure.lang.Reversible x))\n", :forms [(Reversible t)]}

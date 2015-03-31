@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  ann-pdatatype* \n  \"Internal use only. Use ann-pdatatype.\"\n  [dname vbnd fields opt]\n  nil)", :ns "clojure.core.typed", :name "ann-pdatatype*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 1814, :doc "Internal use only. Use ann-pdatatype."}

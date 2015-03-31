@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn assert-dep-map []\n  (let [d *current-deps*]\n    (assert d \"No current namespace dependencies\")\n    d))", :ns "clojure.core.typed.ns-deps", :name "assert-dep-map", :file "clojure/core/typed/ns_deps.clj", :column 1, :line 24, :arglists ([])}

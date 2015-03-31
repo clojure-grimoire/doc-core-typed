@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord FooRec [other-keys?])", :ns "clojure.core.typed.test.munge-record-field", :name "->FooRec", :file "clojure/core/typed/test/munge_record_field.clj", :column 1, :line 14, :arglists ([other-keys?]), :doc "Positional factory function for class clojure.core.typed.test.munge_record_field.FooRec."}

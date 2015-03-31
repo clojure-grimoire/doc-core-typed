@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "defna", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro defna\n  \"Define a soft cut goal. See conda.\"\n  [& rest]\n  `(defnm conda ~@rest))", :column 1, :line 394, :macro true, :arglists ([& rest]), :doc "Define a soft cut goal. See conda."}

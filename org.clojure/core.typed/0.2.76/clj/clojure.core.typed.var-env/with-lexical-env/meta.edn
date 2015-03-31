@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro with-lexical-env [env & body]\n  `(binding [lex/*lexical-env* ~env]\n     ~@body))", :macro true, :ns "clojure.core.typed.var-env", :name "with-lexical-env", :file "clojure/core/typed/var_env.clj", :column 1, :line 48, :arglists ([env & body])}

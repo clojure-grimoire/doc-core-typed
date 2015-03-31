@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest set!-test\n  (is (check-ns 'clojure.core.typed.test.set-bang)))", :ns "clojure.core.typed.test.core", :name "set!-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1413, :test #<core$fn__27818 clojure.core.typed.test.core$fn__27818@5435957b>}

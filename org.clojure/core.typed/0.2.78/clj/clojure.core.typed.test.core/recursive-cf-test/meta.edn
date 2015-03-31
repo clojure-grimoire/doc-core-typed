@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest recursive-cf-test\n  (is (thrown? Exception\n               (tc-e (cf 1 Number)))))", :ns "clojure.core.typed.test.core", :name "recursive-cf-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1196, :test #<core$fn__27212 clojure.core.typed.test.core$fn__27212@19048cb9>}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest var-as-function-test\n  (is-cf #'+ [Number * -> Number])\n  (is-cf (#'+ 1 2))\n  (is (sub? (clojure.core.typed/Var1 [-> nil]) [-> nil])))", :ns "clojure.core.typed.test.core", :name "var-as-function-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1932, :test #<core$fn__28281 clojure.core.typed.test.core$fn__28281@43629d39>}

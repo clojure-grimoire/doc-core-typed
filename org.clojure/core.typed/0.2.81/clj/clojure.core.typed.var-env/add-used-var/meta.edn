@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-used-var [sym]\n  (swap! (current-used-vars) conj sym)\n  nil)", :ns "clojure.core.typed.var-env", :name "add-used-var", :file "clojure/core/typed/var_env.clj", :column 1, :line 85, :arglists ([sym])}

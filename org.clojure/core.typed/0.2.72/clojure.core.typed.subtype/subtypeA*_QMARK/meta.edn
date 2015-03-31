@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn subtypeA*? [A s t]\n  (handle-failure\n    (subtypeA* A s t)))", :ns "clojure.core.typed.subtype", :name "subtypeA*?", :file "clojure/core/typed/subtype.clj", :column 1, :line 99, :arglists ([A s t])}

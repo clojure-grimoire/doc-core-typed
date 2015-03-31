@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Ref2", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "A ref that can write type w and read type r.", :forms [(Ref2 w r)]}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Foo [a])", :ns "clojure.core.typed.test.fail.record-no-nil", :name "map->Foo", :file "clojure/core/typed/test/fail/record_no_nil.clj", :column 1, :line 5, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.fail.record_no_nil.Foo, taking a map of keywords to field values."}

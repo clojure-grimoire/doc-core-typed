@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.kw-args", :name "test-non-value-kw", :file "clojure/core/typed/test/kw_args.clj", :type :fn, :src "(defn test-non-value-kw [& {:keys [a]}] a)", :column 1, :line 49, :arglists ([& {:keys [a]}])}

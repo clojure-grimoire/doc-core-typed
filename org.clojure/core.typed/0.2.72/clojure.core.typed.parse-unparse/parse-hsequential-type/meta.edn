@@ -1,1 +1,0 @@
-{:type :fn, :src "(def parse-hsequential-type (parse-types-with-rest-drest\n                              \"Invalid heterogeneous sequential syntax:\"))", :ns "clojure.core.typed.parse-unparse", :name "parse-hsequential-type", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 605}

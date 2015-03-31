@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest hmap-smart-infer-test\n  (is-cf {:a #(+ % 1)} (HMap :optional {:a [Number -> Number]})))", :ns "clojure.core.typed.test.core", :name "hmap-smart-infer-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1725, :test #<core$fn__25892 clojure.core.typed.test.core$fn__25892@49b4bd1c>}

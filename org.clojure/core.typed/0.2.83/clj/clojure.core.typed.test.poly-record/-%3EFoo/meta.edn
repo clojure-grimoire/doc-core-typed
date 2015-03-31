@@ -1,0 +1,1 @@
+{:type :fn, :src "(t/tc-ignore\n(defrecord Foo [b])\n  )", :ns "clojure.core.typed.test.poly-record", :name "->Foo", :file "clojure/core/typed/test/poly_record.clj", :column 1, :line 5, :arglists ([b]), :doc "Positional factory function for class clojure.core.typed.test.poly_record.Foo."}

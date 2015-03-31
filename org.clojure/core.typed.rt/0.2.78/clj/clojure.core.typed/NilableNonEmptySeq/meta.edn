@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "NilableNonEmptySeq", :type :var, :src nil, :doc "A persistent sequence of member type x with count greater than 0, or nil.\n\n(TFn\n [[x :variance :covariant]]\n (U nil (I (clojure.lang.ISeq x) (CountRange 1))))\n", :forms [(NilableNonEmptySeq t)]}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(def ^:no-check ^{:ann '[Any -> Any]}\n  dt-ancestor-env? (con/hash-c? symbol? (con/set-c? (some-fn r/Scope? r/Type?))))", :ns "clojure.core.typed.datatype-ancestor-env", :name "dt-ancestor-env?", :ann [Any -> Any], :file "clojure/core/typed/datatype_ancestor_env.clj", :column 1, :line 28, :no-check true}

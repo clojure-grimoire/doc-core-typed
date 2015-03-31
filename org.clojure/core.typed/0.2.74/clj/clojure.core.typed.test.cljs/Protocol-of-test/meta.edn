@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest Protocol-of-test\n  (is-cljs (c/Protocol-of 'cljs.core/IMap [(r/NumberCLJS-maker)\n                                           (r/NumberCLJS-maker)])))", :ns "clojure.core.typed.test.cljs", :name "Protocol-of-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 57, :test #<cljs$fn__17223 clojure.core.typed.test.cljs$fn__17223@94c0ab4>}

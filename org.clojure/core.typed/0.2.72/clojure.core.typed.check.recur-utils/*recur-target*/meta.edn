@@ -1,1 +1,0 @@
-{:type :var, :src "(defonce ^:dynamic *recur-target* nil)", :ns "clojure.core.typed.check.recur-utils", :name "*recur-target*", :file "clojure/core/typed/check/recur_utils.clj", :column 1, :dynamic true, :line 21}

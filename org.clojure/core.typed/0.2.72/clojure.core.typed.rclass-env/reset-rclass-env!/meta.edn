@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn reset-rclass-env! [m]\n  (reset! RESTRICTED-CLASS m)\n  nil)", :ns "clojure.core.typed.rclass-env", :name "reset-rclass-env!", :file "clojure/core/typed/rclass_env.clj", :column 1, :line 26, :arglists ([m])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(def nat-value? (every-pred r/Value? (comp con/znat? :val)))", :ns "clojure.core.typed.check.nth", :name "nat-value?", :file "clojure/core/typed/check/nth.clj", :column 1, :line 106}

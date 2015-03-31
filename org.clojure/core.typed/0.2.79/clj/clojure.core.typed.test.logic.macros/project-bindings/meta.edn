@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "project-bindings", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn project-bindings [vars s]\n  (reduce concat (map (project-binding s) vars)))", :column 1, :line 149, :arglists ([vars s])}

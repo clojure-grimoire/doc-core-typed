@@ -1,0 +1,1 @@
+{:type :fn, :src "(insert-aliases)", :ns "clojure.core.typed.base-env", :name "init-alias-env", :file "clojure/core/typed/base_env.clj", :column 1, :line 55, :arglists ([])}

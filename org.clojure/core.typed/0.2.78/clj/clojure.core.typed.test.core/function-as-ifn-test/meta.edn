@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest function-as-ifn-test\n  (is (sub? [-> nil] clojure.lang.IFn))\n  (is (sub? [-> nil] Callable))\n  (is (sub? [-> nil] Runnable)))", :ns "clojure.core.typed.test.core", :name "function-as-ifn-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2720, :test #<core$fn__30937 clojure.core.typed.test.core$fn__30937@370da759>}

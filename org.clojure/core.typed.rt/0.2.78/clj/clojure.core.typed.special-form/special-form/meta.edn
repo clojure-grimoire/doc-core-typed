@@ -1,0 +1,1 @@
+{:type :var, :src "(def special-form ::special-form)", :ns "clojure.core.typed.special-form", :name "special-form", :file "clojure/core/typed/special_form.clj", :column 1, :line 3}

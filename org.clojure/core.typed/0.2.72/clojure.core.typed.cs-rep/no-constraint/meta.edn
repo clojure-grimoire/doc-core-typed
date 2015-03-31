@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn no-constraint [v bnds]\n  {:pre [(symbol? v)\n         (r/Bounds? bnds)]}\n  (->c r/-nothing v r/-any bnds))", :ns "clojure.core.typed.cs-rep", :name "no-constraint", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 149, :arglists ([v bnds])}

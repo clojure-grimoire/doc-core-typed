@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn sub-pe [st mode]\n  #(fold-rhs fold-rhs-default\n             {:type-rec st\n              :pathelem-rec (sub-pe st mode)}\n             %))", :ns "clojure.core.typed.fold-rep", :name "sub-pe", :file "clojure/core/typed/fold_rep.clj", :column 1, :line 37, :arglists ([st mode])}

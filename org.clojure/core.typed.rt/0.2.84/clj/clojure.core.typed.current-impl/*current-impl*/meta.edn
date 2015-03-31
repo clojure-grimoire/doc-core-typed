@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *current-impl* nil)", :ns "clojure.core.typed.current-impl", :name "*current-impl*", :file "clojure/core/typed/current_impl.clj", :column 1, :dynamic true, :line 40}

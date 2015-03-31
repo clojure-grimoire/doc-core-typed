@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn load-if-needed \n  \"Load and initialize all of core.typed if not already\"\n  []\n  (load/load-if-needed))", :ns "cljs.core.typed", :name "load-if-needed", :file "cljs/core/typed.clj", :column 1, :line 18, :arglists ([]), :doc "Load and initialize all of core.typed if not already"}

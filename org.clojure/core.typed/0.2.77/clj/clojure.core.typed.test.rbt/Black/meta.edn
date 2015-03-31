@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt", :name "Black", :type :var, :src nil, :doc "A black node\n\n(t/TFn\n [[l :variance :covariant] [r :variance :covariant]]\n '{:tree ':Black, :entry EntryT, :left l, :right r})\n"}

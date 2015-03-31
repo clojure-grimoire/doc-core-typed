@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Top [])", :ns "clojure.core.typed.test.parse-ast", :name "->Top", :file "clojure/core/typed/test/parse_ast.clj", :column 1, :line 5, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.parse_ast.Top."}

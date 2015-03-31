@@ -1,0 +1,1 @@
+{:type :var, :src "(def this-ns *ns*)", :ns "clojure.core.typed.base-env", :name "this-ns", :file "clojure/core/typed/base_env.clj", :column 1, :line 118}

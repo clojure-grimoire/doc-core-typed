@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn empty-cset [X Y]\n  {:pre [(every? (con/hash-c? symbol? r/Bounds?) [X Y])]\n   :post [(cset? %)]}\n  (->cset [(->cset-entry (into {} (for [[x bnds] X] [x (no-constraint x bnds)]))\n                         (->dmap {}))]))", :ns "clojure.core.typed.cs-rep", :name "empty-cset", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 162, :arglists ([X Y])}

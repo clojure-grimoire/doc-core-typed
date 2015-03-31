@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.util-aliases", :name "MyName", :file "clojure/core/typed/test/util_aliases.clj", :type :var, :src "(t/defalias MyName (t/HMap :mandatory {:a (t/Value 1)}))", :column 1, :line 4, :declared true}

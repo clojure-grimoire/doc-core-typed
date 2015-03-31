@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn abstract \n  \"Make free name bound\"\n  [name ty]\n  {:pre [(symbol? name)\n         (r/Type? ty)]\n   :post [(r/Scope? %)]}\n  (abstract-many [name] ty))", :ns "clojure.core.typed.type-ctors", :name "abstract", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2047, :arglists ([name ty]), :doc "Make free name bound"}

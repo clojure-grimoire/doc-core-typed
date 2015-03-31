@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn IRObject? [a]\n  (instance? clojure.core.typed.impl_protocols.IRObject a))", :ns "clojure.core.typed.impl-protocols", :name "IRObject?", :file "clojure/core/typed/impl_protocols.clj", :column 1, :line 66, :arglists ([a])}

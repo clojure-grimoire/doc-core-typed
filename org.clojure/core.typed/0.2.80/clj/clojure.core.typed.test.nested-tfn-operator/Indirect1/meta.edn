@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.nested-tfn-operator", :name "Indirect1", :file "clojure/core/typed/test/nested_tfn_operator.clj", :type :var, :src "(t/defalias Indirect1\n  Indirect0)", :column 1, :line 8, :declared true}

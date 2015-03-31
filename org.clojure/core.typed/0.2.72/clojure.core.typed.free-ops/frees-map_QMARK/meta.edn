@@ -1,1 +1,0 @@
-{:type :fn, :src "(def frees-map? (con/hash-c? symbol? (con/hmap-c? :F r/F? :bnds r/Bounds?)))", :ns "clojure.core.typed.free-ops", :name "frees-map?", :file "clojure/core/typed/free_ops.clj", :column 1, :line 58}

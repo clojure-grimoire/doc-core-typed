@@ -1,1 +1,0 @@
-{:type :fn, :src "(def substitution-c? (con/hash-c? symbol? subst-rhs?))", :ns "clojure.core.typed.cs-rep", :name "substitution-c?", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 55}

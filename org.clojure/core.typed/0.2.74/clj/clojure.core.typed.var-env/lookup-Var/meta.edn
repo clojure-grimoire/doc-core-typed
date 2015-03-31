@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn lookup-Var [nsym]\n  {:post [((some-fn nil? r/Type?) %)]}\n  (if-let [t (lookup-Var-nofail nsym)]\n    t\n    (err/int-error\n      (str \"Untyped var reference: \" nsym))))", :ns "clojure.core.typed.var-env", :name "lookup-Var", :file "clojure/core/typed/var_env.clj", :column 1, :line 116, :arglists ([nsym])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.ctyp97-tvar-scoping", :name "append_", :file "clojure/core/typed/test/ctyp97_tvar_scoping.clj", :type :fn, :src "(defn append_\n  [coll1 coll2]\n  (reduce_ (t/inst cons (t/U a b)) coll2 coll1))", :column 1, :line 20, :arglists ([coll1 coll2])}

@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.type-contract", :name "*inside-rec*", :file "clojure/core/typed/type_contract.clj", :type :var, :src "(def ^:dynamic *inside-rec* #{})", :column 1, :dynamic true, :line 16}

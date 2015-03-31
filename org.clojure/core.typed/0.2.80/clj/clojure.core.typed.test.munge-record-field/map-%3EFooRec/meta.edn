@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord FooRec [other-keys?])", :ns "clojure.core.typed.test.munge-record-field", :name "map->FooRec", :file "clojure/core/typed/test/munge_record_field.clj", :column 1, :line 14, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.munge_record_field.FooRec, taking a map of keywords to field values."}

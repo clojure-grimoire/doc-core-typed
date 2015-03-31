@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Hierarchy", :type :var, :src nil, :doc "A hierarchy for use with derive, isa? etc.\n\n'{:parents (clojure.lang.IPersistentMap Any Any),\n  :ancestors (clojure.lang.IPersistentMap Any Any),\n  :descendants (clojure.lang.IPersistentMap Any Any)}\n", :forms [Hierarchy]}

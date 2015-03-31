@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord FooRec [a])", :ns "clojure.core.typed.test.mm", :name "map->FooRec", :file "clojure/core/typed/test/mm.clj", :column 1, :line 39, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.mm.FooRec, taking a map of keywords to field values."}

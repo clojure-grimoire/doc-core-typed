@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.array", :name "write-integer-to-zero", :file "clojure/core/typed/test/array.clj", :type :fn, :src "(defn write-integer-to-zero [arr]\n  (aset arr 0 (int 12))\n  nil)", :column 1, :line 25, :arglists ([arr])}

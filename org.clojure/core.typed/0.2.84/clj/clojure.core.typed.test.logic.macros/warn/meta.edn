@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "warn", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn warn [& msg]\n  (binding [*out* *err*]\n    (apply println \"WARNING:\" msg)))", :column 1, :line 225, :arglists ([& msg])}

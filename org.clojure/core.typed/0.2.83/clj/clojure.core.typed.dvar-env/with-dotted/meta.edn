@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro with-dotted [dvars & body]\n  `(with-dotted-mappings (into {} (for [v# ~dvars]\n                                    [(:name v#) v#]))\n     ~@body))", :macro true, :ns "clojure.core.typed.dvar-env", :name "with-dotted", :file "clojure/core/typed/dvar_env.clj", :column 1, :line 20, :arglists ([dvars & body])}

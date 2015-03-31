@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.profiling", :name "profile-if", :file "clojure/core/typed/profiling.clj", :type :macro, :src "(defmacro profile-if\n  \"Usage (profile-if p? :info :foo)\"\n  [p? & body]\n  `(if ~p?\n     (profile :info :foo ~@body)\n     (do ~@body)))", :column 1, :line 179, :macro true, :arglists ([p? & body]), :doc "Usage (profile-if p? :info :foo)"}

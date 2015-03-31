@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn find-lower-bound [t]\n  {:pre [(r/Type? t)]}\n  (find-bound* t false))", :ns "clojure.core.typed.type-ctors", :name "find-lower-bound", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2220, :arglists ([t])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  override-method* \n  \"Internal use only. Use override-method.\"\n  [methodsym typesyn]\n  nil)", :ns "clojure.core.typed", :name "override-method*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 2053, :doc "Internal use only. Use override-method."}

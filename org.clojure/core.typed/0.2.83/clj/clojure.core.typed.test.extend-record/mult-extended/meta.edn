@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.extend-record", :doc nil, :arglists ([this]), :name "mult-extended"}

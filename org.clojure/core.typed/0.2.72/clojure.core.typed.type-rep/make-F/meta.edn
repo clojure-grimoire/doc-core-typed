@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn make-F\n  \"Make a free variable \"\n  [name] (F-maker name))", :ns "clojure.core.typed.type-rep", :name "make-F", :file "clojure/core/typed/type_rep.clj", :column 1, :line 170, :arglists ([name]), :doc "Make a free variable "}

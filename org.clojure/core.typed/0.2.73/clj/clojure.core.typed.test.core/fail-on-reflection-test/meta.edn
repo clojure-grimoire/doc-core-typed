@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest fail-on-reflection-test\n  (is (caught-top-level-errors (constantly true)\n        (check-ns 'clojure.core.typed.test.fail.reflection))))", :ns "clojure.core.typed.test.core", :name "fail-on-reflection-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2994, :test #<core$fn__31769 clojure.core.typed.test.core$fn__31769@1d3ce77f>}

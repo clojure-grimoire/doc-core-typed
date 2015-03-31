@@ -1,1 +1,0 @@
-{:type :var, :src "(defonce ^:dynamic *parse-type-in-ns* nil)", :ns "clojure.core.typed.parse-ast", :name "*parse-type-in-ns*", :file "clojure/core/typed/parse_ast.clj", :column 1, :dynamic true, :line 10}

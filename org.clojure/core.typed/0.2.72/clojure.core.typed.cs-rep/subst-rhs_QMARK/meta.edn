@@ -1,1 +1,0 @@
-{:type :fn, :src "(def subst-rhs? (some-fn t-subst? i-subst? i-subst-starred? i-subst-dotted?))", :ns "clojure.core.typed.cs-rep", :name "subst-rhs?", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 52}

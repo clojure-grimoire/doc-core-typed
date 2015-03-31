@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.kw-args", :name "poly-foo-mandatory-kw", :file "clojure/core/typed/test/kw_args.clj", :type :fn, :src "(defn poly-foo-mandatory-kw [& {:keys [a]}]\n  a)", :column 1, :line 36, :arglists ([& {:keys [a]}])}

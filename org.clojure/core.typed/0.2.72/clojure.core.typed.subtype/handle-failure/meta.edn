@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro handle-failure [& body]\n  `(u/handle-subtype-failure ~@body))", :macro true, :ns "clojure.core.typed.subtype", :name "handle-failure", :file "clojure/core/typed/subtype.clj", :column 1, :line 41, :arglists ([& body])}

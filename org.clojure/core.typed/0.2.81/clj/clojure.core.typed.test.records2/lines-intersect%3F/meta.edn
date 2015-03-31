@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.records2", :name "lines-intersect?", :file "clojure/core/typed/test/records2.clj", :type :fn, :src "(defn lines-intersect? [v h]\n  (and\n   (>= (:lat (:p h)) (:lat (:p v)))\n   (>= (:lng (:p v)) (:lng (:p h)))\n   (<= (:lat (:p h)) (+ (:lat (:p v)) (:l v)))\n   (<= (:lng (:p v)) (+ (:lng (:p h)) (:l h)))))", :column 1, :line 47, :arglists ([v h])}

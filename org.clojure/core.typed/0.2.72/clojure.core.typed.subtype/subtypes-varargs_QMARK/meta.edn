@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn subtypes-varargs?\n  \"True if argtys are under dom\"\n  [argtys dom rst kws]\n  (handle-failure\n    (subtypes*-varargs #{} argtys dom rst kws)\n    true))", :ns "clojure.core.typed.subtype", :name "subtypes-varargs?", :file "clojure/core/typed/subtype.clj", :column 1, :line 58, :arglists ([argtys dom rst kws]), :doc "True if argtys are under dom"}

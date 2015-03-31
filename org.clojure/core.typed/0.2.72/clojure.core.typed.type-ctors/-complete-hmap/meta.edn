@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -complete-hmap [types]\n  (make-HMap\n    :mandatory types \n    :complete? true))", :ns "clojure.core.typed.type-ctors", :name "-complete-hmap", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 112, :arglists ([types])}

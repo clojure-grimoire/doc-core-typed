@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn current-nocheck-var? []\n  (let [env *current-nocheck-var?*]\n    (assert env \"No var nocheck env bound\")\n    env))", :ns "clojure.core.typed.var-env", :name "current-nocheck-var?", :file "clojure/core/typed/var_env.clj", :column 1, :line 33, :arglists ([])}

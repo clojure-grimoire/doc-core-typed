@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn reset-jsnominal! [m]\n  (reset! impl/jsnominal-env m)\n  nil)", :ns "clojure.core.typed.jsnominal-env", :name "reset-jsnominal!", :file "clojure/core/typed/jsnominal_env.clj", :column 1, :line 138, :arglists ([m])}

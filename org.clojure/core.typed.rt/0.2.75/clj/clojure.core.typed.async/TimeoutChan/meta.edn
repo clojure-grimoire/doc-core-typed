@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "TimeoutChan", :type :var, :src nil, :doc "A timeout channel\n\n(Chan Any)\n", :forms [TimeoutChan]}

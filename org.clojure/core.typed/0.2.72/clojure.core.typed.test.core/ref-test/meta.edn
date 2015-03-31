@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest ref-test\n  (is-tc-e @(ref 1) Any)\n  (is-tc-e @(ref :- Number 1) Number))", :ns "clojure.core.typed.test.core", :name "ref-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3202, :test #<core$fn__30198 clojure.core.typed.test.core$fn__30198@412c1ad0>}

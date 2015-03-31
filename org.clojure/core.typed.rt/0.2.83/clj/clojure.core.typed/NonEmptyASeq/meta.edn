@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "NonEmptyASeq", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "A sequential non-empty seq retured from clojure.core/seq", :forms [(NonEmptyASeq t)]}

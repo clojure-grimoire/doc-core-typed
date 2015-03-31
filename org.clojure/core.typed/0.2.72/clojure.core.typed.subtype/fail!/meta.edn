@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn fail! [s t]\n  (throw u/subtype-exn))", :ns "clojure.core.typed.subtype", :name "fail!", :file "clojure/core/typed/subtype.clj", :column 1, :line 45, :arglists ([s t])}

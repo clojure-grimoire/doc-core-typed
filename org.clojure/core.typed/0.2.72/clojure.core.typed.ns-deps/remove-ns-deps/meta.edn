@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn remove-ns-deps [nsym deps]\n  {:pre [(symbol? nsym)\n         ((con/set-c? symbol?) deps)]\n   :post [(dep-map? %)]}\n  (swap! (current-deps) update-in [nsym] nilsafe/set-difference deps))", :ns "clojure.core.typed.ns-deps", :name "remove-ns-deps", :file "clojure/core/typed/ns_deps.clj", :column 1, :line 52, :arglists ([nsym deps])}

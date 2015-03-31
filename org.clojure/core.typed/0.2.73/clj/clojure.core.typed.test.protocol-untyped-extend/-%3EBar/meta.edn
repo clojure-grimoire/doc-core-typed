@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype Bar [])", :ns "clojure.core.typed.test.protocol-untyped-extend", :name "->Bar", :file "clojure/core/typed/test/protocol_untyped_extend.clj", :column 1, :line 12, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.protocol_untyped_extend.Bar."}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.CTYP-118-cast", :name "i3", :file "clojure/core/typed/test/CTYP_118_cast.clj", :type :var, :src "(def i3 ((t/fn [x :- Class y :- (t/Value \"c\")] (cast x y)) String \"c\"))", :column 1, :line 11}

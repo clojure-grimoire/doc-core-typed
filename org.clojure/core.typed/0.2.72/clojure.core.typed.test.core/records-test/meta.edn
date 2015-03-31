@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest records-test\n  (is (check-ns 'clojure.core.typed.test.records))\n  (is (check-ns 'clojure.core.typed.test.records2)))", :ns "clojure.core.typed.test.core", :name "records-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1158, :test #<core$fn__25155 clojure.core.typed.test.core$fn__25155@cf9cd7d>}

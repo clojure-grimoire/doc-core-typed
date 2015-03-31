@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-monads", :name "assoc-in-val", :file "clojure/core/typed/test/protocol_monads.clj", :type :fn, :src "(defn assoc-in-val [path val]\n  (bind (update-state #(assoc-in % path val))\n        #(state (get-in % path))))", :column 1, :line 337, :arglists ([path val])}

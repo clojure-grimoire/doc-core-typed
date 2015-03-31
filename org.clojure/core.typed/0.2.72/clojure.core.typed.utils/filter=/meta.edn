@@ -1,1 +1,0 @@
-{:type :fn, :src "(defspecial filter)", :ns "clojure.core.typed.utils", :name "filter=", :file "clojure/core/typed/utils.clj", :column 1, :line 285, :arglists ([t1__2333__auto__ t2__2334__auto__])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest parse-TFn-bad-args-test\n  (is-clj (throws-tc-error?\n            (parse-type `(TFn [[x# :variance :covariant :argh]] Any)))))", :ns "clojure.core.typed.test.core", :name "parse-TFn-bad-args-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2544, :test #<core$fn__30419 clojure.core.typed.test.core$fn__30419@4113a565>}

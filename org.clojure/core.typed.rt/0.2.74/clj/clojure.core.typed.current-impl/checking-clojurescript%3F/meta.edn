@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn checking-clojurescript? []\n  (ensure-impl-specified)\n  (= clojurescript *current-impl*))", :ns "clojure.core.typed.current-impl", :name "checking-clojurescript?", :file "clojure/core/typed/current_impl.clj", :column 1, :line 130, :arglists ([])}

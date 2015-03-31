@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Proxy", :type :var, :src nil, :doc "A Clojure proxy.\n\nclojure.lang.IProxy\n", :forms [Proxy]}

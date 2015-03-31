@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest CTYP-74-malformed-TApp-test\n  (is-clj (err/tc-error-thrown? (parse-type `([Any ~'-> Any])))))", :ns "clojure.core.typed.test.core", :name "CTYP-74-malformed-TApp-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2222, :test #<core$fn__27398 clojure.core.typed.test.core$fn__27398@65a44d8a>}

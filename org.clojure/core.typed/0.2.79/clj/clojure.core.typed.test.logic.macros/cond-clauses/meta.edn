@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "cond-clauses", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn cond-clauses [a]\n  (fn [goals]\n    `((~(first goals) ~a) ~@(rest goals))))", :column 1, :line 198, :arglists ([a])}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type GTRange [n]\n  \"The type of all numbers greater than n\"\n  [(number? n)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "GTRange?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 773, :arglists ([a__2329__auto__])}

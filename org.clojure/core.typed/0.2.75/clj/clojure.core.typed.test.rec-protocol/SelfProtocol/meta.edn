@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol SelfProtocol\n  (f1 [this] :- (U nil SelfProtocol)))", :doc nil, :ns "clojure.core.typed.test.rec-protocol", :name "SelfProtocol", :file "clojure/core/typed/test/rec_protocol.clj", :column 1, :line 4}

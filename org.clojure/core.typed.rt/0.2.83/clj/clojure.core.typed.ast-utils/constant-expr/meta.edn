@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn constant-expr [expr]\n  {:pre [(#{:quote} (:op expr))\n         (#{:const} (:op (:expr expr)))]}\n  (-> expr :expr :val))", :ns "clojure.core.typed.ast-utils", :name "constant-expr", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 20, :arglists ([expr])}

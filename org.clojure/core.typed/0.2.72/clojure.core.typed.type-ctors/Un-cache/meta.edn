@@ -1,1 +1,0 @@
-{:type :var, :src "(defonce Un-cache (atom initial-Un-cache))", :ns "clojure.core.typed.type-ctors", :name "Un-cache", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 314}

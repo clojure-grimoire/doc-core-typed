@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn unify [X Y S T R]\n  (u/p :subtype/unify\n   (boolean \n     (u/handle-cs-gen-failure\n       (ind/infer X Y S T R)))))", :ns "clojure.core.typed.subtype", :name "unify", :file "clojure/core/typed/subtype.clj", :column 1, :line 107, :arglists ([X Y S T R])}

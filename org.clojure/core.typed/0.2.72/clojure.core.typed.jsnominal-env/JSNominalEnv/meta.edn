@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.jsnominal-env", :name "JSNominalEnv", :type :var, :src nil, :doc "A map of symbols of JSNomainalEntry's\n\n(t/Map t/Sym JSNominalEntry)\n"}

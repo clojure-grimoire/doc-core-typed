@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.cs-rep", :name "CMap", :type :var, :src nil, :doc "Map of free symbols to constraints\n\n(t/Map t/Sym c)\n"}

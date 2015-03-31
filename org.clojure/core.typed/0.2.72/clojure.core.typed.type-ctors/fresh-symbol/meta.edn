@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn fresh-symbol [s]\n  {:pre [(symbol? s)]\n   :post [(symbol? %)]}\n  (with-meta (gensym s) {:original-name s}))", :ns "clojure.core.typed.type-ctors", :name "fresh-symbol", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 50, :arglists ([s])}

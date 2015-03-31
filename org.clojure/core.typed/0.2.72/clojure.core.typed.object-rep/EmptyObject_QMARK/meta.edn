@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-object EmptyObject []\n  \"No interesting information about this path/object\"\n  []\n  :methods\n  [p/IRObject])", :ns "clojure.core.typed.object-rep", :name "EmptyObject?", :file "clojure/core/typed/object_rep.clj", :column 1, :line 29, :arglists ([a__2329__auto__])}

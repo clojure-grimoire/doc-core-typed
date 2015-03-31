@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.CTYP-83-performance", :name "VersionVector", :type :var, :src nil, :doc "\n\n(t/NonEmptyVec Number)\n"}

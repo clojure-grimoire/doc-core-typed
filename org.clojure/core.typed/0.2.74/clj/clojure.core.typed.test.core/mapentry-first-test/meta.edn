@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest mapentry-first-test\n  (is-tc-e (first (first {1 2}))\n           Num))", :ns "clojure.core.typed.test.core", :name "mapentry-first-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2644, :test #<core$fn__30843 clojure.core.typed.test.core$fn__30843@7773b4c6>}

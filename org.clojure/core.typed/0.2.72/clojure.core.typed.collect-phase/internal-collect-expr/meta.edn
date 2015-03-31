@@ -1,1 +1,0 @@
-{:type :var, :src "(u/special-do-op ::t/special-collect internal-collect-expr)", :ns "clojure.core.typed.collect-phase", :name "internal-collect-expr", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 84}

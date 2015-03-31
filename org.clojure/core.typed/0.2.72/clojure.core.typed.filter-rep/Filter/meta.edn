@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.filter-rep", :name "Filter", :type :var, :src nil, :doc "A filter\n\np/IFilter\n"}

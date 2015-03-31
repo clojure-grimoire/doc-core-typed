@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "ExInfo", :type :var, :src nil, :doc "A Clojure custom exception type.\n\n(I clojure.lang.IExceptionInfo RuntimeException)\n", :forms [ExInfo]}

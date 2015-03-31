@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro with-parse-ns [sym & body]\n  `(binding [*parse-type-in-ns* ~sym]\n     ~@body))", :macro true, :ns "clojure.core.typed.parse-unparse", :name "with-parse-ns", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 68, :arglists ([sym & body])}

@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.protocol-monads", :doc "combine two containers, return new container", :arglists ([container1 container2]), :name "writer-m-combine"}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype DNP []\n  NonPoly\n  (nonpoly [this] this))", :ns "clojure.core.typed.test.protocol-scoping", :name "->DNP", :file "clojure/core/typed/test/protocol_scoping.clj", :column 1, :line 8, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.protocol_scoping.DNP."}

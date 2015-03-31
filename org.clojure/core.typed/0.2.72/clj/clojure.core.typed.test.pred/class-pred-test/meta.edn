@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest class-pred-test\n  (is (Number? 1))\n  (is (not (Number? nil))))", :ns "clojure.core.typed.test.pred", :name "class-pred-test", :file "clojure/core/typed/test/pred.clj", :column 1, :line 11, :test #<pred$fn__20686 clojure.core.typed.test.pred$fn__20686@408d9ac4>}

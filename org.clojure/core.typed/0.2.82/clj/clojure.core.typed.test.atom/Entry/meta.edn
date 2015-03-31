@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.atom", :name "Entry", :file "clojure/core/typed/test/atom.clj", :type :var, :src "(defalias Entry '{:a '{:b (IPersistentMap Symbol (Atom1 InnerEntry))}})", :column 1, :line 13, :declared true}

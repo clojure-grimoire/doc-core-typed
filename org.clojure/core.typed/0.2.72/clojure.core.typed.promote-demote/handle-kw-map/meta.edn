@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn handle-kw-map [m p-or-d-fn V]\n  (into {}\n        (for [[k v] m]\n          [k (p-or-d-fn v V)])))", :ns "clojure.core.typed.promote-demote", :name "handle-kw-map", :file "clojure/core/typed/promote_demote.clj", :column 1, :line 113, :arglists ([m p-or-d-fn V])}

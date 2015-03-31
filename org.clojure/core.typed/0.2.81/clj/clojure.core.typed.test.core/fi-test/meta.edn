@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest fi-test\n  (is-clj (empty? (fi (make-F 'x)))))", :ns "clojure.core.typed.test.core", :name "fi-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 888, :test #<core$fn__26046 clojure.core.typed.test.core$fn__26046@435d0826>}

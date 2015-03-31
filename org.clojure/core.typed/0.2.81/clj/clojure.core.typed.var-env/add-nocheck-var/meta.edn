@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-nocheck-var [sym]\n  (swap! (current-nocheck-var?) conj sym)\n  nil)", :ns "clojure.core.typed.var-env", :name "add-nocheck-var", :file "clojure/core/typed/var_env.clj", :column 1, :line 81, :arglists ([sym])}

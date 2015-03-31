@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn unparse-filter-set [{:keys [then else] :as fs}]\n  {:pre [(f/FilterSet? fs)]}\n  {:then (unparse-filter then)\n   :else (unparse-filter else)})", :ns "clojure.core.typed.parse-unparse", :name "unparse-filter-set", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 1667, :arglists ([{:keys [then else], :as fs}])}

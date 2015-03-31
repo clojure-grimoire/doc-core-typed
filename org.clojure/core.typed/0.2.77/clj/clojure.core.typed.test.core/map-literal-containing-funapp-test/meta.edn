@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest map-literal-containing-funapp-test\n  (is-tc-e {:bar (identity 1)}))", :ns "clojure.core.typed.test.core", :name "map-literal-containing-funapp-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1232, :test #<core$fn__27303 clojure.core.typed.test.core$fn__27303@70577bb7>}

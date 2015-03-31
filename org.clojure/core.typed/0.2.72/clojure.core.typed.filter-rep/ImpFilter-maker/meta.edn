@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-filter ImpFilter [a c]\n  \"Antecedent (filter a) implies consequent (filter c)\"\n  [(Filter? a)\n   (Filter? c)]\n  :methods\n  [p/IFilter])", :ns "clojure.core.typed.filter-rep", :name "ImpFilter-maker", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 126, :arglists ([a c & {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

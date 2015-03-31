@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn filter-for-value [val]\n  (if val\n    (fo/-FS fl/-top fl/-bot)\n    (fo/-FS fl/-bot fl/-top)))", :ns "clojure.core.typed.check.value", :name "filter-for-value", :file "clojure/core/typed/check/value.clj", :column 1, :line 19, :arglists ([val])}

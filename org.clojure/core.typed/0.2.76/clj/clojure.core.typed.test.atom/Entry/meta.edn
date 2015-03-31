@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.atom", :name "Entry", :type :var, :src nil, :doc "\n\n'{:a '{:b (IPersistentMap Symbol (Atom1 InnerEntry))}}\n"}

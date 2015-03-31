@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol PMathsExtend\n  (mult-extended [this] :- PMathsExtend))", :doc nil, :ns "clojure.core.typed.test.extend-record", :name "PMathsExtend", :file "clojure/core/typed/test/extend_record.clj", :column 1, :line 10}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt", :name "Empty", :file "clojure/core/typed/test/rbt.clj", :type :var, :src "(defalias Empty\n  \"A terminating node.\"\n  '{:tree ':Empty})", :column 1, :line 17, :declared true, :doc "A terminating node."}

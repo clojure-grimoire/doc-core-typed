@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest top-function-subtype-test\n  (is-clj (subtype? (parse-type `[t/Any ~'-> t/Any])\n                    (parse-type 'AnyFunction))))", :ns "clojure.core.typed.test.subtype", :name "top-function-subtype-test", :file "clojure/core/typed/test/subtype.clj", :column 1, :line 112, :test #<subtype$fn__19609 clojure.core.typed.test.subtype$fn__19609@37f84c3c>}

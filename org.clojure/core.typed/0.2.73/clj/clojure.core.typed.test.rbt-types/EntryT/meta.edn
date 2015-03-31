@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt-types", :name "EntryT", :type :var, :src nil, :doc "The payload\n\n'{:key Number, :datum Number}\n"}

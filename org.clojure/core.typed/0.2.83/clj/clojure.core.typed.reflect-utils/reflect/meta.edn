@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reflect\n  [obj & options]\n  (apply reflect/type-reflect (if (class? obj) obj (class obj))\n         :reflector (reflect/->JavaReflector (RT/baseLoader))\n         options))", :ns "clojure.core.typed.reflect-utils", :name "reflect", :file "clojure/core/typed/reflect_utils.clj", :column 1, :line 6, :arglists ([obj & options])}

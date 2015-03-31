@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn current-deps []\n  {:post [%]}\n  (let [d (assert-dep-map)]\n    d))", :ns "clojure.core.typed.ns-deps", :name "current-deps", :file "clojure/core/typed/ns_deps.clj", :column 1, :line 30, :arglists ([])}

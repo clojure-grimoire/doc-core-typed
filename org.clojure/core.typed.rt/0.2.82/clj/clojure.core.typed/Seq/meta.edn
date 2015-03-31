@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Seq", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "A persistent sequence of member type x.", :forms [(Seq t)]}

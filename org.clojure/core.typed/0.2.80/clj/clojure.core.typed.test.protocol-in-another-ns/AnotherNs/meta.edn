@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol AnotherNs\n  (baz [this]))", :doc nil, :ns "clojure.core.typed.test.protocol-in-another-ns", :name "AnotherNs", :file "clojure/core/typed/test/protocol_in_another_ns.clj", :column 1, :line 3}

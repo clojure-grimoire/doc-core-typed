@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest HMap-parse-fail-test\n  (is (err/tc-error-thrown? (clj (parse-type `(HMap :mandatory {:a Any} :absent-keys #{:a}))))))", :ns "clojure.core.typed.test.core", :name "HMap-parse-fail-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1826, :test #<core$fn__28140 clojure.core.typed.test.core$fn__28140@7637d5a3>}

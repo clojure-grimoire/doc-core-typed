@@ -1,1 +1,0 @@
-{:type :fn, :src "(def reread-with-tr (comp tr/read readers/indexing-push-back-reader print-str))", :ns "clojure.core.typed.analyze-clj", :name "reread-with-tr", :file "clojure/core/typed/analyze_clj.clj", :column 1, :line 118}

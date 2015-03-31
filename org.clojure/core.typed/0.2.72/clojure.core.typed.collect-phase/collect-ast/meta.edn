@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn collect-ast [expr]\n  (collect expr))", :ns "clojure.core.typed.collect-phase", :name "collect-ast", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 69, :arglists ([expr])}

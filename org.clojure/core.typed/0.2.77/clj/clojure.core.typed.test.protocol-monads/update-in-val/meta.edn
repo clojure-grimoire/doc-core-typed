@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-monads", :name "update-in-val", :file "clojure/core/typed/test/protocol_monads.clj", :type :fn, :src "(defn update-in-val [path f & args]\n  (bind (update-state #(apply update-in % path f args))\n        #(state (get-in % path))))", :column 1, :line 341, :arglists ([path f & args])}

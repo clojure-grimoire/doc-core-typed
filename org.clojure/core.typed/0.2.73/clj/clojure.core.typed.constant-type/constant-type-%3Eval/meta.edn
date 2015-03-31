@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro constant-type->val\n  [& cls]\n  (let [method `(constant-ret [v#] (ret (r/-val v#)))]\n    `(extend-protocol ConstantType\n       ~@(apply concat (zipmap cls (repeat method))))))", :macro true, :ns "clojure.core.typed.constant-type", :name "constant-type->val", :file "clojure/core/typed/constant_type.clj", :column 1, :line 20, :arglists ([& cls])}

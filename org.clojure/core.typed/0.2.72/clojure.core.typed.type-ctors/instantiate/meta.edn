@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn instantiate \n  \"Instantiate bound name to free\"\n  [f sc]\n  {:pre [(symbol? f)\n         (p/IScope? sc)]}\n  (instantiate-many [f] sc))", :ns "clojure.core.typed.type-ctors", :name "instantiate", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 2056, :arglists ([f sc]), :doc "Instantiate bound name to free"}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "run*", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro run*\n  \"Executes goals until results are exhausted.\"\n  [& goals]\n  `(run false ~@goals))", :column 1, :line 81, :macro true, :arglists ([& goals]), :doc "Executes goals until results are exhausted."}

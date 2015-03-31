@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest array-primitive-hint-test\n  (is-cf (let [^ints a (clojure.core.typed/into-array> int [(int 1)])]\n           (alength a))))", :ns "clojure.core.typed.test.core", :name "array-primitive-hint-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1039, :test #<core$fn__24797 clojure.core.typed.test.core$fn__24797@1e79c8b9>}

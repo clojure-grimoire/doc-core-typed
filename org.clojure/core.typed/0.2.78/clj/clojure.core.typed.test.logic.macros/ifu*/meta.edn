@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "ifu*", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro ifu*\n  ([])\n  ([[e & gs] & grest]\n     `(cljs.core.logic/-ifu ~e [~@gs]\n        ~(if (seq grest)\n           `(delay (ifu* ~@grest))\n           nil))))", :column 1, :line 190, :macro true, :arglists ([] [[e & gs] & grest])}

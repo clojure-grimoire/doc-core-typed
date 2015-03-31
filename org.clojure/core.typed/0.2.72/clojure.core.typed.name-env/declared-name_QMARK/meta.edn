@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn declared-name? [sym]\n  (= declared-name-type (get-type-name sym)))", :ns "clojure.core.typed.name-env", :name "declared-name?", :file "clojure/core/typed/name_env.clj", :column 1, :line 120, :arglists ([sym])}

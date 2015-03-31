@@ -1,1 +1,0 @@
-{:type :var, :src "(def initial-mm-dispatch-env {})", :ns "clojure.core.typed.mm-env", :name "initial-mm-dispatch-env", :file "clojure/core/typed/mm_env.clj", :column 1, :line 12}

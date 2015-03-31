@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol DocD\n  \"This is a docstring\"\n  (docd [this, a :- Num] :- Num\n        \"trailing docstring\"))", :doc "This is a docstring", :ns "clojure.core.typed.test.defprotocol", :name "DocD", :file "clojure/core/typed/test/defprotocol.clj", :column 1, :line 13}

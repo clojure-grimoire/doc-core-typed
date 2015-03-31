@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest tc-ignore-test\n  (is-tc-e (fn [] (tc-ignore (+ 'a 1)))))", :ns "clojure.core.typed.test.core", :name "tc-ignore-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3163, :test #<core$fn__31976 clojure.core.typed.test.core$fn__31976@5dafab99>}

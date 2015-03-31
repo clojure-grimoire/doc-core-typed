@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.tools-analyzer-jvm-ann", :name "Tag", :file "clojure/core/typed/test/tools_analyzer_jvm_ann.clj", :type :var, :src "(t/defalias Tag t/Any)", :column 1, :line 34, :declared true}

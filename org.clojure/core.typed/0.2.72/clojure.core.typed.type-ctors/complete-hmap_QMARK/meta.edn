@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn complete-hmap? [^HeterogeneousMap hmap]\n  {:pre [(r/HeterogeneousMap? hmap)]}\n  (not (.other-keys? hmap)))", :ns "clojure.core.typed.type-ctors", :name "complete-hmap?", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 244, :arglists ([hmap])}

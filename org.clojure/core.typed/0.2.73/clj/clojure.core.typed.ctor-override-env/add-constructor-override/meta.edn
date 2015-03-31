@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-constructor-override [sym t]\n  (swap! CONSTRUCTOR-OVERRIDE-ENV assoc sym t)\n  nil)", :ns "clojure.core.typed.ctor-override-env", :name "add-constructor-override", :file "clojure/core/typed/ctor_override_env.clj", :column 1, :line 12, :arglists ([sym t])}

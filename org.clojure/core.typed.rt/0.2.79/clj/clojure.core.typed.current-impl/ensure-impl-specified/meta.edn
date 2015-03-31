@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ensure-impl-specified []\n  (assert (implementation-specified?) \"No implementation specified\"))", :ns "clojure.core.typed.current-impl", :name "ensure-impl-specified", :file "clojure/core/typed/current_impl.clj", :column 1, :line 119, :arglists ([])}

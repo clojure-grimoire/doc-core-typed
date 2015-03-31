@@ -1,1 +1,0 @@
-{:type :var, :src "(def initial-class-ancestors-env {})", :ns "clojure.core.typed.rclass-ancestor-env", :name "initial-class-ancestors-env", :file "clojure/core/typed/rclass_ancestor_env.clj", :column 1, :line 24}

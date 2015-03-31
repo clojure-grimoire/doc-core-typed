@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn reset-Un-cache []\n  (reset! Un-cache initial-Un-cache)\n  nil)", :ns "clojure.core.typed.type-ctors", :name "reset-Un-cache", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 317, :arglists ([])}

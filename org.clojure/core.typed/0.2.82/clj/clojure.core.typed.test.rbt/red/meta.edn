@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt", :name "red", :file "clojure/core/typed/test/rbt.clj", :type :var, :src "(defalias red \n  \"Trees with a red root\"\n  (Red bt bt))", :column 1, :line 65, :declared true, :doc "Trees with a red root"}

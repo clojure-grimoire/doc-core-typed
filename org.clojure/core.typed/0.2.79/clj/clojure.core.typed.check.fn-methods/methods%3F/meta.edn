@@ -1,0 +1,1 @@
+{:type :fn, :src "(def methods? (con/every-c? method?))", :ns "clojure.core.typed.check.fn-methods", :name "methods?", :file "clojure/core/typed/check/fn_methods.clj", :column 1, :line 24}

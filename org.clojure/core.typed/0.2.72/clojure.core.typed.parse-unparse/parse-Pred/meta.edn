@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-Pred [[_ & [t-syn :as args]]]\n  (when-not (== 1 (count args))\n    (err/int-error \"Wrong arguments to predicate\"))\n  (predicate-for (parse-type t-syn)))", :ns "clojure.core.typed.parse-unparse", :name "parse-Pred", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 227, :arglists ([[_ & [t-syn :as args]]])}

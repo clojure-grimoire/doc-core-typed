@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "declare-datatypes", :file "clojure/core/typed.clj", :type :macro, :src "(defmacro declare-datatypes \n  \"Declare datatypes, similar to declare but on the type level.\"\n  [& syms]\n  `(declare-datatypes* '~syms))", :column 1, :line 1142, :macro true, :arglists ([& syms]), :doc "Declare datatypes, similar to declare but on the type level."}

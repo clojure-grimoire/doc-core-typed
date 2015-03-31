@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "run", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro run\n  \"Executes goals until a maximum of n results are found.\"\n  [n & goals]\n  `(doall (solve ~n ~@goals)))", :column 1, :line 76, :macro true, :arglists ([n & goals]), :doc "Executes goals until a maximum of n results are found."}

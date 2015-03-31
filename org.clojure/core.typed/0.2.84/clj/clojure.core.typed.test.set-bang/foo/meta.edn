@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.set-bang", :name "foo", :file "clojure/core/typed/test/set_bang.clj", :type :var, :src "(def ^:dynamic foo :foo)", :column 1, :dynamic true, :line 6}

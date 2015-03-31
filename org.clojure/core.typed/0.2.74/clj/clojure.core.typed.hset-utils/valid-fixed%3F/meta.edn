@@ -1,0 +1,1 @@
+{:type :fn, :src "(def valid-fixed? (some-fn string? symbol? keyword? nil? number?\n                           con/character? con/boolean?))", :ns "clojure.core.typed.hset-utils", :name "valid-fixed?", :file "clojure/core/typed/hset_utils.clj", :column 1, :line 4}

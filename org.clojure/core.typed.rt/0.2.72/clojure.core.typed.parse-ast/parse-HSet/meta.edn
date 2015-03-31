@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-HSet [[_ ts & {:keys [complete?] :or {complete? true}} :as args]]\n  {:op :HSet\n   :fixed ts\n   :complete? complete?})", :ns "clojure.core.typed.parse-ast", :name "parse-HSet", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 819, :arglists ([[_ ts & {:keys [complete?], :or {complete? true}} :as args]])}

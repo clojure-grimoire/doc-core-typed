@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn warn-on-unannotated-vars? [nsym]\n  (boolean (:warn-on-unannotated-vars (@ns-opts nsym))))", :ns "clojure.core.typed.ns-options", :name "warn-on-unannotated-vars?", :file "clojure/core/typed/ns_options.clj", :column 1, :line 34, :arglists ([nsym])}

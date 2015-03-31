@@ -1,1 +1,0 @@
-{:type :var, :src "(defmulti foo class)", :ns "clojure.core.typed.test.mm-warn-on-unannotated", :name "foo", :file "clojure/core/typed/test/mm_warn_on_unannotated.clj", :column 1, :line 6}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "p->llist", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn p->llist [p]\n  `(llist\n    ~@(map p->term\n           (remove #(contains? '#{.} %) p))))", :column 1, :line 235, :arglists ([p])}

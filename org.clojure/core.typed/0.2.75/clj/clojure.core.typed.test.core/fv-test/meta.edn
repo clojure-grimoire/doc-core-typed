@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest fv-test\n  (is-clj (= (fv (make-F 'x))\n         '#{x})))", :ns "clojure.core.typed.test.core", :name "fv-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 790, :test #<core$fn__26055 clojure.core.typed.test.core$fn__26055@7707a02c>}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rec-type", :name "Rule", :file "clojure/core/typed/test/rec_type.clj", :type :var, :src "(t/defalias Rule [t/Any -> (t/Option t/Keyword)])", :column 1, :line 11, :declared true}

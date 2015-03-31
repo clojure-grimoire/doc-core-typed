@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-filter OrFilter [fs]\n  \"Logical disjunction of filters\"\n  [(seq fs)\n   (set? fs)\n   (every? Filter? fs)]\n  :methods\n  [p/IFilter])", :ns "clojure.core.typed.filter-rep", :name "OrFilter-maker", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 109, :arglists ([fs & {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

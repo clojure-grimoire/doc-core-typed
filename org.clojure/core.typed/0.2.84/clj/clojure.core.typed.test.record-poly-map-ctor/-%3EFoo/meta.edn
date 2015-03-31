@@ -1,0 +1,1 @@
+{:type :fn, :src "(t/tc-ignore\n(defrecord Foo [b c])\n  )", :ns "clojure.core.typed.test.record-poly-map-ctor", :name "->Foo", :file "clojure/core/typed/test/record_poly_map_ctor.clj", :column 1, :line 9, :arglists ([b c]), :doc "Positional factory function for class clojure.core.typed.test.record_poly_map_ctor.Foo."}

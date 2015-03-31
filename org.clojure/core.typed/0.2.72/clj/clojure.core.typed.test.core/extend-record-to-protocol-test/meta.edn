@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest extend-record-to-protocol-test\n  (is (check-ns 'clojure.core.typed.test.extend-record)))", :ns "clojure.core.typed.test.core", :name "extend-record-to-protocol-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1722, :test #<core$fn__28139 clojure.core.typed.test.core$fn__28139@7dbea7a1>}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^{:doc \"True during type checking.\"} ^:dynamic *checking* nil)", :ns "clojure.core.typed.util-vars", :name "*checking*", :file "clojure/core/typed/util_vars.clj", :column 1, :dynamic true, :line 37, :doc "True during type checking."}

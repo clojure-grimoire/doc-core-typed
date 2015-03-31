@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest hvec-complex-overlap\n  (is-clj (not (overlap-prs `(HVec [Int Num])\n                            `(HVec [Num Int])))))", :ns "clojure.core.typed.test.overlap", :name "hvec-complex-overlap", :file "clojure/core/typed/test/overlap.clj", :column 1, :line 136, :test #<overlap$fn__11976 clojure.core.typed.test.overlap$fn__11976@3464d24c>}

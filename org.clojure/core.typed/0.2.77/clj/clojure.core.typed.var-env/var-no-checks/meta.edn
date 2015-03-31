@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn var-no-checks []\n  @(current-nocheck-var?))", :ns "clojure.core.typed.var-env", :name "var-no-checks", :file "clojure/core/typed/var_env.clj", :column 1, :line 55, :arglists ([])}

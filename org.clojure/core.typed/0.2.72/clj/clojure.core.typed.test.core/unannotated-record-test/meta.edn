@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest unannotated-record-test\n  (is (err/top-level-error-thrown?\n        (check-ns 'clojure.core.typed.test.fail.unannotated-record))))", :ns "clojure.core.typed.test.core", :name "unannotated-record-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2180, :test #<core$fn__29550 clojure.core.typed.test.core$fn__29550@69615c85>}

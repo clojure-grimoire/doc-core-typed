@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.union", :name "AnalyzeOpt", :file "clojure/core/typed/test/union.clj", :type :var, :src "(t/defalias AnalyzeOpt\n  \"Options for analysis\"\n  '{})", :column 1, :line 474, :declared true, :doc "Options for analysis"}

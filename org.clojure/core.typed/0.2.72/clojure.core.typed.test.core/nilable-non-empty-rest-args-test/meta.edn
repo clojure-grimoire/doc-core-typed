@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest nilable-non-empty-rest-args-test\n  (is-tc-e (fn [& args]\n             (ann-form args (U nil (NonEmptySeq Any))))))", :ns "clojure.core.typed.test.core", :name "nilable-non-empty-rest-args-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2947, :test #<core$fn__29525 clojure.core.typed.test.core$fn__29525@668b6033>}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt-types", :name "badLeft", :file "clojure/core/typed/test/rbt_types.clj", :type :var, :src "(defalias badLeft \n  \"Invariant possibly violated at the left child\"\n  (U\n   Empty\n   (Black rbt rbt)\n   (Red bt bt)\n   (Black badRoot rbt)))", :column 1, :line 82, :declared true, :doc "Invariant possibly violated at the left child"}

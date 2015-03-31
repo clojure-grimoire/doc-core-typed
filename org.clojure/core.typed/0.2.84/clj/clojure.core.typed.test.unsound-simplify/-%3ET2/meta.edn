@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype T2 [p]\n  P2\n  (get-p2 [this] p))", :ns "clojure.core.typed.test.unsound-simplify", :name "->T2", :file "clojure/core/typed/test/unsound_simplify.clj", :column 1, :line 41, :arglists ([p]), :doc "Positional factory function for class clojure.core.typed.test.unsound_simplify.T2."}

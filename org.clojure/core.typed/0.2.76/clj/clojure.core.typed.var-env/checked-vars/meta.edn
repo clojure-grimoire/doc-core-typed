@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn checked-vars []\n  @(current-checked-var-defs))", :ns "clojure.core.typed.var-env", :name "checked-vars", :file "clojure/core/typed/var_env.clj", :column 1, :line 61, :arglists ([])}

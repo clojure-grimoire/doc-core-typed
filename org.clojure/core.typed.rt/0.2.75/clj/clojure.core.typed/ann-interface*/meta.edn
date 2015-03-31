@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  ann-interface* \n  \"Internal use only. Use ann-interface.\"\n  [vbnd clsym mth]\n  nil)", :ns "clojure.core.typed", :name "ann-interface*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 1974, :doc "Internal use only. Use ann-interface."}

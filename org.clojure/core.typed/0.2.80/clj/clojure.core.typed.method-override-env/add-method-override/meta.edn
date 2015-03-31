@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-method-override [sym t]\n  (swap! METHOD-OVERRIDE-ENV assoc sym t)\n  nil)", :ns "clojure.core.typed.method-override-env", :name "add-method-override", :file "clojure/core/typed/method_override_env.clj", :column 1, :line 16, :arglists ([sym t])}

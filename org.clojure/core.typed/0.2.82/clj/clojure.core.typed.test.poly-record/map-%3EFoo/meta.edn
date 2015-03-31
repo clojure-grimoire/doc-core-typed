@@ -1,0 +1,1 @@
+{:type :fn, :src "(t/tc-ignore\n(defrecord Foo [b])\n  )", :ns "clojure.core.typed.test.poly-record", :name "map->Foo", :file "clojure/core/typed/test/poly_record.clj", :column 1, :line 5, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.poly_record.Foo, taking a map of keywords to field values."}

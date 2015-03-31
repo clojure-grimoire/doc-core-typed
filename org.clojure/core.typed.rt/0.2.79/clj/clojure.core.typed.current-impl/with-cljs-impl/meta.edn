@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro with-cljs-impl [& body]\n  `(with-impl clojurescript\n     (with-bindings (cljs-bindings)\n       ~@body)))", :macro true, :ns "clojure.core.typed.current-impl", :name "with-cljs-impl", :file "clojure/core/typed/current_impl.clj", :column 1, :line 103, :arglists ([& body])}

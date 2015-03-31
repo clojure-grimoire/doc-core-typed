@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.core", :name "is-with-aliases", :file "clojure/core/typed/test/core.clj", :type :macro, :src "(defmacro is-with-aliases [& body]\n  `(is-clj (do (check-ns '~'clojure.core.typed.test.util-aliases)\n               ~@body)))", :column 1, :line 56, :macro true, :arglists ([& body])}

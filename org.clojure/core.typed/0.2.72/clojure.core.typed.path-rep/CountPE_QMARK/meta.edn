@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-object CountPE []\n  \"A path calling clojure.core/count\"\n  [])", :ns "clojure.core.typed.path-rep", :name "CountPE?", :file "clojure/core/typed/path_rep.clj", :column 1, :line 42, :arglists ([a__2329__auto__])}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type AnyValue []\n  \"Any Value\"\n  []\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "AnyValue-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 398, :arglists ([& {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

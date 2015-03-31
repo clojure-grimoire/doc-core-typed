@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  ann-precord* \n  \"Internal use only. Use ann-precord.\"\n  [dname vbnd fields opt]\n  nil)", :ns "clojure.core.typed", :name "ann-precord*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 1900, :doc "Internal use only. Use ann-precord."}

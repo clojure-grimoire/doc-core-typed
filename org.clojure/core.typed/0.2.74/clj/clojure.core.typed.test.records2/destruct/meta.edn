@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.records2", :name "destruct", :file "clojure/core/typed/test/records2.clj", :type :fn, :src "(defn destruct [{lng :lng :keys [lat] :as r}]\n  lat)", :column 1, :line 83, :arglists ([{lng :lng, :keys [lat], :as r}])}

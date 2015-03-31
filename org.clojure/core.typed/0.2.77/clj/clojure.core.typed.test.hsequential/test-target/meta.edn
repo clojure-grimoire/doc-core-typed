@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.hsequential", :name "test-target", :file "clojure/core/typed/test/hsequential.clj", :type :fn, :src "(defn test-target [& y] (when-not (empty? y) (first-number y)))", :column 1, :line 11, :arglists ([& y])}

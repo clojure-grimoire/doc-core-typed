@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn ^:skip-wiki\n  typed-deps* \n  \"Internal use only. Use typed-deps.\"\n  [args]\n  nil)", :ns "clojure.core.typed", :name "typed-deps*", :file "clojure/core/typed.clj", :skip-wiki true, :column 1, :line 2064, :doc "Internal use only. Use typed-deps."}

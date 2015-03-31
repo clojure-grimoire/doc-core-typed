@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn ^Class Value->Class [tval]\n  {:post [(class? %)]}\n  (class (:val tval)))", :ns "clojure.core.typed.type-ctors", :name "Value->Class", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1448, :tag java.lang.Class, :arglists ([tval])}

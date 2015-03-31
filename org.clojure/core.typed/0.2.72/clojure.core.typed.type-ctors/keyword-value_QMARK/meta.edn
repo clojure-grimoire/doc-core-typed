@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn keyword-value? [val]\n  (boolean\n    (when (r/Value? val)\n      (keyword? (:val val)))))", :ns "clojure.core.typed.type-ctors", :name "keyword-value?", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1453, :arglists ([val])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rps-async", :name "BEATS", :file "clojure/core/typed/test/rps_async.clj", :type :var, :src "(def BEATS {:rock :scissors, :paper :rock, :scissors :paper})", :column 1, :line 36}

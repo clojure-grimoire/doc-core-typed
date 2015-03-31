@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-monads", :name "listen", :file "clojure/core/typed/test/protocol_monads.clj", :type :fn, :src "(defn listen [mv]\n  (let [[v a :as va] (deref mv)]\n    (writer-monad. va a)))", :column 1, :line 412, :arglists ([mv])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest seqable-map-test\n  (is-tc-e (map (fn [[a b] :- '[Number Number]]\n                  (+ a b))\n                {1 2 3 4 5 6})))", :ns "clojure.core.typed.test.core", :name "seqable-map-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2728, :test #<core$fn__30964 clojure.core.typed.test.core$fn__30964@15270b38>}

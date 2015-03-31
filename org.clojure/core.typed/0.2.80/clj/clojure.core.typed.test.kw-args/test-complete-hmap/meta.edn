@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.kw-args", :name "test-complete-hmap", :file "clojure/core/typed/test/kw_args.clj", :type :fn, :src "(defn test-complete-hmap [& {:keys [a]}]\n  (ann-form a (t/U nil Number)))", :column 1, :line 56, :arglists ([& {:keys [a]}])}

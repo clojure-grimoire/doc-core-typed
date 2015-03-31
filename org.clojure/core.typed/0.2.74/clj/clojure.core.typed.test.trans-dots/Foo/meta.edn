@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol [x] Foo)", :doc nil, :ns "clojure.core.typed.test.trans-dots", :name "Foo", :file "clojure/core/typed/test/trans_dots.clj", :column 1, :line 5}

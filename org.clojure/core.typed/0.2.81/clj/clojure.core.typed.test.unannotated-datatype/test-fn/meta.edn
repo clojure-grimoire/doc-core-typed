@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.unannotated-datatype", :name "test-fn", :file "clojure/core/typed/test/unannotated_datatype.clj", :type :fn, :src "(defn test-fn []\n  (NoAnnotate. 1))", :column 1, :line 7, :arglists ([])}

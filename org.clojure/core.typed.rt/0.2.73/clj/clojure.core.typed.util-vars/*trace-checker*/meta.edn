@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic\n  ^{:doc \"If true, print tracing information during type checking.\"}\n  *trace-checker*\n  nil)", :ns "clojure.core.typed.util-vars", :name "*trace-checker*", :file "clojure/core/typed/util_vars.clj", :column 1, :dynamic true, :line 31, :doc "If true, print tracing information during type checking."}

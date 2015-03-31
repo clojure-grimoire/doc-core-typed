@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest string-as-indexed-test\n  (is (sub? String (clojure.lang.Indexed clojure.core.typed/Any))))", :ns "clojure.core.typed.test.core", :name "string-as-indexed-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1193, :test #<core$fn__27204 clojure.core.typed.test.core$fn__27204@33b668d5>}

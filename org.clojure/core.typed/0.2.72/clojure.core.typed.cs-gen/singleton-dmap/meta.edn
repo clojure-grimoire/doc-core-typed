@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn singleton-dmap [dbound dcon]\n  (cr/->dmap {dbound dcon}))", :ns "clojure.core.typed.cs-gen", :name "singleton-dmap", :file "clojure/core/typed/cs_gen.clj", :column 1, :line 1125, :arglists ([dbound dcon])}

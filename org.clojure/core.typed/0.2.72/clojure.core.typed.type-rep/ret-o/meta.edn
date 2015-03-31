@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn ret-o [r]\n  {:pre [(TCResult? r)]\n   :post [(p/IRObject? %)]}\n  (:o r))", :ns "clojure.core.typed.type-rep", :name "ret-o", :file "clojure/core/typed/type_rep.clj", :column 1, :line 968, :arglists ([r])}

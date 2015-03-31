@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.core", :name "with-hk-m", :file "clojure/core/typed/test/core.clj", :type :macro, :src "(defmacro with-hk-m [& body]\n  `(with-bounded-frees {(make-F '~'m) (-bounds (top-tfn1) (bot-tfn1))}\n     ~@body))", :column 1, :line 3496, :macro true, :arglists ([& body])}

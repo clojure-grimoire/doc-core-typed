@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest subtype-Object\n  (is-clj (subtype? (RClass-of clojure.lang.IPersistentList [-any]) (RClass-of Object nil))))", :ns "clojure.core.typed.test.subtype", :name "subtype-Object", :file "clojure/core/typed/test/subtype.clj", :column 1, :line 44, :test #<subtype$fn__19448 clojure.core.typed.test.subtype$fn__19448@4476d08c>}

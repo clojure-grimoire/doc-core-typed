@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "fresh-expr?", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn fresh-expr? [cs]\n  (= (first cs) `fresh))", :column 1, :line 270, :arglists ([cs])}

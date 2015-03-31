@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord Point [lat lng])", :ns "clojure.core.typed.test.records2", :name "->Point", :file "clojure/core/typed/test/records2.clj", :column 1, :line 6, :arglists ([lat lng]), :doc "Positional factory function for class clojure.core.typed.test.records2.Point."}

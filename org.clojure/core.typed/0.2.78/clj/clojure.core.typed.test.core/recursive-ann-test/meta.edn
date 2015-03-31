@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest recursive-ann-test\n  (is (check-ns 'clojure.core.typed.test.recursive)))", :ns "clojure.core.typed.test.core", :name "recursive-ann-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2311, :test #<core$fn__29696 clojure.core.typed.test.core$fn__29696@24d2261c>}

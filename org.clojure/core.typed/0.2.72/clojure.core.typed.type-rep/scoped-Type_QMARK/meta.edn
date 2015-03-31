@@ -1,1 +1,0 @@
-{:type :fn, :src "(def scoped-Type? (some-fn Scope? Type?))", :ns "clojure.core.typed.type-rep", :name "scoped-Type?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 198}

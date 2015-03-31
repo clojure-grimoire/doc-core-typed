@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest letfn-test\n  (is-tc-e (t/letfn> [a :- (t/All [x] [x -> x])\n                      (a [b] b)]\n             (a 1))))", :ns "clojure.core.typed.test.cljs", :name "letfn-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 88, :test #<cljs$fn__17409 clojure.core.typed.test.cljs$fn__17409@7ade9f78>}

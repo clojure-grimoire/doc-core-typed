@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro dbg [f]\n  (let [m (meta &form)]\n    `(let [r# ~f]\n       (println \"DBG: \" ~(str *ns* \":\" (:line m) \":\" (:column m))\n                '~f r#)\n       r#)))", :macro true, :ns "clojure.core.typed.debug", :name "dbg", :file "clojure/core/typed/debug.clj", :column 1, :line 3, :arglists ([f])}

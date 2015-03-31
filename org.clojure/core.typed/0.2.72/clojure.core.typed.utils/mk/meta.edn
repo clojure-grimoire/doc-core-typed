@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro mk [name-sym fields invariants & {:keys [methods]}]\n  (when-not (resolve name-sym)\n    `(t/tc-ignore\n       ~(emit-deftype name-sym fields invariants methods))))", :macro true, :ns "clojure.core.typed.utils", :name "mk", :file "clojure/core/typed/utils.clj", :column 1, :line 262, :arglists ([name-sym fields invariants & {:keys [methods]}])}

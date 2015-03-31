@@ -1,1 +1,0 @@
-{:type :var, :src "(def int-error-kw ::internal-error)", :ns "clojure.core.typed.errors", :name "int-error-kw", :file "clojure/core/typed/errors.clj", :column 1, :line 10}

@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.type-rep", :name "ScopedType", :type :var, :src nil, :doc "\n\n(t/U Type Scope)\n"}

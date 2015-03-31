@@ -1,0 +1,1 @@
+{:type :fn, :src "(def method? (some-fn ast-u/fn-method? ast-u/deftype-method?))", :ns "clojure.core.typed.check.fn-methods", :name "method?", :file "clojure/core/typed/check/fn_methods.clj", :column 1, :line 23}

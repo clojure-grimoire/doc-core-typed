@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reflect-friendly-sym [cls]\n  (-> (reflect/typename cls)\n      (str/replace \"[]\" \"<>\")\n      symbol))", :ns "clojure.core.typed.reflect-utils", :name "reflect-friendly-sym", :file "clojure/core/typed/reflect_utils.clj", :column 1, :line 12, :arglists ([cls])}

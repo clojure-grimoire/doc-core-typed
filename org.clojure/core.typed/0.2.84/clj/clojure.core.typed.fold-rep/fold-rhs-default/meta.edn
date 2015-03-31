@@ -1,0 +1,1 @@
+{:type :var, :src "(def fold-rhs-default ::fold-rhs)", :ns "clojure.core.typed.fold-rep", :name "fold-rhs-default", :file "clojure/core/typed/fold_rep.clj", :column 1, :line 7}

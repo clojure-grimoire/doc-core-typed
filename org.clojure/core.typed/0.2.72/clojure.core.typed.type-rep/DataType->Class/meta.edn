@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn ^Class DataType->Class [^DataType dt]\n  (coerce/symbol->Class (.the-class dt)))", :ns "clojure.core.typed.type-rep", :name "DataType->Class", :file "clojure/core/typed/type_rep.clj", :column 1, :line 275, :tag java.lang.Class, :arglists ([dt])}

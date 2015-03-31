@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.defn-arrow", :name "parse-typesig", :file "clojure/core/typed/test/defn_arrow.clj", :type :var, :src "(def parse-typesig #'clojure.core.typed/defn>-parse-typesig)", :column 1, :line 5}

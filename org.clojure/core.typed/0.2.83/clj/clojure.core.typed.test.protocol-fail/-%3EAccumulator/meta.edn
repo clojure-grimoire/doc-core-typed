@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype Accumulator [t]\n  AddProtoc\n  (adder [_ i] (Accumulator. (+ t i))))", :ns "clojure.core.typed.test.protocol-fail", :name "->Accumulator", :file "clojure/core/typed/test/protocol_fail.clj", :column 1, :line 8, :arglists ([t]), :doc "Positional factory function for class clojure.core.typed.test.protocol_fail.Accumulator."}

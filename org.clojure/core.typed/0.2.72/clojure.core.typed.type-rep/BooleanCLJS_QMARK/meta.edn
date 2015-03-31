@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type BooleanCLJS []\n  \"Primitive boolean in CLJS\"\n  []\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "BooleanCLJS?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 1045, :arglists ([a__2329__auto__])}

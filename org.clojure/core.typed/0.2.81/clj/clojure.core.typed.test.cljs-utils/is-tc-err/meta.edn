@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.cljs-utils", :name "is-tc-err", :file "clojure/core/typed/test/cljs_utils.clj", :type :macro, :src "(defmacro is-tc-err [& body]\n  `(test/is (tc-err ~@body)))", :column 1, :line 87, :macro true, :arglists ([& body])}

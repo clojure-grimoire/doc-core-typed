@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn Bottom? [a]\n  (= empty-union a))", :ns "clojure.core.typed.type-rep", :name "Bottom?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 93, :arglists ([a])}

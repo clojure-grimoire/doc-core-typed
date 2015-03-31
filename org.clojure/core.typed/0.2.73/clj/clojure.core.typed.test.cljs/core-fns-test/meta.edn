@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest core-fns-test\n  (t/check-ns* 'cljs.core.typed.test.ympbyc.test-base-env))", :ns "clojure.core.typed.test.cljs", :name "core-fns-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 149, :test #<cljs$fn__17673 clojure.core.typed.test.cljs$fn__17673@3bfc1e40>}

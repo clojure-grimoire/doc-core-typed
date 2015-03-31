@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn var->symbol [^clojure.lang.Var var]\n  {:pre [(var? var)]\n   :post [((every-pred symbol? namespace) %)]}\n  (symbol (str (ns-name (.ns var)))\n          (str (.sym var))))", :ns "clojure.core.typed.current-impl", :name "var->symbol", :file "clojure/core/typed/current_impl.clj", :column 1, :line 151, :arglists ([var])}

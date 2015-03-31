@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-37-defprotocol-better-error\n  (is (check-ns 'clojure.core.typed.test.CTYP-37)))", :ns "clojure.core.typed.test.core", :name "CTYP-37-defprotocol-better-error", :file "clojure/core/typed/test/core.clj", :column 1, :line 2003, :test #<core$fn__28556 clojure.core.typed.test.core$fn__28556@23da3d5e>}

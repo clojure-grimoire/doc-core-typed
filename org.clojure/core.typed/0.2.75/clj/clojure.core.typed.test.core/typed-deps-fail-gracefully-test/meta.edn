@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest typed-deps-fail-gracefully-test\n  (is-tc-err (clojure.core.typed/typed-deps no.exist.fail)))", :ns "clojure.core.typed.test.core", :name "typed-deps-fail-gracefully-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1795, :test #<core$fn__28139 clojure.core.typed.test.core$fn__28139@7729350b>}

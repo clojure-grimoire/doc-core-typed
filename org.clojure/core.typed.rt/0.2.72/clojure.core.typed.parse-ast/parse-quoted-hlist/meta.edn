@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-quoted-hlist [syn]\n  (let [types (mapv parse syn)]\n    {:op :HList\n     :types types\n     :children [:types]}))", :ns "clojure.core.typed.parse-ast", :name "parse-quoted-hlist", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 231, :arglists ([syn])}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt-types", :name "badRight", :type :var, :src nil, :doc "Invariant possibly violated at the right child\n\n(U Empty (Black rbt rbt) (Red bt bt) (Black rbt badRoot))\n"}

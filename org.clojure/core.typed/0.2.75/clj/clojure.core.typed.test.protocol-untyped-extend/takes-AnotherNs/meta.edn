@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-untyped-extend", :name "takes-AnotherNs", :file "clojure/core/typed/test/protocol_untyped_extend.clj", :type :fn, :src "(defn takes-AnotherNs [a]\n  (baz a))", :column 1, :line 39, :arglists ([a])}

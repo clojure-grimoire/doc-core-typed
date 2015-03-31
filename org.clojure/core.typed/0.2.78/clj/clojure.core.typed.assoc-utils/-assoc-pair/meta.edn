@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.assoc-utils", :doc nil, :arglists ([left kv]), :name "-assoc-pair"}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest kw-args-fail-test\n  (is (caught-top-level-errors #{1}\n        (check-ns 'clojure.core.typed.test.kw-args-undeclared-fail))))", :ns "clojure.core.typed.test.core", :name "kw-args-fail-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1201, :test #<core$fn__25292 clojure.core.typed.test.core$fn__25292@393d64d2>}

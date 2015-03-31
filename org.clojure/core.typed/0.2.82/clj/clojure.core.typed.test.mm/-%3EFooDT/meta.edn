@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype FooDT [])", :ns "clojure.core.typed.test.mm", :name "->FooDT", :file "clojure/core/typed/test/mm.clj", :column 1, :line 36, :arglists ([]), :doc "Positional factory function for class clojure.core.typed.test.mm.FooDT."}

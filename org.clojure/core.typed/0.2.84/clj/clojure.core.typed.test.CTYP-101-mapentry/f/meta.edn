@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.CTYP-101-mapentry", :name "f", :file "clojure/core/typed/test/CTYP_101_mapentry.clj", :type :fn, :src "(defn f [m] (first m))", :column 1, :line 5, :arglists ([m])}

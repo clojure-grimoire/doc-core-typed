@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol\n  [[foo :variance :covariant]]\n  Foo\n  (bar- [this] :- foo))", :doc nil, :ns "clojure.core.typed.test.protocol-scoping", :name "Foo", :file "clojure/core/typed/test/protocol_scoping.clj", :column 1, :line 12}

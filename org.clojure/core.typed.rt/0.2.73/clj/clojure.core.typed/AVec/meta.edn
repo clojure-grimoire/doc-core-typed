@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "AVec", :type :var, :src nil, :doc "A persistent vector returned from clojure.core/vector (and others)\n\n(TFn\n [[x :variance :covariant]]\n (I\n  (clojure.lang.IPersistentVector x)\n  (java.lang.Iterable x)\n  (java.util.Collection x)\n  (java.util.List x)\n  clojure.lang.IObj))\n", :forms [(AVec t)]}

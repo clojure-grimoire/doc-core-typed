@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Promise", :type :var, :src nil, :doc "A Clojure promise (see clojure.core/{promise,deliver}).\n\n(TFn\n [[x :variance :invariant]]\n (Rec\n  [p]\n  (I\n   (Extends\n    [(clojure.lang.IDeref x)\n     (clojure.lang.IBlockingDeref x)\n     clojure.lang.IPending])\n   [x -> (U nil p)])))\n", :forms [(Promise t)]}

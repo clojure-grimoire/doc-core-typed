@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Multi", :type :var, :src nil, :doc "A Clojure multimethod.\n\nclojure.lang.MultiFn\n", :forms [Multi]}

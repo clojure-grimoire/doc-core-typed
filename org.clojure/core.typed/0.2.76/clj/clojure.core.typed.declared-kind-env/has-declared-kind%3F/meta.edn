@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn has-declared-kind? [sym]\n  (assert-declared-kinds)\n  (boolean (declared-kind-or-nil sym)))", :ns "clojure.core.typed.declared-kind-env", :name "has-declared-kind?", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :line 41, :arglists ([sym])}

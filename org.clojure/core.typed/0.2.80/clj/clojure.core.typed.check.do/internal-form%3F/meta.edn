@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn internal-form? [expr]\n  (u/internal-form? expr spec/special-form))", :ns "clojure.core.typed.check.do", :name "internal-form?", :file "clojure/core/typed/check/do.clj", :column 1, :line 13, :arglists ([expr])}

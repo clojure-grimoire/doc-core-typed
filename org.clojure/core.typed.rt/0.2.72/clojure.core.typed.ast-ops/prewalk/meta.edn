@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.ast-ops", :name "prewalk", :file "clojure/core/typed/ast_ops.clj", :type :fn, :src "(defn prewalk\n  \"Shorthand for (walk ast f identity)\"\n  [ast f]\n  (walk ast f identity))", :column 1, :line 58, :arglists ([ast f]), :doc "Shorthand for (walk ast f identity)"}

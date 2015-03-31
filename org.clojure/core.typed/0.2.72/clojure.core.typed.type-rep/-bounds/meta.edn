@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -bounds [u l]\n  (Bounds-maker u l nil))", :ns "clojure.core.typed.type-rep", :name "-bounds", :file "clojure/core/typed/type_rep.clj", :column 1, :line 903, :arglists ([u l])}

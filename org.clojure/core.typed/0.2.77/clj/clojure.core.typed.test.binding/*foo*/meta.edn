@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.binding", :name "*foo*", :file "clojure/core/typed/test/binding.clj", :type :var, :src "(t/def ^:dynamic *foo* :- Boolean, true)", :column 1, :dynamic true, :line 4}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn check-expr [expr & [expected]]\n  (when vs/*trace-checker*\n    (println \"Checking line:\" (-> expr :env :line))\n    (flush))\n  (u/p :check/check-expr\n    (check expr expected)))", :ns "clojure.core.typed.check", :name "check-expr", :file "clojure/core/typed/check.clj", :column 1, :line 142, :arglists ([expr & [expected]])}

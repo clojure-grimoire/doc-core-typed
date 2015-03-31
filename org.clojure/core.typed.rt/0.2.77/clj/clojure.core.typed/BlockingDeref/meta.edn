@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "BlockingDeref", :type :var, :src nil, :doc "A Clojure blocking derefable (see clojure.core/deref).\n\n(TFn [[x :variance :covariant]] (clojure.lang.IBlockingDeref x))\n", :forms [(BlockingDeref t)]}

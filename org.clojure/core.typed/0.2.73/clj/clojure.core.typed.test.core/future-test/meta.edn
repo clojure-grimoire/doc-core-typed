@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest future-test\n  (is-cf @(future 'a) clojure.lang.Symbol)\n  (is-cf (future 'a) java.util.concurrent.Future))", :ns "clojure.core.typed.test.core", :name "future-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1782, :test #<core$fn__28143 clojure.core.typed.test.core$fn__28143@6991071c>}

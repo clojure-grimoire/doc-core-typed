@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.util-aliases", :name "HMapAlias1", :type :var, :src nil, :doc "\n\n'{:a t/Num}\n"}

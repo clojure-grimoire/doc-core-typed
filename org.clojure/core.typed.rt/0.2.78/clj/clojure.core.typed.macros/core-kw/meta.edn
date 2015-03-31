@@ -1,0 +1,1 @@
+{:type :fn, :src "(core/defn core-kw [kw]\n  (keyword \"clojure.core.typed\"\n           (name kw)))", :ns "clojure.core.typed.macros", :name "core-kw", :file "clojure/core/typed/macros.clj", :column 1, :line 10, :arglists ([kw])}

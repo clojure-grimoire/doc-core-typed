@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt", :name "rbt", :type :var, :src nil, :doc "Trees with only black children for red nodes\n\n(Rec\n [rbt]\n (U\n  Empty\n  (Black rbt rbt)\n  (Red (U Empty (Black rbt rbt)) (U Empty (Black rbt rbt)))))\n"}

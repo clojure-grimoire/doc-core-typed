@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro with-dotted-mappings [dvar-map & body]\n  `(binding [*dotted-scope* (merge *dotted-scope* ~dvar-map)]\n     ~@body))", :macro true, :ns "clojure.core.typed.dvar-env", :name "with-dotted-mappings", :file "clojure/core/typed/dvar_env.clj", :column 1, :line 25, :arglists ([dvar-map & body])}

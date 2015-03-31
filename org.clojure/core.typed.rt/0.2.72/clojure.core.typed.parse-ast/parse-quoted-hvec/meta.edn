@@ -1,1 +1,0 @@
-{:type :fn, :src "(def parse-quoted-hvec (fn [syn]\n                         ((parse-h* :HVec \"Invalid heterogeneous vector syntax:\") [nil syn])))", :ns "clojure.core.typed.parse-ast", :name "parse-quoted-hvec", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 222}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest subtype-poly\n  (is-clj (sub?-q `(t/All [x#] (clojure.lang.ASeq x#))\n                  `(t/All [y#] (clojure.lang.Seqable y#)))))", :ns "clojure.core.typed.test.subtype", :name "subtype-poly", :file "clojure/core/typed/test/subtype.clj", :column 1, :line 61, :test #<subtype$fn__19456 clojure.core.typed.test.subtype$fn__19456@742cc9a0>}

@@ -1,0 +1,1 @@
+{:type :var, :src "(defprotocol AssocableType\n  (-assoc-pair [left kv]))", :doc nil, :ns "clojure.core.typed.assoc-utils", :name "AssocableType", :file "clojure/core/typed/assoc_utils.clj", :column 1, :line 23}

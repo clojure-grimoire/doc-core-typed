@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol PMaths\n  (mult-by-two [this] :- PMaths))", :doc nil, :ns "clojure.core.typed.test.succeed.CTYP-42-record-extend-protocol", :name "PMaths", :file "clojure/core/typed/test/succeed/CTYP_42_record_extend_protocol.clj", :column 1, :line 5}

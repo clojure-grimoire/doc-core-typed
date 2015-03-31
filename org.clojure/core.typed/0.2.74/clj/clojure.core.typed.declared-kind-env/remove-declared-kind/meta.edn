@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn remove-declared-kind [sym]\n  (assert-declared-kinds)\n  (swap! *current-declared-kinds* dissoc sym)\n  nil)", :ns "clojure.core.typed.declared-kind-env", :name "remove-declared-kind", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :line 45, :arglists ([sym])}

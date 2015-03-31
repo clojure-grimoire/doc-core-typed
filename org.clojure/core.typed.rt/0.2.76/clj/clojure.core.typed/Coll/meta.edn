@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Coll", :type :var, :src nil, :doc "A persistent collection with member type x.\n\n(TFn [[x :variance :covariant]] (clojure.lang.IPersistentCollection x))\n", :forms [(Coll t)]}

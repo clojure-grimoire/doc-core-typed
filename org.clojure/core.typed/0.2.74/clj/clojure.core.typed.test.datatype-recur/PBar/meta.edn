@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol PBar\n  (rec [this bar :- t/Num] :- t/Num))", :doc nil, :ns "clojure.core.typed.test.datatype-recur", :name "PBar", :file "clojure/core/typed/test/datatype_recur.clj", :column 1, :line 4}

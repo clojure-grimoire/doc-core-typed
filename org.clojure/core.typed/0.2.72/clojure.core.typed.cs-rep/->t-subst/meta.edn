@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/defrecord t-subst [type bnds]\n  \"\"\n  [(r/Type? type)\n   (r/Bounds? bnds)])", :ns "clojure.core.typed.cs-rep", :name "->t-subst", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 15, :arglists ([type bnds]), :doc ""}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest non-empty-map-test\n  (is-tc-e (map inc [1 2 3])\n           (NonEmptySeq Num)))", :ns "clojure.core.typed.test.core", :name "non-empty-map-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1842, :test #<core$fn__28213 clojure.core.typed.test.core$fn__28213@565231f2>}

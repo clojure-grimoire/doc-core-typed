@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.bug1", :name "*frees-mode*", :file "clojure/core/typed/test/bug1.clj", :type :var, :src "(def ^:dynamic *frees-mode* nil)", :column 1, :dynamic true, :line 8}

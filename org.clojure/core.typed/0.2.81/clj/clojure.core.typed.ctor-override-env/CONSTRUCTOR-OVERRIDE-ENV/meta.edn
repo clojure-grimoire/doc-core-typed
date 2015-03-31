@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CONSTRUCTOR-OVERRIDE-ENV \n  (atom {}\n        :validator (con/hash-c? symbol? r/Type?)))", :ns "clojure.core.typed.ctor-override-env", :name "CONSTRUCTOR-OVERRIDE-ENV", :file "clojure/core/typed/ctor_override_env.clj", :column 1, :line 8}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn equivable? [t]\n  {:pre [(r/Type? t)]\n   :post [(con/boolean? %)]}\n  (boolean\n    (when (r/Value? t)\n      ((some-fn number? symbol? keyword? nil? true? false? class?) (:val t)))))", :ns "clojure.core.typed.tc-equiv", :name "equivable?", :file "clojure/core/typed/tc_equiv.clj", :column 1, :line 10, :arglists ([t])}

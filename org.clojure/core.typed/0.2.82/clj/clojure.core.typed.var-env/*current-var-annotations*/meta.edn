@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:dynamic *current-var-annotations* nil)", :ns "clojure.core.typed.var-env", :name "*current-var-annotations*", :file "clojure/core/typed/var_env.clj", :column 1, :dynamic true, :line 11}

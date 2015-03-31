@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn Mu-body-unsafe [mu]\n  {:pre [(Mu? mu)]\n   :post [(Type? %)]}\n  (-> mu :scope :body))", :ns "clojure.core.typed.type-rep", :name "Mu-body-unsafe", :file "clojure/core/typed/type_rep.clj", :column 1, :line 385, :arglists ([mu])}

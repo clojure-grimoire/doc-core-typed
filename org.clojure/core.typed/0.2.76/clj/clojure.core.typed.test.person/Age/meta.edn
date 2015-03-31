@@ -1,0 +1,1 @@
+{:type :var, :src "(t/defprotocol Age\n  (age [this] :- Int))", :doc nil, :ns "clojure.core.typed.test.person", :name "Age", :file "clojure/core/typed/test/person.clj", :column 1, :line 7}

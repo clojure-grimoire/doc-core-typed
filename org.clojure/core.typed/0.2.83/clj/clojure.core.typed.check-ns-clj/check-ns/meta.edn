@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn check-ns\n  [ns-or-syms & opt]\n  (apply chk-ns/check-ns impl/clojure ns-or-syms opt))", :ns "clojure.core.typed.check-ns-clj", :name "check-ns", :file "clojure/core/typed/check_ns_clj.clj", :column 1, :line 21, :arglists ([ns-or-syms & opt])}

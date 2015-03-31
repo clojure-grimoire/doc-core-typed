@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-cljs-ann-map\n  [ann-map]\n  (into {}\n        (map (fn [[sym ann]]\n               [(symbol \"cljs.core\" (name sym))\n                (prs/parse-type ann)])\n             ann-map)))", :ns "clojure.core.typed.base-env-common", :name "parse-cljs-ann-map", :file "clojure/core/typed/base_env_common.clj", :column 1, :line 31, :arglists ([ann-map])}

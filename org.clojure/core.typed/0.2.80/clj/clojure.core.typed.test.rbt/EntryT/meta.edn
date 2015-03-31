@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt", :name "EntryT", :file "clojure/core/typed/test/rbt.clj", :type :var, :src "(defalias EntryT \n  \"The payload\"\n  '{:key Number\n    :datum Number})", :column 1, :line 12, :declared true, :doc "The payload"}

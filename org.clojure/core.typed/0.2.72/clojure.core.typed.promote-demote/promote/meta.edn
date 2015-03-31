@@ -1,1 +1,0 @@
-{:type :var, :src "(defmulti promote \n  \"Eliminate all variables V in t by promotion\"\n  (fn [T V] \n    {:pre [(r/AnyType? T)\n           (set? V)\n           (every? symbol? V)]}\n    (class T)))", :ns "clojure.core.typed.promote-demote", :name "promote", :file "clojure/core/typed/promote_demote.clj", :column 1, :line 59, :doc "Eliminate all variables V in t by promotion"}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -kw-args [& {:keys [mandatory optional]\n                   :or {mandatory {} optional {}}}]\n  {:post [(KwArgs? %)]}\n  (KwArgs-maker mandatory optional))", :ns "clojure.core.typed.type-rep", :name "-kw-args", :file "clojure/core/typed/type_rep.clj", :column 1, :line 697, :arglists ([& {:keys [mandatory optional], :or {mandatory {}, optional {}}}])}

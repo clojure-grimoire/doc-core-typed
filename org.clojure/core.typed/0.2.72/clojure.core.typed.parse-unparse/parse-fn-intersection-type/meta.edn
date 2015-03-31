@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn parse-fn-intersection-type [[Fn & types]]\n  (apply r/make-FnIntersection (mapv parse-function types)))", :ns "clojure.core.typed.parse-unparse", :name "parse-fn-intersection-type", :file "clojure/core/typed/parse_unparse.clj", :column 1, :line 438, :arglists ([[Fn & types]])}

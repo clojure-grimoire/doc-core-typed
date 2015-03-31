@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.pred-hmap", :name "Pig", :type :var, :src nil, :doc "\n\n'{:type ':pig}\n"}

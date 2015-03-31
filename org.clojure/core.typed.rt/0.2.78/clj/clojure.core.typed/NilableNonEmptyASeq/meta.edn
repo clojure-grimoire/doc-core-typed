@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "NilableNonEmptyASeq", :type :var, :src nil, :doc "The result of clojure.core/seq.\n\n(TFn\n [[x :variance :covariant]]\n (U\n  nil\n  (I\n   (clojure.lang.ISeq x)\n   clojure.lang.Sequential\n   (Iterable x)\n   (java.util.Collection x)\n   (java.util.List x)\n   clojure.lang.IObj\n   (CountRange 1))))\n", :forms [(NilableNonEmptyASeq t)]}

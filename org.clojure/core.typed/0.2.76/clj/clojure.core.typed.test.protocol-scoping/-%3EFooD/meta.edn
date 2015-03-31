@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype FooD [t]\n  Foo\n  (bar- [this] t))", :ns "clojure.core.typed.test.protocol-scoping", :name "->FooD", :file "clojure/core/typed/test/protocol_scoping.clj", :column 1, :line 21, :arglists ([t]), :doc "Positional factory function for class clojure.core.typed.test.protocol_scoping.FooD."}

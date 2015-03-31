@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro insert-aliases []\n  `(delay-and-cache-env ~'init-alias-env\n    (base-rclass/reset-rclass-env!)\n    (h/alias-mappings\n      ~@impl/init-aliases)))", :macro true, :ns "clojure.core.typed.base-env", :name "insert-aliases", :file "clojure/core/typed/base_env.clj", :column 1, :line 48, :arglists ([])}

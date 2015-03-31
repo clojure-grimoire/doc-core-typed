@@ -1,1 +1,0 @@
-{:type :var, :src "(def empty-union (Un))", :ns "clojure.core.typed.type-rep", :name "empty-union", :file "clojure/core/typed/type_rep.clj", :column 1, :line 83}

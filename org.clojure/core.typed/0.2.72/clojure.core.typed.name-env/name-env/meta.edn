@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn name-env []\n  @(current-name-env))", :ns "clojure.core.typed.name-env", :name "name-env", :file "clojure/core/typed/name_env.clj", :column 1, :line 68, :arglists ([])}

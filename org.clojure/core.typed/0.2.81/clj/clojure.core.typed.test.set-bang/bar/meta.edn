@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.set-bang", :name "bar", :file "clojure/core/typed/test/set_bang.clj", :type :fn, :src "(defn bar []\n  (set! foo :bar))", :column 1, :line 9, :arglists ([])}

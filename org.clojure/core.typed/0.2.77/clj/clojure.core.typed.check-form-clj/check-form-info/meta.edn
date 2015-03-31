@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn check-form-info\n  [form & opt]\n  (apply chk-form/check-form-info (config-map)\n         form opt))", :ns "clojure.core.typed.check-form-clj", :name "check-form-info", :file "clojure/core/typed/check_form_clj.clj", :column 1, :line 15, :arglists ([form & opt])}

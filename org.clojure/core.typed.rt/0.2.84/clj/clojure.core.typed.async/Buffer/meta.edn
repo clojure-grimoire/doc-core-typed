@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Buffer", :file "clojure/core/typed/async.clj", :type :var, :src "(defalias \n  ^{:forms '[(Buffer t)]}\n  Buffer\n  \"A buffer of type x.\"\n  (TFn [[x :variance :invariant]]\n    (Buffer2 x x)))", :column 1, :line 141, :declared true, :doc "A buffer of type x.", :forms [(Buffer t)]}

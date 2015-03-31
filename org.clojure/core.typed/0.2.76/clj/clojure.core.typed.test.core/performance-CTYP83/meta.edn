@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest performance-CTYP83\n  (is (check-ns 'clojure.core.typed.test.CTYP-83-performance)))", :ns "clojure.core.typed.test.core", :name "performance-CTYP83", :file "clojure/core/typed/test/core.clj", :column 1, :line 3290, :test #<core$fn__32575 clojure.core.typed.test.core$fn__32575@53bb9995>}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-object ValsPE []\n  \"Calling clojure.core/vals\"\n  [])", :ns "clojure.core.typed.path-rep", :name "ValsPE-maker", :file "clojure/core/typed/path_rep.clj", :column 1, :line 60, :arglists ([& {meta__2330__auto__ :meta, :as opt__2331__auto__}])}

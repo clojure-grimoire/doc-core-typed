@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.CTYP-118-cast", :name "foo", :file "clojure/core/typed/test/CTYP_118_cast.clj", :type :var, :src "(def foo String)", :column 1, :line 14}

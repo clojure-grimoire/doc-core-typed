@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest cljs-core-fns-refined-test\n    (run-core-tests))", :ns "clojure.core.typed.test.cljs-core", :name "cljs-core-fns-refined-test", :file "clojure/core/typed/test/cljs_core.clj", :column 1, :line 278, :test #<cljs_core$fn__15089 clojure.core.typed.test.cljs_core$fn__15089@3482ea18>}

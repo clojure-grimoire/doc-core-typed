@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-type NotType [type]\n  \"A type that does not include type\"\n  [(Type? type)]\n  :methods\n  [p/TCType])", :ns "clojure.core.typed.type-rep", :name "NotType?", :file "clojure/core/typed/type_rep.clj", :column 1, :line 805, :arglists ([a__2329__auto__])}

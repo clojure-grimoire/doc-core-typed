@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn collect-ns-setup [nsym]\n  {:pre [(symbol? nsym)]}\n  (binding [vs/*already-collected* (atom #{})]\n    (collect-ns nsym)))", :ns "clojure.core.typed.collect-phase", :name "collect-ns-setup", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 76, :arglists ([nsym])}

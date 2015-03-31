@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "log", :file "clojure/core/typed/test/logic/macros.clj", :type :macro, :src "(defmacro log [& s]\n  \"Goal for println\"\n  `(fn [a#]\n     (println ~@s)\n     a#))", :column 1, :line 115, :macro true, :arglists ([& s])}

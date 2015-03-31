@@ -1,1 +1,0 @@
-{:type :fn, :src "(defrecord OptionalKey [k])", :ns "clojure.core.typed.contract-utils", :name "->OptionalKey", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 39, :arglists ([k]), :doc "Positional factory function for class clojure.core.typed.contract_utils.OptionalKey."}

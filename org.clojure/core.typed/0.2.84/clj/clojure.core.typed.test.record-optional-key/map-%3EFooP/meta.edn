@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord FooP [a])", :ns "clojure.core.typed.test.record-optional-key", :name "map->FooP", :file "clojure/core/typed/test/record_optional_key.clj", :column 1, :line 10, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.record_optional_key.FooP, taking a map of keywords to field values."}

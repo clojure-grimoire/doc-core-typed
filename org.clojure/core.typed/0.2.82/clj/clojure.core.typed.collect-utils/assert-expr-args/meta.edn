@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn assert-expr-args [{:keys [args] :as expr} cnts]\n  {:pre [(set? cnts)]}\n  (assert (cnts (count args)))\n  (assert (every? #{:quote} (map :op args))\n          (mapv :op args)))", :ns "clojure.core.typed.collect-utils", :name "assert-expr-args", :file "clojure/core/typed/collect_utils.clj", :column 1, :line 85, :arglists ([{:keys [args], :as expr} cnts])}

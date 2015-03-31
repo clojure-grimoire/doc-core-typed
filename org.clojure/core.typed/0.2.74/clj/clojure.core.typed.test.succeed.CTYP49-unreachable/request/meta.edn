@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.succeed.CTYP49-unreachable", :name "request", :file "clojure/core/typed/test/succeed/CTYP49_unreachable.clj", :type :var, :src "(declare request)", :column 1, :line 7, :declared true}

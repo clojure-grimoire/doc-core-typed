@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.array", :name "sum", :file "clojure/core/typed/test/array.clj", :type :fn, :src "(defn sum [arr]\n  (t/loop [idx :- long 0,\n           ret :- Number 0]\n    (if (< idx (alength arr))\n      (recur \n        (unchecked-inc idx) \n        (+ (aget arr idx) ret))\n      ret)))", :column 1, :line 13, :arglists ([arr])}

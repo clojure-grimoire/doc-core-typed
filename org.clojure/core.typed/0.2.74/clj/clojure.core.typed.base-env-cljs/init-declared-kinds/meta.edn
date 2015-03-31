@@ -1,0 +1,1 @@
+{:type :fn, :src "(delay-and-cache-env init-declared-kinds {})", :ns "clojure.core.typed.base-env-cljs", :name "init-declared-kinds", :file "clojure/core/typed/base_env_cljs.clj", :column 1, :line 478, :arglists ([])}

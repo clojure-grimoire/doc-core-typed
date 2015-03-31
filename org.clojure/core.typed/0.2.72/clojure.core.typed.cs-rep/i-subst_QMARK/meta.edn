@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/defrecord i-subst [types]\n  \"\"\n  [(every? r/Type? types)])", :ns "clojure.core.typed.cs-rep", :name "i-subst?", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 21, :arglists ([r__382__auto__])}

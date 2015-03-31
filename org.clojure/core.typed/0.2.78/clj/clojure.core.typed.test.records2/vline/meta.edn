@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.records2", :name "vline", :file "clojure/core/typed/test/records2.clj", :type :fn, :src "(defn vline [lat lng l]\n  (VerticalLine. (Point. lat lng) l))", :column 1, :line 30, :arglists ([lat lng l])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn bound-index? [n]\n  (contains? *dotted-scope* n))", :ns "clojure.core.typed.dvar-env", :name "bound-index?", :file "clojure/core/typed/dvar_env.clj", :column 1, :line 17, :arglists ([n])}

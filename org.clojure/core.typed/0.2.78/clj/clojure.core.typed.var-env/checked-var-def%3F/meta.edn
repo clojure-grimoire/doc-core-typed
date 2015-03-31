@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn checked-var-def? [sym]\n  (contains? @(current-checked-var-defs) sym))", :ns "clojure.core.typed.var-env", :name "checked-var-def?", :file "clojure/core/typed/var_env.clj", :column 1, :line 75, :arglists ([sym])}

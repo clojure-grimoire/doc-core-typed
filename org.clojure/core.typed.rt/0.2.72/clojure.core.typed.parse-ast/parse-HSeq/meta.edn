@@ -1,1 +1,0 @@
-{:type :fn, :src "(def parse-HSeq (parse-h* :HSeq \"Invalid HSeq syntax:\"))", :ns "clojure.core.typed.parse-ast", :name "parse-HSeq", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 220}

@@ -1,0 +1,1 @@
+{:type :macro, :src "(defmacro ret-first-many [& cls]\n  `(do ~@(map #(list `add-default-fold-case % `ret-first) cls)))", :macro true, :ns "clojure.core.typed.fold-default", :name "ret-first-many", :file "clojure/core/typed/fold_default.clj", :column 1, :line 265, :arglists ([& cls])}

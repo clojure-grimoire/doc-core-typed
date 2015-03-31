@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.fail.reflection", :name "write-lines", :file "clojure/core/typed/test/fail/reflection.clj", :type :fn, :src "(defn write-lines [writer lines]\n  (t/doseq [l :- String lines]\n    (.write writer \"testing\")\n    (println l)))", :column 1, :line 14, :arglists ([writer lines])}

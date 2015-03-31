@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest hmap-optional-update-test\n  (is-tc-e\n    (fn [m :- (HMap :optional {:a (U nil Number)})]\n      (if (:a m) (inc (:a m)) 0))))", :ns "clojure.core.typed.test.core", :name "hmap-optional-update-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 4694, :test #<core$fn__37846 clojure.core.typed.test.core$fn__37846@53f8e9a3>}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.protocol-monads", :name "plus", :file "clojure/core/typed/test/protocol_monads.clj", :type :fn, :src "(defn plus [[mv & mvs]]\n  (plus-step mv mvs))", :column 1, :line 22, :arglists ([[mv & mvs]])}

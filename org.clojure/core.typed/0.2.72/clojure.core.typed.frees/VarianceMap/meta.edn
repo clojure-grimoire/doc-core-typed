@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.frees", :name "VarianceMap", :type :var, :src nil, :doc "A map of free names (symbols) to their variances\n\n(t/Map t/Sym r/Variance)\n"}

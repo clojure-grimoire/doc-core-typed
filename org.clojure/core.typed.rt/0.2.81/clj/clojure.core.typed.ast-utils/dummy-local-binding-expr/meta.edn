@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn dummy-local-binding-expr [sym env]\n  {:op :local\n   :env env\n   :name sym})", :ns "clojure.core.typed.ast-utils", :name "dummy-local-binding-expr", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 76, :arglists ([sym env])}

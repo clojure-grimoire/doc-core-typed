@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "lcons-p?", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn lcons-p? [p]\n  (and (coll? p)\n       (not (nil? (some '#{.} p)))))", :column 1, :line 231, :arglists ([p])}

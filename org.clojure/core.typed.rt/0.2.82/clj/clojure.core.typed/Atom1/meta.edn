@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Atom1", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "An atom that can read and write type x.", :forms [(Atom1 t)]}

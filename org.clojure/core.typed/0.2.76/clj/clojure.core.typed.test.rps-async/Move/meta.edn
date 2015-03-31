@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rps-async", :name "Move", :type :var, :src nil, :doc "A legal move in rock-paper-scissors\n\n(t/U ':rock ':paper ':scissors)\n"}

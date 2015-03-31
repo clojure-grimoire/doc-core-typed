@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest ann-test\n  (is-tc-e (t/ann foo number)))", :ns "clojure.core.typed.test.cljs", :name "ann-test", :file "clojure/core/typed/test/cljs.clj", :column 1, :line 48, :test #<cljs$fn__17181 clojure.core.typed.test.cljs$fn__17181@9e9c78e>}

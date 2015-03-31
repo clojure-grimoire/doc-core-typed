@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Chan2", :type :var, :src nil, :doc "A core.async channel that can take type w and put type r\n\n(TFn\n [[w :variance :contravariant] [r :variance :covariant]]\n (I (Port2 w r) impl/Channel))\n", :forms (quote [(Chan2 t t)])}

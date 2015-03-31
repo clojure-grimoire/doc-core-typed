@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn hvec->rets [v]\n{:pre [(r/HeterogeneousVector? v)]\n :post [(every? r/TCResult? %)]}\n(map r/ret\n       (:types v)\n       (:fs v)\n       (:objects v)))", :ns "clojure.core.typed.check.utils", :name "hvec->rets", :file "clojure/core/typed/check/utils.clj", :column 1, :line 105, :arglists ([v])}

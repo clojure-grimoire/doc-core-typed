@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.ctyp97-tvar-scoping", :name "reduce_", :file "clojure/core/typed/test/ctyp97_tvar_scoping.clj", :type :fn, :src "(defn reduce_\n  [f zero coll]\n  (if-let [s (seq coll)]\n    (f (first s)\n       (reduce_ f zero (rest s)))\n    zero))", :column 1, :line 11, :arglists ([f zero coll])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn derive-default [& kws]\n  (doseq [kw kws]\n    (derive kw fold-rhs-default)))", :ns "clojure.core.typed.fold-rep", :name "derive-default", :file "clojure/core/typed/fold_rep.clj", :column 1, :line 9, :arglists ([& kws])}

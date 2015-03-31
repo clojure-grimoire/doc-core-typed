@@ -1,0 +1,1 @@
+{:clojure.core.typed/special-type true, :ns "clojure.core.typed", :name "All", :file "clojure/core/typed.clj", :type :var, :src "(def ^{:doc \"A polymorphic binder\"\n       :forms '[(All binder type)]\n       ::special-type true}\n  All)", :column 1, :line 1467, :doc "A polymorphic binder", :forms [(All binder type)]}

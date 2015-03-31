@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftype FooDT [normal other-keys?])", :ns "clojure.core.typed.test.munge-record-field", :name "->FooDT", :file "clojure/core/typed/test/munge_record_field.clj", :column 1, :line 6, :arglists ([normal other-keys?]), :doc "Positional factory function for class clojure.core.typed.test.munge_record_field.FooDT."}

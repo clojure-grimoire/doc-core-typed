@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn parse-poly [bnds]\n  {:pre [((some-fn nil? vector?) bnds)]}\n  (prs/parse-unknown-binder bnds))", :ns "clojure.core.typed.check.special.fn", :name "parse-poly", :file "clojure/core/typed/check/special/fn.clj", :column 1, :line 125, :arglists ([bnds])}

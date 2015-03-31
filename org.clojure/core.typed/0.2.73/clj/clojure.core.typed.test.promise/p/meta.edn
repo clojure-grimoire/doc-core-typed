@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.promise", :name "p", :file "clojure/core/typed/test/promise.clj", :type :var, :src "(def p (promise))", :column 1, :line 5}

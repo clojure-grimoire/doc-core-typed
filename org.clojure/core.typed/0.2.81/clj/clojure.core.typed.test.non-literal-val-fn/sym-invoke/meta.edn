@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.non-literal-val-fn", :name "sym-invoke", :file "clojure/core/typed/test/non_literal_val_fn.clj", :type :fn, :src "(defn sym-invoke [k]\n  (k {:a 1 :b 2}))", :column 1, :line 9, :arglists ([k])}

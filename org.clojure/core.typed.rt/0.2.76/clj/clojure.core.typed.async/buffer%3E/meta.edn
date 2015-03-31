@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "buffer>", :file "clojure/core/typed/async.clj", :type :macro, :src "(defmacro buffer>\n  \"DEPRECATED: use buffer\"\n  [t & args]\n  (prn \"DEPRECATED: buffer>, use buffer\")\n  `((inst async/buffer ~t) ~@args))", :column 1, :line 434, :macro true, :arglists ([t & args]), :doc "DEPRECATED: use buffer"}

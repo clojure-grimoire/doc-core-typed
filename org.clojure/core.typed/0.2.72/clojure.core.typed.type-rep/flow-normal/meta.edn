@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn flow-normal [f]\n  {:pre [(FlowSet? f)]\n   :post [(p/IFilter? %)]}\n  (:normal f))", :ns "clojure.core.typed.type-rep", :name "flow-normal", :file "clojure/core/typed/type_rep.clj", :column 1, :line 980, :arglists ([f])}

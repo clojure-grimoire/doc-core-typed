@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest isa-test\n  (is-cf (isa? 1 1))\n  (is-cf (isa? {:parents {} :ancestors {} :descendants {}} 1 1))\n  (is-cf #(isa? (class %) Number)))", :ns "clojure.core.typed.test.core", :name "isa-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1034, :test #<core$fn__24787 clojure.core.typed.test.core$fn__24787@3952fa33>}

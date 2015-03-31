@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn -simple-filter [] (-FS fr/-top fr/-top))", :ns "clojure.core.typed.filter-ops", :name "-simple-filter", :file "clojure/core/typed/filter_ops.clj", :column 1, :line 427, :arglists ([])}

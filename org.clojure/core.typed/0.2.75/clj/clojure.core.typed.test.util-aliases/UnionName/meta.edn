@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.util-aliases", :name "UnionName", :type :var, :src nil, :doc "\n\n(t/U MapStruct1 MapStruct2)\n"}

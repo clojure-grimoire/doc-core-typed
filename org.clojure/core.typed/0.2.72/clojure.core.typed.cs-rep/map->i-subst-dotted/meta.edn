@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/defrecord i-subst-dotted [types dty dbound]\n  \"\"\n  [(or (nil? types)\n       (every? r/Type? types))\n   (r/Type? dty)\n   (r/F? dbound)])", :ns "clojure.core.typed.cs-rep", :name "map->i-subst-dotted", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 35, :arglists ([{:as m__383__auto__, :keys [types dty dbound]}]), :doc ""}

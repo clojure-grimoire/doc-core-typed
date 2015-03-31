@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "Port", :file "clojure/core/typed/async.clj", :type :var, :src "(defalias \n  ^{:forms '[(Port t)]}\n  Port\n  \"A port that can read and write type x\"\n  (TFn [[x :variance :invariant]]\n    (Port2 x x)))", :column 1, :line 82, :declared true, :doc "A port that can read and write type x", :forms [(Port t)]}

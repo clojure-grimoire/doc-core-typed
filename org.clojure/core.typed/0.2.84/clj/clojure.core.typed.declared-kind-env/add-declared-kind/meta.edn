@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn add-declared-kind [sym tfn]\n  {:pre [(symbol? sym)\n         (r/TypeFn? tfn)]}\n  (assert-declared-kinds)\n  (swap! *current-declared-kinds* assoc sym tfn)\n  nil)", :ns "clojure.core.typed.declared-kind-env", :name "add-declared-kind", :file "clojure/core/typed/declared_kind_env.clj", :column 1, :line 24, :arglists ([sym tfn])}

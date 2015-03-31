@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce CLJ-VAR-ANNOTATIONS (atom {} :validator (con/hash-c? (every-pred symbol? namespace) (some-fn delay? r/Type?))))", :ns "clojure.core.typed.var-env", :name "CLJ-VAR-ANNOTATIONS", :file "clojure/core/typed/var_env.clj", :column 1, :line 16}

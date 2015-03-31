@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.union", :name "test1", :file "clojure/core/typed/test/union.clj", :type :fn, :src "(defn test1 [a]\n  (:op a))", :column 1, :line 479, :arglists ([a])}

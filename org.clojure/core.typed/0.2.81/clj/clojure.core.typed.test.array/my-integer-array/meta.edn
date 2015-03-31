@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.array", :name "my-integer-array", :file "clojure/core/typed/test/array.clj", :type :fn, :src "(defn my-integer-array [] (into-array> Integer (map int [1 2])))", :column 1, :line 7, :arglists ([])}

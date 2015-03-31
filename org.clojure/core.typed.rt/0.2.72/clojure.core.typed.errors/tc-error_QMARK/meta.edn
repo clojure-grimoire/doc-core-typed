@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn tc-error? [exdata]\n  (assert (not (instance? clojure.lang.ExceptionInfo exdata)))\n  (isa? (:type-error exdata) tc-error-parent))", :ns "clojure.core.typed.errors", :name "tc-error?", :file "clojure/core/typed/errors.clj", :column 1, :line 77, :arglists ([exdata])}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn pprint-str\n  [x]\n  (with-out-str (pprint/pprint x)))", :ns "clojure.core.typed.utils", :name "pprint-str", :file "clojure/core/typed/utils.clj", :column 1, :line 342, :arglists ([x])}

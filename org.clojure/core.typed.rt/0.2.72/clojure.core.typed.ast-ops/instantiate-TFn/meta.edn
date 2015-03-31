@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.ast-ops", :name "instantiate-TFn", :file "clojure/core/typed/ast_ops.clj", :type :fn, :src "(defn instantiate-TFn [{:keys [binder body] :as tfn} args]\n  (let [names (map :name binder)]\n    (replace-frees body\n                   (zipmap names args))))", :column 1, :line 93, :arglists ([{:keys [binder body], :as tfn} args])}

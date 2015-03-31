@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rbt", :name "red", :type :var, :src nil, :doc "Trees with a red root\n\n(Red bt bt)\n"}

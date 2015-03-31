@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn Class->symbol [^Class cls]\n  {:pre [(class? cls)]\n   :post [(symbol? %)]}\n  (symbol (.getName cls)))", :ns "clojure.core.typed.current-impl", :name "Class->symbol", :file "clojure/core/typed/current_impl.clj", :column 1, :line 157, :arglists ([cls])}

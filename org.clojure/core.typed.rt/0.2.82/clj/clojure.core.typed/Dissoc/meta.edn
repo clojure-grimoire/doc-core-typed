@@ -1,0 +1,1 @@
+{:clojure.core.typed/special-type true, :ns "clojure.core.typed", :name "Dissoc", :file "clojure/core/typed.clj", :type :var, :src "(def ^{:doc \"A type representing a dissoc operation\"\n       :forms '[(Dissoc type type*)]\n       ::special-type true}\n  Dissoc)", :column 1, :line 1450, :doc "A type representing a dissoc operation", :forms [(Dissoc type type*)]}

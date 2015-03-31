@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro p [name & body]\n  (if (find-ns 'taoensso.timbre.profiling)\n    `(pspy ~name ~@body)\n    `(do ~@body)))", :macro true, :ns "clojure.core.typed.profiling", :name "p", :file "clojure/core/typed/profiling.clj", :column 1, :line 142, :arglists ([name & body])}

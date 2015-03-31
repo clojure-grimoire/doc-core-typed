@@ -1,0 +1,1 @@
+{:type :fn, :src nil, :ns "clojure.core.typed.test.defprotocol", :doc nil, :arglists ([this a]), :name "is-bar"}

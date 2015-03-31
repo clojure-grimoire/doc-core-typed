@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn declare-path-elem [c]\n  (extend c IPathElem {}))", :ns "clojure.core.typed.path-rep", :name "declare-path-elem", :file "clojure/core/typed/path_rep.clj", :column 1, :line 22, :arglists ([c])}

@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn hvector-c? [& ps]\n  (apply every-pred vector?\n         (map (fn [p i] #(p (nth % i false))) ps (range))))", :ns "clojure.core.typed.contract-utils", :name "hvector-c?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 30, :arglists ([& ps])}

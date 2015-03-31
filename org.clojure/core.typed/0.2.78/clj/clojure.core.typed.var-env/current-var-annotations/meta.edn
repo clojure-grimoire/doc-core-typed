@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn current-var-annotations []\n  (let [env *current-var-annotations*]\n    (assert env \"No var annotations env bound\")\n    env))", :ns "clojure.core.typed.var-env", :name "current-var-annotations", :file "clojure/core/typed/var_env.clj", :column 1, :line 28, :arglists ([])}

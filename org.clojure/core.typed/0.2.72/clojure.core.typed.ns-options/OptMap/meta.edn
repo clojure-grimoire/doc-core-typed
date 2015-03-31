@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.ns-options", :name "OptMap", :type :var, :src nil, :doc "\n\n(t/Map t/Sym NsOptions)\n"}

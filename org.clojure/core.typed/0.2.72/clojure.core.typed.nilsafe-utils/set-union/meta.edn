@@ -1,1 +1,0 @@
-{:type :fn, :src "(def set-union (fnil set/union #{}))", :ns "clojure.core.typed.nilsafe-utils", :name "set-union", :file "clojure/core/typed/nilsafe_utils.clj", :column 1, :line 14}

@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.core", :name "bot-tfn1", :file "clojure/core/typed/test/core.clj", :type :fn, :src "(defn bot-tfn1 []\n  (parse-type `(TFn [[~'x :variance :covariant]] Nothing)))", :column 1, :line 3489, :arglists ([])}

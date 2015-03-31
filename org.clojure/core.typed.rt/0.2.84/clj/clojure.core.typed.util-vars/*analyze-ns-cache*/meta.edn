@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.util-vars", :name "*analyze-ns-cache*", :file "clojure/core/typed/util_vars.clj", :type :var, :src "(defonce ^{:doc \"Internal use only\"} ^:skip-wiki ^:dynamic *analyze-ns-cache* nil)", :skip-wiki true, :column 1, :dynamic true, :line 41, :doc "Internal use only"}

@@ -1,1 +1,0 @@
-{:type :macro, :src "(defmacro with-dfrees [fs & args]\n  `(binding [*dotted-scope* (merge *dotted-scope* ~fs)]\n     ~@args))", :macro true, :ns "clojure.core.typed.parse-ast", :name "with-dfrees", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 40, :arglists ([fs & args])}

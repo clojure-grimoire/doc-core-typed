@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/def-filter BotFilter []\n  \"Always false proposition\"\n  []\n  :methods\n  [p/IFilter])", :ns "clojure.core.typed.filter-rep", :name "BotFilter?", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 37, :arglists ([a__2329__auto__])}

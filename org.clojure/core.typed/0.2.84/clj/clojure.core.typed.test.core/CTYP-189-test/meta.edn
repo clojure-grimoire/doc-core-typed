@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-189-test\n  (is-tc-e (for [x :- Int []] :- Int x)))", :ns "clojure.core.typed.test.core", :name "CTYP-189-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 4720, :test #<core$fn__37750 clojure.core.typed.test.core$fn__37750@2d2be9f4>}

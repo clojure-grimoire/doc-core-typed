@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "Ref2", :type :var, :src nil, :doc "A ref that can write type w and read type r.\n\n(TFn\n [[w :variance :contravariant] [r :variance :covariant]]\n (clojure.lang.Ref w r))\n", :forms [(Ref2 w r)]}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest string-methods-test\n  (is-tc-e (.toUpperCase \"a\") \n           String))", :ns "clojure.core.typed.test.core", :name "string-methods-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1270, :test #<core$fn__27449 clojure.core.typed.test.core$fn__27449@568e7b80>}

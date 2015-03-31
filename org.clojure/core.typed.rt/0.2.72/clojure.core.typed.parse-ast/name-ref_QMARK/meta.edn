@@ -1,1 +1,0 @@
-{:type :fn, :src "(def name-ref? (some-fn symbol? (every-pred integer? (complement neg?))))", :ns "clojure.core.typed.parse-ast", :name "name-ref?", :file "clojure/core/typed/parse_ast.clj", :column 1, :line 107}

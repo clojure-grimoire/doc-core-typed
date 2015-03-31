@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.heterogeneous-restarg", :name "het-args", :file "clojure/core/typed/test/heterogeneous_restarg.clj", :type :fn, :src "(defn het-args [a & [b]]\n  (cond b (+ a b)\n        :else a))", :column 1, :line 8, :arglists ([a & [b]])}

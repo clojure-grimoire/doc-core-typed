@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.util-vars", :name "*checked-asts*", :file "clojure/core/typed/util_vars.clj", :type :var, :src "(defonce ^{:doc \"Internal use only\"} ^:skip-wiki ^:dynamic *checked-asts* nil)", :skip-wiki true, :column 1, :dynamic true, :line 42, :doc "Internal use only"}

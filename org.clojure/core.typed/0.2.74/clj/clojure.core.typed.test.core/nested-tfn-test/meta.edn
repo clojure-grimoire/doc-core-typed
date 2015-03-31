@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest nested-tfn-test\n  (is (check-ns 'clojure.core.typed.test.nested-tfn-operator)))", :ns "clojure.core.typed.test.core", :name "nested-tfn-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2513, :test #<core$fn__30330 clojure.core.typed.test.core$fn__30330@499dc05c>}

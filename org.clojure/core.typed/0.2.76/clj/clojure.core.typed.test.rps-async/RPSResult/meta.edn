@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.rps-async", :name "RPSResult", :type :var, :src nil, :doc "The result of a rock-paper-scissors match.\n  A 3 place vector of the two player moves, and the winner\n\n'[PlayerMove PlayerMove PlayerName]\n"}

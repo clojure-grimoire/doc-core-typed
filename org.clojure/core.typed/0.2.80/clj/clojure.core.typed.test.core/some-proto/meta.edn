@@ -1,0 +1,1 @@
+{:type :var, :src " (defprotocol some-proto (some-proto-method [_]))", :doc nil, :ns "clojure.core.typed.test.core", :name "some-proto", :file "clojure/core/typed/test/core.clj", :column 2, :line 1097}

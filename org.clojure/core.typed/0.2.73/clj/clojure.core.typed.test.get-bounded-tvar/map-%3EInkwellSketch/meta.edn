@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord InkwellSketch [running?])", :ns "clojure.core.typed.test.get-bounded-tvar", :name "map->InkwellSketch", :file "clojure/core/typed/test/get_bounded_tvar.clj", :column 1, :line 7, :arglists ([m__6206__auto__]), :doc "Factory function for class clojure.core.typed.test.get_bounded_tvar.InkwellSketch, taking a map of keywords to field values."}

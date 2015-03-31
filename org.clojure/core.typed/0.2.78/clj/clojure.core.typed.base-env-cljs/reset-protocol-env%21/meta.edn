@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-protocol-env! []\n  (impl/with-cljs-impl\n    ((impl/v 'clojure.core.typed.protocol-env/reset-protocol-env!)\n     (init-protocol-env))))", :ns "clojure.core.typed.base-env-cljs", :name "reset-protocol-env!", :file "clojure/core/typed/base_env_cljs.clj", :column 1, :line 73, :arglists ([])}

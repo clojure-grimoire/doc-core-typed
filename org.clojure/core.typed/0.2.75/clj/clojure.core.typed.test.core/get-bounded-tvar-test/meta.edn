@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest get-bounded-tvar-test\n  (is (check-ns 'clojure.core.typed.test.get-bounded-tvar)))", :ns "clojure.core.typed.test.core", :name "get-bounded-tvar-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2947, :test #<core$fn__31505 clojure.core.typed.test.core$fn__31505@689ca682>}

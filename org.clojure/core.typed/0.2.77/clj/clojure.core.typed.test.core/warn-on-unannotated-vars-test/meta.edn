@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest warn-on-unannotated-vars-test\n  (is (check-ns 'clojure.core.typed.test.warn-on-unannotated-var)))", :ns "clojure.core.typed.test.core", :name "warn-on-unannotated-vars-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1427, :test #<core$fn__27814 clojure.core.typed.test.core$fn__27814@20b59164>}

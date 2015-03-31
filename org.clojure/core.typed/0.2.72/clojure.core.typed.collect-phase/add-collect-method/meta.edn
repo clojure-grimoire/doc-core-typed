@@ -1,1 +1,0 @@
-{:type :macro, :src "(u/add-defmethod-generator collect)", :macro true, :ns "clojure.core.typed.collect-phase", :name "add-collect-method", :file "clojure/core/typed/collect_phase.clj", :column 1, :line 107, :arglists ([nme params & body])}

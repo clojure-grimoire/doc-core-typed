@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.pred-hmap", :name "in-the-barn", :file "clojure/core/typed/test/pred_hmap.clj", :type :var, :src "(def in-the-barn [{:type :cow} {:type :pig}])", :column 1, :line 9}

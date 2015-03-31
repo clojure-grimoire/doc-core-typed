@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "SequentialSeqable", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "A sequential, seqable collection. Seq's aren't always Sequential.", :forms [(SequentialSeqable t)]}

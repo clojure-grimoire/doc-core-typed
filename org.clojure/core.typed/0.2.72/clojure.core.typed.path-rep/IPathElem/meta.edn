@@ -1,1 +1,0 @@
-{:type :var, :src "(u/defprotocol IPathElem)", :doc nil, :ns "clojure.core.typed.path-rep", :name "IPathElem", :file "clojure/core/typed/path_rep.clj", :column 1, :line 15}

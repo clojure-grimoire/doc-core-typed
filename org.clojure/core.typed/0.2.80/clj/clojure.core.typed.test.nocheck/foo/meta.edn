@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.nocheck", :name "foo", :file "clojure/core/typed/test/nocheck.clj", :type :fn, :src "(defn foo [a]\n  'a)", :column 1, :line 5, :arglists ([a])}

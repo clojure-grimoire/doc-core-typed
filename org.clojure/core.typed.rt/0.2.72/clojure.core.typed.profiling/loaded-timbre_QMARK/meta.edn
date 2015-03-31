@@ -1,1 +1,0 @@
-{:type :var, :src "(def loaded-timbre?\n  (try \n    (require '[taoensso.timbre.profiling])\n    true\n    (catch Throwable e\n      false)))", :ns "clojure.core.typed.profiling", :name "loaded-timbre?", :file "clojure/core/typed/profiling.clj", :column 1, :line 134}

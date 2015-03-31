@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest map-literal-test\n  (is-tc-e {:bar :b}\n           '{:bar ':b})\n  ;correctly generalise\n  (is-tc-e {(ann-form :bar Kw) :b}\n           (Map Kw ':b)))", :ns "clojure.core.typed.test.core", :name "map-literal-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 1045, :test #<core$fn__26731 clojure.core.typed.test.core$fn__26731@78348b5c>}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(defrecord VerticalLine [p l])", :ns "clojure.core.typed.test.records2", :name "->VerticalLine", :file "clojure/core/typed/test/records2.clj", :column 1, :line 10, :arglists ([p l]), :doc "Positional factory function for class clojure.core.typed.test.records2.VerticalLine."}

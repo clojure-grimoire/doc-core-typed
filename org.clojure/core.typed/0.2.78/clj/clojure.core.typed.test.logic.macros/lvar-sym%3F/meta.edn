@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "lvar-sym?", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn lvar-sym? [s]\n  (and (symbol? s)\n       (not= s '.)\n       (not (contains? *locals* s))))", :column 1, :line 255, :arglists ([s])}

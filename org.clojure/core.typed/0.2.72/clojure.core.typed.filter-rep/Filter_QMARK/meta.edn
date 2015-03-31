@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn Filter? [a]\n  (p/IFilter? a))", :ns "clojure.core.typed.filter-rep", :name "Filter?", :file "clojure/core/typed/filter_rep.clj", :column 1, :line 33, :arglists ([a])}

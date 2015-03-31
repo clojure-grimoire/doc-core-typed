@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "BlockingDeref", :file "clojure/core/typed.clj", :type :var, :src "(init-aliases)", :column 1, :line 1490, :declared true, :doc "A Clojure blocking derefable (see clojure.core/deref).", :forms [(BlockingDeref t)]}

@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.ast-ops", :name "rseqv", :file "clojure/core/typed/ast_ops.clj", :type :fn, :src "(defn rseqv\n  \"Same as (comp vec rseq)\"\n  [v]\n  (vec (rseq v)))", :column 1, :line 40, :arglists ([v]), :doc "Same as (comp vec rseq)"}

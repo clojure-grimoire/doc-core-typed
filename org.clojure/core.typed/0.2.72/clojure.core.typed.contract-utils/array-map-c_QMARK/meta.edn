@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn array-map-c? [ks-c? vs-c?]\n  (every-pred #(instance? clojure.lang.PersistentArrayMap %)\n              #(every? ks-c? (keys %))\n              #(every? vs-c? (vals %))))", :ns "clojure.core.typed.contract-utils", :name "array-map-c?", :file "clojure/core/typed/contract_utils.clj", :column 1, :line 34, :arglists ([ks-c? vs-c?])}

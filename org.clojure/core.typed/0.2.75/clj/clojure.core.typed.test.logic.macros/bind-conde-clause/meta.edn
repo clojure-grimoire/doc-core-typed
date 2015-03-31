@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.logic.macros", :name "bind-conde-clause", :file "clojure/core/typed/test/logic/macros.clj", :type :fn, :src "(defn bind-conde-clause [a]\n  (fn [g-rest]\n    `(bind* ~a ~@g-rest)))", :column 1, :line 13, :arglists ([a])}

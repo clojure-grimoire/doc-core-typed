@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.tvar-bnds", :name "TVarBndsEnv", :type :var, :src nil, :doc "A map from (fresh) type variable names (symbols) to\n  their bounds.\n\n(t/Map t/Symbol Bounds)\n"}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-42\n  (is (check-ns 'clojure.core.typed.test.succeed.CTYP-42-record-extend-protocol)))", :ns "clojure.core.typed.test.core", :name "CTYP-42", :file "clojure/core/typed/test/core.clj", :column 1, :line 1918, :test #<core$fn__28462 clojure.core.typed.test.core$fn__28462@17f8ec8d>}

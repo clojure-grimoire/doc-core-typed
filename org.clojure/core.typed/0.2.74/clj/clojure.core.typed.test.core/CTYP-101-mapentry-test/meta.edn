@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-101-mapentry-test\n  (is (check-ns 'clojure.core.typed.test.CTYP-101-mapentry)))", :ns "clojure.core.typed.test.core", :name "CTYP-101-mapentry-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2648, :test #<core$fn__30859 clojure.core.typed.test.core$fn__30859@400d590>}

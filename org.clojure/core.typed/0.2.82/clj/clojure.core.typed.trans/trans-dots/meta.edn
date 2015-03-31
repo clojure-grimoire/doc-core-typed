@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn trans-dots [t b bm]\n  (fold/fold-rhs ::trans-dots\n                 {:type-rec #(trans-dots % b bm)\n                  :locals {:b b :bm bm}}\n                 t))", :ns "clojure.core.typed.trans", :name "trans-dots", :file "clojure/core/typed/trans.clj", :column 1, :line 19, :arglists ([t b bm])}

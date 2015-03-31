@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.CTYP-83-performance", :name "pf", :file "clojure/core/typed/test/CTYP_83_performance.clj", :type :macro, :src "(defmacro pf [frm]\n  frm\n  #_`(t/print-filterset ~(str frm) ~frm))", :column 1, :line 5, :macro true, :arglists ([frm])}

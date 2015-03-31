@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest defn-test\n  (is-tc-e (defn foo [a :- Number]\n             (inc a))))", :ns "clojure.core.typed.test.core", :name "defn-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 3194, :test #<core$fn__32388 clojure.core.typed.test.core$fn__32388@3f8c064a>}

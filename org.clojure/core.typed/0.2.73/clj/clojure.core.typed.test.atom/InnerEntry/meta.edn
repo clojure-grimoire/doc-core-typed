@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.atom", :name "InnerEntry", :type :var, :src nil, :doc "\n\n'{:c '{:d String}}\n"}

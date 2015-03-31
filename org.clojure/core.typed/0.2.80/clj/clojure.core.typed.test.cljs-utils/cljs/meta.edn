@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.cljs-utils", :name "cljs", :file "clojure/core/typed/test/cljs_utils.clj", :type :macro, :src "(defmacro cljs [& body]\n  `(impl/with-cljs-impl\n     (ucljs/with-cljs-typed-env\n       ~@body)))", :column 1, :line 25, :macro true, :arglists ([& body])}

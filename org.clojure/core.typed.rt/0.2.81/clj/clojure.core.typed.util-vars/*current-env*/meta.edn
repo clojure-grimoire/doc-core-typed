@@ -1,0 +1,1 @@
+{:type :var, :src "(defonce ^:skip-wiki ^:dynamic *current-env* nil)", :ns "clojure.core.typed.util-vars", :name "*current-env*", :file "clojure/core/typed/util_vars.clj", :skip-wiki true, :column 1, :dynamic true, :line 3}

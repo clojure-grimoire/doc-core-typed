@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn resolve-App [^App app]\n  {:pre [(r/App? app)]}\n  (resolve-app* (.rator app) (.rands app)))", :ns "clojure.core.typed.type-ctors", :name "resolve-App", :file "clojure/core/typed/type_ctors.clj", :column 1, :line 1315, :arglists ([app])}

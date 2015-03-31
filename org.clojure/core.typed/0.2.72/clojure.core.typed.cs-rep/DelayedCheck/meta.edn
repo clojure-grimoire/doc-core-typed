@@ -1,1 +1,0 @@
-{:ns "clojure.core.typed.cs-rep", :name "DelayedCheck", :type :var, :src nil, :doc "A pair of types. The left type must be a subtype\n  to the right type at instantiation time.\n\n'[r/Type r/Type]\n"}

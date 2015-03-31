@@ -1,1 +1,0 @@
-{:type :fn, :src "(defn DottedPretype1-maker [pre-type name]\n  (DottedPretype-maker pre-type name 1))", :ns "clojure.core.typed.type-rep", :name "DottedPretype1-maker", :file "clojure/core/typed/type_rep.clj", :column 1, :line 455, :arglists ([pre-type name])}

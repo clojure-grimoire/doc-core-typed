@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.fail.recur-non-seq-rest", :name "recur-args-fail", :file "clojure/core/typed/test/fail/recur_non_seq_rest.clj", :type :fn, :src "(defn recur-args-fail [& args]\n  (recur [1 2 3]))", :column 1, :line 5, :arglists ([& args])}

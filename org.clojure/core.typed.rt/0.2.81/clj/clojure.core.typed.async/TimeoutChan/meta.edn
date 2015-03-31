@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.async", :name "TimeoutChan", :file "clojure/core/typed/async.clj", :type :var, :src "(defalias\n  ^{:forms '[TimeoutChan]}\n  TimeoutChan\n  \"A timeout channel\"\n  (Chan Any))", :column 1, :line 126, :declared true, :doc "A timeout channel", :forms [TimeoutChan]}

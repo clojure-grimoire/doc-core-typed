@@ -1,1 +1,0 @@
-{:type :fn, :src "(u/defrecord cset [maps]\n  \"\"\n  [(every? cset-entry? maps)])", :ns "clojure.core.typed.cs-rep", :name "map->cset", :file "clojure/core/typed/cs_rep.clj", :column 1, :line 142, :arglists ([{:as m__383__auto__, :keys [maps]}]), :doc ""}

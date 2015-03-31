@@ -1,0 +1,1 @@
+{:type :fn, :src "(defn reset-rclass-env! []\n  (rcls/reset-rclass-env! (init-altered-env)))", :ns "clojure.core.typed.base-env-clj-rclass", :name "reset-rclass-env!", :file "clojure/core/typed/base_env_clj_rclass.clj", :column 1, :line 475, :arglists ([])}

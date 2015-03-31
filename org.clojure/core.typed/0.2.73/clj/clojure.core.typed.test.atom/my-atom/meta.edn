@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.atom", :name "my-atom", :file "clojure/core/typed/test/atom.clj", :type :var, :src "(def my-atom (atom 2))", :column 1, :line 7}

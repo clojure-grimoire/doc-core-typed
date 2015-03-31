@@ -1,1 +1,0 @@
-{:type :fn, :src "(deftest def>-test\n  (is (check-ns 'clojure.core.typed.test.def-arrow))\n  (is-tc-e (def> a :- Num 1)\n           (Var1 Num)))", :ns "clojure.core.typed.test.core", :name "def>-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 2375, :test #<core$fn__27907 clojure.core.typed.test.core$fn__27907@7e03d053>}

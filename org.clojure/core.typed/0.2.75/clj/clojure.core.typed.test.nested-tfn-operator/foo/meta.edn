@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed.test.nested-tfn-operator", :name "foo", :file "clojure/core/typed/test/nested_tfn_operator.clj", :type :fn, :src "(defn foo [x]\n  x)", :column 1, :line 12, :arglists ([x])}

@@ -1,0 +1,1 @@
+{:type :fn, :src "(deftest CTYP-169-count-pe-test\n  (is-tc-e (defn f [c :- clojure.lang.Counted] :- t/Int (count c))))", :ns "clojure.core.typed.test.core", :name "CTYP-169-count-pe-test", :file "clojure/core/typed/test/core.clj", :column 1, :line 4439, :test #<core$fn__37154 clojure.core.typed.test.core$fn__37154@5a759c90>}

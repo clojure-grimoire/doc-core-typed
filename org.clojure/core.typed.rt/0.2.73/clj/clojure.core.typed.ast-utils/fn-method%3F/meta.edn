@@ -1,0 +1,1 @@
+{:type :fn, :src "(def fn-method? (fn [m]\n                  (impl/impl-case\n                    :clojure ((every-pred map? (comp #{:fn-method} :op))\n                              m)\n                    :cljs (map? m))))", :ns "clojure.core.typed.ast-utils", :name "fn-method?", :file "clojure/core/typed/ast_utils.clj", :column 1, :line 186}

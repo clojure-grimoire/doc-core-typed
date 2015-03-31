@@ -1,0 +1,1 @@
+{:ns "clojure.core.typed", :name "SortedSet", :type :var, :src nil, :doc "A sorted persistent set with member type x\n\n(TFn\n [[x :variance :covariant]]\n (Extends [(clojure.lang.IPersistentSet x) clojure.lang.Sorted]))\n", :forms [(SortedSet t)]}
